@@ -6,14 +6,14 @@ theme = "hugo-initio"
 [params]
     name = "Music Dataset"
     description = "A database labeling music  with descriptive tags"
-    email = "yiranirenewang@gmail.com"
-    phone = ""
+    email = ""
+    phone = "yiranirenewang@gmail.com"
     address = ""
     year = 2021
-    avatar = "images/.jpg"
+    avatar = "images/avatar.jpg"
     avatarclass = "circle"
     background = ""
-    banner = "images/.jpg"
+    banner = "images/backgroud.jpg"
     favicon = "images/.png"
     DateForm = "August 3, 2021"
     author = "Irene Wang"
@@ -21,20 +21,20 @@ theme = "hugo-initio"
     showSubheader = true
     showServices = true
     showRecentWorks = true
-    showDownloads = true
+    showDownloads = false
     showClients = false
 
     showFooterContact = true
     showFooterFollowMe = true
-    showFooterTextWidget = true
-    showFooterFormWidget = true
+    showFooterTextWidget = false
+    showFooterFormWidget = false
 
 [[menu.main]]
     name = "home"
     url = "/"
     weight = 1
 [[menu.main]]
-    name = "blog"
+    name = "music"
     url = "/post/"
     weight = 5
 
@@ -52,21 +52,21 @@ theme = "hugo-initio"
 	title = "facebook"
 	url = "https://www.facebook.com/nickname"
     icon = "fab fa-facebook-square"
-    footer = true
-    sharethis = true
+    footer = false
+    sharethis = false
     network = "facebook"
 [[params.social]]
 	title = "twitter"
 	url = "https://twitter.com/nickname"
     icon = "fab fa-twitter-square"
-    footer = true
-    sharethis = true
+    footer = false
+    sharethis = false
     network = "twitter"
 [[params.social]]
 	title = "instagram"
 	url = "https://www.instagram.com/nickname"
     icon = "fab fa-instagram"
-    footer = true
+    footer = false
     sharethis = false
     network = ""
 [[params.social]]
@@ -74,14 +74,14 @@ theme = "hugo-initio"
 	url = "https://plus.google.com/+nickname"
     icon = "fab fa-google-plus-square"
     footer = false
-    sharethis = true
+    sharethis = false
     network = "googleplus"
 [[params.social]]
 	title = "linkedin"
 	url = "https://www.linkedin.com/in/nickname"
     icon = "fab fa-linkedin"
     footer = false
-    sharethis = true
+    sharethis = false
     network = "linkedin"
 [[params.social]]
 	title = "tumblr"
@@ -92,15 +92,15 @@ theme = "hugo-initio"
     network = "tumblr"
 [[params.social]]
 	title = "github"
-	url = "https://github.com/nickname"
+	url = "https://github.com/MusicDataset"
     icon = "fab fa-github"
     footer = true
-    sharethis = false
+    sharethis = true
     network = ""
 [[params.social]]
 	title = "email"
-	url = "mailto:some.email@somewhere.com"
+	url = "mailto:yiranirenewang@gmail.com"
     icon = "fas fa-envelope-square"
-    footer = false
+    footer = true
     sharethis = true
     network = "email"
