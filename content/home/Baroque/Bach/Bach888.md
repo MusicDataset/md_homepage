@@ -1,5 +1,5 @@
 +++
-title = "Prelude and Fugue in G-sharp Minor, WTC I, BWV 863"
+title = "Prelude and Fugue in A Major, WTC II, BWV 888"
 composer = ["Bach, Johann Sebastian"]
 
 +++
