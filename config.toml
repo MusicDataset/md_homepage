@@ -3,11 +3,15 @@ languageCode = "en-us"
 title = "Music Dataset"
 theme = "hugo-initio"
 
+[taxonomies]
+  composer = "composers"
+  period = "periods"
+
 [params]
     name = "Music Dataset"
     description = "A database labeling music  with descriptive tags"
     email = ""
-    phone = "musicdataset@gmail.com"
+    phone = "yiranirenewang@gmail.com"
     address = ""
     year = 2021
     avatar = "images/avatar.jpg"
@@ -34,9 +38,17 @@ theme = "hugo-initio"
     url = "/"
     weight = 1
 [[menu.main]]
-    name = "music"
-    url = "/post/"
-    weight = 5
+    name = "musics"
+    url = "/musics/"
+    weight = 2
+[[menu.main]]
+    name = "periods"
+    url = "/periods/"
+    weight = 3
+[[menu.main]]
+    name = "composers"
+    url = "/composers/"
+    weight = 4
 
 [params.disqus]
     site = "hugo-initio-site.disqus.com"

@@ -1,0 +1,71 @@
+{{ define "main" }}
+<main id="main">
+
+	<div class="container">
+
+		<div class="row topspace">
+			<div class="col-sm-8 col-sm-offset-2">
+ 				<article class="post">
+					<header class="entry-header">
+ 						<div class="entry-meta">
+ 						</div>
+ 						<h1 class="entry-title">
+							<a href="{{ .Permalink }}" rel="bookmark">{{ .Title }}</a>
+						</h1>
+					</header>
+					<div class="entry-content">
+						<p>
+							{{ if ne .Params.Wikipedia nil }}
+							<a href="{{ .Params.Wikipedia}}">Wikipedia Introduction</a>
+							{{ end }}
+						</p>
+						<p>
+							{{ if ne .Params.audioURL nil }}
+							<midi-player
+								src="{{ .Params.audioURL }}"
+								sound-font visualizer="#myVisualizer">
+							</midi-player>
+							<midi-visualizer
+								src="{{ .Params.audioURL }}"
+								type="piano-roll" id="myVisualizer">
+							</midi-visualizer>
+							{{ end }}
+						</p>
+						<p>
+							<iframe
+								src="{{ .Params.formURL}}"
+								width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+						</p>
+					</div>
+				</article><!-- #post-## -->
+			</div>
+		</div> <!-- /row post  -->
+
+		<div class="row">
+			<div class="col-sm-8 col-sm-offset-2">
+
+				<div id="share">
+					{{ if .Params.Share }}
+							{{ partial "sharethis.html" . }}
+					{{ end }}
+				</div>
+			</div>
+		</div> <!-- /row share -->
+		<div class="clearfix"></div>
+
+		<div class="row">
+			<div class="col-sm-8 col-sm-offset-2">
+
+				<div id="comments">
+					{{ if .Params.Comments }}
+							{{ partial "disqus.html" . }}
+					{{ end }}
+				</div>
+			</div>
+		</div> <!-- /row comments -->
+		<div class="clearfix"></div>
+
+	</div>	<!-- /container -->
+
+</main>
+{{ end }}

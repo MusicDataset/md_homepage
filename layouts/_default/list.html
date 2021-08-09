@@ -1,0 +1,42 @@
+{{ define "main" }}
+<main id="main">
+
+	<div class="container">
+		<div class="row topspace">
+			<div class="col-sm-8 col-sm-offset-2">
+        {{ range .Paginator.Pages }}
+				<article class="post">
+					<header class="entry-header">
+						<div class="entry-meta">
+						</div>
+						<h1 class="entry-title">
+						  <a href="{{ .Permalink }}" rel="bookmark">{{ .Title }}</a>
+						</h1>
+					</header>
+
+					<div class="entry-content">
+						{{ if ne .Data.Term nil }}
+							<div class="row">
+								{{ range ($.Site.GetPage .Data.Term).Pages }}
+								<div class="col-sm-6 col-md-3">
+									<h3 class="text-center">{{ .Title }}</h3>
+									<p class="text-center"><a href="{{ .Permalink }}" class="btn btn-action">Read more</a></p>
+								</div>
+								{{ end }}
+							</div>
+						{{ end }}
+					</div>
+				</article>
+        {{ end }}
+			</div>
+		</div>
+
+		<center class="">
+			<ul class="pagination">
+        {{ template "_internal/pagination.html" . }}
+			</ul>
+		</center>
+	</div>	<!-- /container -->
+
+</main>
+{{ end }}
