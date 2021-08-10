@@ -1,6 +1,6 @@
 ---
 title: Felix Mendelssohn
 description: This is the description for Felix Mendelssohn
-wikipedia: 
+wikipedia: https://en.wikipedia.org/wiki/Felix_Mendelssohn
 taxonomy_indexes: true
 ---

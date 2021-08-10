@@ -5,5 +5,7 @@ composers: [Frédéric Chopin]
 periods: [Romantic]
 audioURL: https://OpenMusicDataset.github.io/Maestro/maestro-v3.0.0/2013/ORIG-MIDI_02_7_8_13_Group__MID--AUDIO_12_R2_2013_wav--3.midi
 formURL: https://docs.google.com/forms/d/e/1FAIpQLSdQIw_nClkTZtPvbx8vbbRUgzv3rErXGwPBmOD6_QneLZHOyA/viewform
+comments: true
+share: true
 date: 2021-08-08T07:43:13-06:00
 ---

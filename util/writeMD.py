@@ -45,6 +45,8 @@ with open('MaestroV3Dataset.csv') as csv_file:
             music_file_object.write('periods: [' + period + ']\n')
             music_file_object.write('audioURL: ' + midiURL + '\n')
             music_file_object.write('formURL: ' + formURL + '\n')
+            music_file_object.write('comments: true\n')
+            music_file_object.write('share: true\n')
             music_file_object.write('date: 2021-08-08T07:43:13-06:00\n')
             music_file_object.write('---\n')
             music_file_object.close()
@@ -52,15 +54,23 @@ with open('MaestroV3Dataset.csv') as csv_file:
 
             ## Creating the Composer folder and description
             path = '../content/composers/' + composer
+            composer_for_wiki = ''
             if os.path.isdir(path):
                 print(composer + ' already exists')
             else:
                 os.mkdir(path)
+                for x in range (0, len(composer), 1):
+                    if composer[x] == '/':
+                        pass
+                    else:
+                        composer_for_wiki = composer_for_wiki + composer[x]
+                composer_for_wiki = composer_for_wiki.replace(' ', '_')
+                wiki_url = 'https://en.wikipedia.org/wiki/' + composer_for_wiki
                 composer_file_object = open(path + '/_index.md', 'w')
                 composer_file_object.write('---\n')
                 composer_file_object.write('title: ' + composer + '\n')
                 composer_file_object.write('description: This is the description for ' + composer + '\n')
-                composer_file_object.write('wikipedia: \n')
+                composer_file_object.write('wikipedia: ' + wiki_url + '\n')
                 composer_file_object.write('taxonomy_indexes: true\n')
                 composer_file_object.write('---\n')
                 composer_file_object.close()

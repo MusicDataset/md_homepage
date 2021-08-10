@@ -1,4 +1,4 @@
-baseURL = "http://MusicDataset.github.io/"
+baseURL = ""
 languageCode = "en-us"
 title = "Music Dataset"
 theme = "hugo-initio"
@@ -14,10 +14,10 @@ theme = "hugo-initio"
     phone = "yiranirenewang@gmail.com"
     address = ""
     year = 2021
-    avatar = "images/avatar.jpg"
+    avatar = "/images/avatar.jpg"
     avatarclass = "circle"
     background = ""
-    banner = "images/backgroud.jpg"
+    banner = "/images/backgroud.jpg"
     favicon = "images/.png"
     DateForm = "August 3, 2021"
     author = "Irene Wang"
@@ -51,7 +51,7 @@ theme = "hugo-initio"
     weight = 4
 
 [params.disqus]
-    site = "hugo-initio-site.disqus.com"
+    site = "https-MusicDataset-github-io.disqus.com"
 
 [params.sharethis]
     property = "123456789012345678901234"

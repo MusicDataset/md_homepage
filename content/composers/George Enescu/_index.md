@@ -1,6 +1,6 @@
 ---
 title: George Enescu
 description: This is the description for George Enescu
-wikipedia: 
+wikipedia: https://en.wikipedia.org/wiki/George_Enescu
 taxonomy_indexes: true
 ---

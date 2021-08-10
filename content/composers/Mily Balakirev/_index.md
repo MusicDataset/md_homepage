@@ -1,6 +1,6 @@
 ---
 title: Mily Balakirev
 description: This is the description for Mily Balakirev
-wikipedia: 
+wikipedia: https://en.wikipedia.org/wiki/Mily_Balakirev
 taxonomy_indexes: true
 ---
