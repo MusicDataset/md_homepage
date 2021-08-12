@@ -10,8 +10,8 @@ theme = "hugo-initio"
 [params]
     name = "Music Dataset"
     description = "A database labeling music  with descriptive tags"
-    email = ""
-    phone = "yiranirenewang@gmail.com"
+    email = "MusicDataset@gmail.com"
+    phone = ""
     address = ""
     year = 2021
     avatar = "/images/avatar.jpg"
@@ -50,15 +50,15 @@ theme = "hugo-initio"
     url = "/composers/"
     weight = 4
 
-[params.disqus]
-    site = "https-MusicDataset-github-io.disqus.com"
+#[params.disqus]
+    #site = "https-MusicDataset-github-io.disqus.com"
 
 [params.sharethis]
     property = "123456789012345678901234"
     custom = true
 
 [params.google.analytics]
-    trackerID = "GA-000000000-0"
+    trackerID = "G-TS4B8DJ4JY"
 
 [[params.social]]
 	title = "facebook"
@@ -111,7 +111,7 @@ theme = "hugo-initio"
     network = ""
 [[params.social]]
 	title = "email"
-	url = "mailto:yiranirenewang@gmail.com"
+	url = "mailto:MusicDataset@gmail.com"
     icon = "fas fa-envelope-square"
     footer = true
     sharethis = true
