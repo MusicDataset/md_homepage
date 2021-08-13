@@ -1,11 +1,17 @@
-
 # Music dataset
 
-### Purpose
-Music Dataset is a platform that collects people's emotional responses after listening to classical music. By labeling music with certain tags, I hope the dataset can solve the complexity involved in the abstract components of music, thus allowing it to be analyzed and classified by computer. The ultimate aim is to improve the field of music machine learning by providing a dataset for training.
+### Why Music Dataset?
+Music Dataset is an free, public online platform that hopes to solve the subjecivity in music by collecting response of abstract components in classical music from a variety of audience. It seeks to take advantage the online setting where people from all over the world can be easily connected through one projects. The viewers are asked to place descriptive tags onto music according to the unique response that the particular repotoires evokes in them. Qualities of music, such as the emotion, valence, or excitement level that it is able to bring to the listener, once ambigious and objective, can become specific measurements gvien to music using the help of the general community.
+
+While image classification and recognition have grown increasingly robust in recent years, the field of processing of music using deep learning are still relatively new.
+
+This is due to the amount complexity involved in music. In general, music includes concrete components (e.g. rhythm, tempo, time signature, pitch, key, and tonality) and abstract components (e.g. texture, dynamics, articulation, and timbre). The concret components are straight forward and objective in terms of measurement values and data collection. On the other hand, the abstract component is more subjective and lacks standard of measurement.  As a result, making datasets of subjective and abstract qualities of songs, a critical component of making music accessible to deep learning training, is difficult to achieve.
+
+By labeling the music, I hope the dataset can solve the complexity involved in the abstract components of music, thus allowing it to be analyzed and classified by computer. The ultimate aim is to improve the field of music machine learning by providing a dataset for training.
+
 
 ### How to use it?
-The repertoires in this dataset have been sorted for easy find:
+So far, the dataset includes 1,276 reportoires, each paired with form that collects responses about the music. They have been sorted for easy find by:
 1. The first letter of their title in the alphabetical order
 2. The music period from which their composer lived in:
    1. Baroque (1600 - 1750)
@@ -20,13 +26,17 @@ To contribute to the dataset, you can select a composing genre, artist, or perio
 To access the dataset, feel free to email me at MusicDataset@gmail.com.
 
 ### Background
-Music Dataset is created by a high school student passionate about both music and computer science, who is seeking ways to combine these two fields and wishing to make an impact.
+Music Dataset is created by a girl passionate about both music and computer science. I have been playing the piano for more than 11 years and am seeking ways to combine these two fields and wishing to make an impact.
 
-The idea was created when the student was working on a music generation model that uses machine learning. She wished to allow the user to input specific characteristics they want in the music, and to achieve that, a curated training data must first be created for data pre-processing. She believes the current music generation models can be greatly improved to become more customizable if a dataset with specific labels are created. Then, when a user prompts for a certain characteristic as input, only songs with corresponding tags would be fed into the training model, and the output result would follow the desire of the user.
+The idea was created when the student was working on a music generation model that uses machine learning. I wished to allow the user to input specific characteristics they want in the music, and to achieve that, a curated training data must first be created for data pre-processing. I believe the current music generation models can be greatly improved to become more customizable if a dataset with specific labels are created. Then, when a user prompts for a certain characteristic as input, only songs with corresponding tags would be fed into the training model, and the output result would follow the desire of the user.
 
 While researching about plausible labels to gave to the dataset, I came about the article ["What music makes us feel: At least 13 dimensions organize subjective experiences associated with music across different cultures"](https://www.pnas.org/content/117/4/1924) written by UC Berkeley researchers. This inspired the first three questions in my survey, asking for the emotion (categorized into 13 feelings: amusement, joy, eroticism, beauty, relaxation, sadness, dreaminess, triumph, anxiety, scariness, annoyance, defiance, and feeling pumped up), valence, and excitement level upon hearing a piece of music. Further questions ask for the difficulty levels about these songs, to better sort the dataset as input to the music generation machine learning model, as the input directly determines the style of the output.
 
-[comment]: <like piano, evokes emotion, how this project's idea was started, why not name it music net?>
+
+[comment]: <In researching about dataset for music machine learning, I came across another music dataset called [MusicNet](https://homes.cs.washington.edu/~thickstn/musicnet.html). However, our aim
+
+In the future, I might also like to include other instruments into the dataset,
+like piano, evokes emotion, how this project's idea was started, why not name it music net?>
 
 
 ### Future improvements
