@@ -1,5 +1,5 @@
 ---
-title: Nikolai Rimsky-Korsakov _ Sergei Rachmaninoff - The Flight of the Bunble-Bee (1)
+title: The Flight of the Bunble-Bee (1)
 description: This is the description for The Flight of the Bunble-Bee by Nikolai Rimsky-Korsakov _ Sergei Rachmaninoff
 composers: [Nikolai Rimsky-Korsakov _ Sergei Rachmaninoff]
 periods: [Romantic]

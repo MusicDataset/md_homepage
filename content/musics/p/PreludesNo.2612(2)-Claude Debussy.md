@@ -1,5 +1,5 @@
 ---
-title: Claude Debussy - Preludes No. 2 6 12 (2)
+title: Preludes No. 2 6 12 (2)
 description: This is the description for Preludes No. 2 6 12 by Claude Debussy
 composers: [Claude Debussy]
 periods: [Impressionism]

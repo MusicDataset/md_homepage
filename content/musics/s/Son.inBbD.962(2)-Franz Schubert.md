@@ -1,5 +1,5 @@
 ---
-title: Franz Schubert - Son. in Bb D.962 (2)
+title: Son. in Bb D.962 (2)
 description: This is the description for Son. in Bb D.962 by Franz Schubert
 composers: [Franz Schubert]
 periods: [Romantic]

@@ -1,5 +1,5 @@
 ---
-title: Ludwig van Beethoven - Sonata No. 15 in D Major Op. 28 I. Allegro (1)
+title: Sonata No. 15 in D Major Op. 28 I. Allegro (1)
 description: This is the description for Sonata No. 15 in D Major Op. 28 I. Allegro by Ludwig van Beethoven
 composers: [Ludwig van Beethoven]
 periods: [Classical]

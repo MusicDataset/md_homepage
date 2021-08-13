@@ -1,5 +1,5 @@
 ---
-title: Franz Schubert - Sonata in D Major D. 850 (Complete) (1)
+title: Sonata in D Major D. 850 (Complete) (1)
 description: This is the description for Sonata in D Major D. 850 (Complete) by Franz Schubert
 composers: [Franz Schubert]
 periods: [Romantic]

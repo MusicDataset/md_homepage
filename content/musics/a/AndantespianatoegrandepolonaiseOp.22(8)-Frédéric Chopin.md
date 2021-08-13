@@ -1,5 +1,5 @@
 ---
-title: Frédéric Chopin - Andante spianato e grande polonaise Op. 22 (8)
+title: Andante spianato e grande polonaise Op. 22 (8)
 description: This is the description for Andante spianato e grande polonaise Op. 22 by Frédéric Chopin
 composers: [Frédéric Chopin]
 periods: [Romantic]

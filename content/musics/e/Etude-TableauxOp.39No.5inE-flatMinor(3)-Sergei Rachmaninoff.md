@@ -1,5 +1,5 @@
 ---
-title: Sergei Rachmaninoff - Etude-Tableaux Op. 39 No. 5 in E-flat Minor (3)
+title: Etude-Tableaux Op. 39 No. 5 in E-flat Minor (3)
 description: This is the description for Etude-Tableaux Op. 39 No. 5 in E-flat Minor by Sergei Rachmaninoff
 composers: [Sergei Rachmaninoff]
 periods: [Romantic]

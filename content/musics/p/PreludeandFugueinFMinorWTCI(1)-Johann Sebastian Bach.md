@@ -1,5 +1,5 @@
 ---
-title: Johann Sebastian Bach - Prelude and Fugue in F Minor WTC I (1)
+title: Prelude and Fugue in F Minor WTC I (1)
 description: This is the description for Prelude and Fugue in F Minor WTC I by Johann Sebastian Bach
 composers: [Johann Sebastian Bach]
 periods: [Baroque]

@@ -1,5 +1,5 @@
 ---
-title: Frédéric Chopin - Etude Op. 10 No. 4 in C-Sharp Minor (3)
+title: Etude Op. 10 No. 4 in C-Sharp Minor (3)
 description: This is the description for Etude Op. 10 No. 4 in C-Sharp Minor by Frédéric Chopin
 composers: [Frédéric Chopin]
 periods: [Romantic]

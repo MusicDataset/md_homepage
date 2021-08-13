@@ -1,5 +1,5 @@
 ---
-title: Johann Sebastian Bach - Italian Concerto BWV 971 (1)
+title: Italian Concerto BWV 971 (1)
 description: This is the description for Italian Concerto BWV 971 by Johann Sebastian Bach
 composers: [Johann Sebastian Bach]
 periods: [Baroque]

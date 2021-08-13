@@ -1,5 +1,5 @@
 ---
-title: Frédéric Chopin - Etudes Op. 10 Nos. 8 (1)
+title: Etudes Op. 10 Nos. 8 (1)
 description: This is the description for Etudes Op. 10 Nos. 8 by Frédéric Chopin
 composers: [Frédéric Chopin]
 periods: [Romantic]

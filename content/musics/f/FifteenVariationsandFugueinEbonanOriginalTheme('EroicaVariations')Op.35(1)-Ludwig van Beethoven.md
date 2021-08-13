@@ -1,5 +1,5 @@
 ---
-title: Ludwig van Beethoven - Fifteen Variations and Fugue in Eb on an Original Theme ('Eroica Variations') Op.35 (1)
+title: Fifteen Variations and Fugue in Eb on an Original Theme ('Eroica Variations') Op.35 (1)
 description: This is the description for Fifteen Variations and Fugue in Eb on an Original Theme ('Eroica Variations') Op.35 by Ludwig van Beethoven
 composers: [Ludwig van Beethoven]
 periods: [Classical]

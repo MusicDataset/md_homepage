@@ -1,5 +1,5 @@
 ---
-title: Isaac Albéniz - Iberia Evocation Triana (2)
+title: Iberia Evocation Triana (2)
 description: This is the description for Iberia Evocation Triana by Isaac Albéniz
 composers: [Isaac Albéniz]
 periods: [Romantic]

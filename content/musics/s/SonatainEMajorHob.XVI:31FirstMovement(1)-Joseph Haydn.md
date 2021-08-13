@@ -1,5 +1,5 @@
 ---
-title: Joseph Haydn - Sonata in E Major Hob. XVI31 First Movement (1)
+title: Sonata in E Major Hob. XVI31 First Movement (1)
 description: This is the description for Sonata in E Major Hob. XVI31 First Movement by Joseph Haydn
 composers: [Joseph Haydn]
 periods: [Classical]

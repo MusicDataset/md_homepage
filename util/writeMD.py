@@ -39,7 +39,7 @@ with open('MaestroV3Dataset.csv') as csv_file:
             ## Writing the music file
             music_file_object = open(path + "/" + music_file_name, "w")
             music_file_object.write('---\n')
-            music_file_object.write('title: ' + composer + ' - ' + title_motified + ' (' + formID  + ')\n')
+            music_file_object.write('title: ' + title_motified + ' (' + formID  + ')\n')
             music_file_object.write('description: This is the description for ' + title_motified + ' by ' + composer +'\n')
             music_file_object.write('composers: [' + composer + ']\n')
             music_file_object.write('periods: [' + period + ']\n')

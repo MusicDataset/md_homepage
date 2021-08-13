@@ -1,5 +1,5 @@
 ---
-title: Franz Liszt - Annes de Pelerinage III Le jeux d'eau a la Villa d'Este (1)
+title: Annes de Pelerinage III Le jeux d'eau a la Villa d'Este (1)
 description: This is the description for Annes de Pelerinage III Le jeux d'eau a la Villa d'Este by Franz Liszt
 composers: [Franz Liszt]
 periods: [Romantic]

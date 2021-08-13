@@ -1,5 +1,5 @@
 ---
-title: Frédéric Chopin - Scherzo No. 3 (1)
+title: Scherzo No. 3 (1)
 description: This is the description for Scherzo No. 3 by Frédéric Chopin
 composers: [Frédéric Chopin]
 periods: [Romantic]

@@ -1,5 +1,5 @@
 ---
-title: Wolfgang Amadeus Mozart - Nine variations on a minuet by Duport K537 (1)
+title: Nine variations on a minuet by Duport K537 (1)
 description: This is the description for Nine variations on a minuet by Duport K537 by Wolfgang Amadeus Mozart
 composers: [Wolfgang Amadeus Mozart]
 periods: [Classical]

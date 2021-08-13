@@ -1,5 +1,5 @@
 ---
-title: Johann Sebastian Bach - Prelude and Fugue in C-sharp Major BWV 848 (4)
+title: Prelude and Fugue in C-sharp Major BWV 848 (4)
 description: This is the description for Prelude and Fugue in C-sharp Major BWV 848 by Johann Sebastian Bach
 composers: [Johann Sebastian Bach]
 periods: [Baroque]

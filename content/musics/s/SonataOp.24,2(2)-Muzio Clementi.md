@@ -1,5 +1,5 @@
 ---
-title: Muzio Clementi - Sonata Op. 24/2 (2)
+title: Sonata Op. 24/2 (2)
 description: This is the description for Sonata Op. 24/2 by Muzio Clementi
 composers: [Muzio Clementi]
 periods: [Classical]

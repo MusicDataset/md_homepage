@@ -1,5 +1,5 @@
 ---
-title: Sergei Rachmaninoff - Etude-Tableaux Opus 33 No. 3 in C Minor (1)
+title: Etude-Tableaux Opus 33 No. 3 in C Minor (1)
 description: This is the description for Etude-Tableaux Opus 33 No. 3 in C Minor by Sergei Rachmaninoff
 composers: [Sergei Rachmaninoff]
 periods: [Romantic]

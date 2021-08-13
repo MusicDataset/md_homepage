@@ -1,5 +1,5 @@
 ---
-title: Johann Sebastian Bach _ Franz Liszt - Var. on BACH (1)
+title: Var. on BACH (1)
 description: This is the description for Var. on BACH by Johann Sebastian Bach _ Franz Liszt
 composers: [Johann Sebastian Bach _ Franz Liszt]
 periods: [Baroque]

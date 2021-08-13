@@ -1,5 +1,5 @@
 ---
-title: Claude Debussy - PreludesBII. 7-12 (1)
+title: PreludesBII. 7-12 (1)
 description: This is the description for PreludesBII. 7-12 by Claude Debussy
 composers: [Claude Debussy]
 periods: [Impressionism]

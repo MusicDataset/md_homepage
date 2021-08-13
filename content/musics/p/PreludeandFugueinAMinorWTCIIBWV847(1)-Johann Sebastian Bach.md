@@ -1,5 +1,5 @@
 ---
-title: Johann Sebastian Bach - Prelude and Fugue in A Minor WTC II BWV 847 (1)
+title: Prelude and Fugue in A Minor WTC II BWV 847 (1)
 description: This is the description for Prelude and Fugue in A Minor WTC II BWV 847 by Johann Sebastian Bach
 composers: [Johann Sebastian Bach]
 periods: [Baroque]

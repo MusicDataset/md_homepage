@@ -1,5 +1,5 @@
 ---
-title: Frédéric Chopin - Ballade 4 Op. 52 (1)
+title: Ballade 4 Op. 52 (1)
 description: This is the description for Ballade 4 Op. 52 by Frédéric Chopin
 composers: [Frédéric Chopin]
 periods: [Romantic]

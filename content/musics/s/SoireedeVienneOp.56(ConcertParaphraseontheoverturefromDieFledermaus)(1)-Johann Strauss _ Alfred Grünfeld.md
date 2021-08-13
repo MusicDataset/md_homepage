@@ -1,5 +1,5 @@
 ---
-title: Johann Strauss _ Alfred Grünfeld - Soiree de Vienne Op. 56 (Concert Paraphrase on the overture from Die Fledermaus) (1)
+title: Soiree de Vienne Op. 56 (Concert Paraphrase on the overture from Die Fledermaus) (1)
 description: This is the description for Soiree de Vienne Op. 56 (Concert Paraphrase on the overture from Die Fledermaus) by Johann Strauss _ Alfred Grünfeld
 composers: [Johann Strauss _ Alfred Grünfeld]
 periods: [Baroque]

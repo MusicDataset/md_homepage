@@ -1,5 +1,5 @@
 ---
-title: Franz Liszt _ Camille Saint-Saëns - Danse Macabre S555/R240 (1)
+title: Danse Macabre S555/R240 (1)
 description: This is the description for Danse Macabre S555/R240 by Franz Liszt _ Camille Saint-Saëns
 composers: [Franz Liszt _ Camille Saint-Saëns]
 periods: [Romantic]

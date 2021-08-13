@@ -1,5 +1,5 @@
 ---
-title: Franz Liszt - Venezia e Napoli S. 162 (1)
+title: Venezia e Napoli S. 162 (1)
 description: This is the description for Venezia e Napoli S. 162 by Franz Liszt
 composers: [Franz Liszt]
 periods: [Romantic]

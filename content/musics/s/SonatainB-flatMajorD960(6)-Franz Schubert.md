@@ -1,5 +1,5 @@
 ---
-title: Franz Schubert - Sonata in B-flat Major D960 (6)
+title: Sonata in B-flat Major D960 (6)
 description: This is the description for Sonata in B-flat Major D960 by Franz Schubert
 composers: [Franz Schubert]
 periods: [Romantic]

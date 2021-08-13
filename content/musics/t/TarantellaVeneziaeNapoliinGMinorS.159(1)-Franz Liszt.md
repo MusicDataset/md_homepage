@@ -1,5 +1,5 @@
 ---
-title: Franz Liszt - Tarantella Venezia e Napoli in G Minor S.159 (1)
+title: Tarantella Venezia e Napoli in G Minor S.159 (1)
 description: This is the description for Tarantella Venezia e Napoli in G Minor S.159 by Franz Liszt
 composers: [Franz Liszt]
 periods: [Romantic]

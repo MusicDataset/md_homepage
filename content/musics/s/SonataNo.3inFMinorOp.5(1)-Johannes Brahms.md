@@ -1,5 +1,5 @@
 ---
-title: Johannes Brahms - Sonata No. 3 in F Minor Op. 5 (1)
+title: Sonata No. 3 in F Minor Op. 5 (1)
 description: This is the description for Sonata No. 3 in F Minor Op. 5 by Johannes Brahms
 composers: [Johannes Brahms]
 periods: [Romantic]

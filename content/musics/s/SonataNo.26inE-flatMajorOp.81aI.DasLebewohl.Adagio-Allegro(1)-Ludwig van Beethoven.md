@@ -1,5 +1,5 @@
 ---
-title: Ludwig van Beethoven - Sonata No. 26 in E-flat Major Op. 81a I. Das Lebewohl. Adagio - Allegro (1)
+title: Sonata No. 26 in E-flat Major Op. 81a I. Das Lebewohl. Adagio - Allegro (1)
 description: This is the description for Sonata No. 26 in E-flat Major Op. 81a I. Das Lebewohl. Adagio - Allegro by Ludwig van Beethoven
 composers: [Ludwig van Beethoven]
 periods: [Classical]

@@ -1,5 +1,5 @@
 ---
-title: Claude Debussy - Four Preludes (1)
+title: Four Preludes (1)
 description: This is the description for Four Preludes by Claude Debussy
 composers: [Claude Debussy]
 periods: [Impressionism]

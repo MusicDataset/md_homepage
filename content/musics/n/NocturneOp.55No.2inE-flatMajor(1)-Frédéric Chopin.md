@@ -1,5 +1,5 @@
 ---
-title: Frédéric Chopin - Nocturne Op. 55 No. 2 in E-flat Major (1)
+title: Nocturne Op. 55 No. 2 in E-flat Major (1)
 description: This is the description for Nocturne Op. 55 No. 2 in E-flat Major by Frédéric Chopin
 composers: [Frédéric Chopin]
 periods: [Romantic]

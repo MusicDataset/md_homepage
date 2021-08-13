@@ -1,5 +1,5 @@
 ---
-title: Ludwig van Beethoven - Sonata No. 16 Op. 31 No. 1 in G Major I. Allegro vivace (2)
+title: Sonata No. 16 Op. 31 No. 1 in G Major I. Allegro vivace (2)
 description: This is the description for Sonata No. 16 Op. 31 No. 1 in G Major I. Allegro vivace by Ludwig van Beethoven
 composers: [Ludwig van Beethoven]
 periods: [Classical]

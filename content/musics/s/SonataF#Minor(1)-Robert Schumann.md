@@ -1,5 +1,5 @@
 ---
-title: Robert Schumann - Sonata F# Minor (1)
+title: Sonata F# Minor (1)
 description: This is the description for Sonata F# Minor by Robert Schumann
 composers: [Robert Schumann]
 periods: [Romantic]

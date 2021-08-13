@@ -1,5 +1,5 @@
 ---
-title: Wolfgang Amadeus Mozart - Sonata in C Minor K. 457 1st mov. (3)
+title: Sonata in C Minor K. 457 1st mov. (3)
 description: This is the description for Sonata in C Minor K. 457 1st mov. by Wolfgang Amadeus Mozart
 composers: [Wolfgang Amadeus Mozart]
 periods: [Classical]

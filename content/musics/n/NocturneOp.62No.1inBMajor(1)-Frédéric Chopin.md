@@ -1,5 +1,5 @@
 ---
-title: Frédéric Chopin - Nocturne Op. 62 No. 1 in B Major (1)
+title: Nocturne Op. 62 No. 1 in B Major (1)
 description: This is the description for Nocturne Op. 62 No. 1 in B Major by Frédéric Chopin
 composers: [Frédéric Chopin]
 periods: [Romantic]

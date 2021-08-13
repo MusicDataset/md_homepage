@@ -1,5 +1,5 @@
 ---
-title: Joseph Haydn - Son. Hob. XVI32 (1)
+title: Son. Hob. XVI32 (1)
 description: This is the description for Son. Hob. XVI32 by Joseph Haydn
 composers: [Joseph Haydn]
 periods: [Classical]

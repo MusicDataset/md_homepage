@@ -1,5 +1,5 @@
 ---
-title: Claude Debussy - Images Book II "Poissons d'or" (1)
+title: Images Book II "Poissons d'or" (1)
 description: This is the description for Images Book II "Poissons d'or" by Claude Debussy
 composers: [Claude Debussy]
 periods: [Impressionism]

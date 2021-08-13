@@ -1,5 +1,5 @@
 ---
-title: Johann Sebastian Bach - Prelude & Fugue in B flat minor Book I BWV 867 (1)
+title: Prelude & Fugue in B flat minor Book I BWV 867 (1)
 description: This is the description for Prelude & Fugue in B flat minor Book I BWV 867 by Johann Sebastian Bach
 composers: [Johann Sebastian Bach]
 periods: [Baroque]

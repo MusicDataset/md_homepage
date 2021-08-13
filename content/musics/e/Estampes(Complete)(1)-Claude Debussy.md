@@ -1,5 +1,5 @@
 ---
-title: Claude Debussy - Estampes (Complete) (1)
+title: Estampes (Complete) (1)
 description: This is the description for Estampes (Complete) by Claude Debussy
 composers: [Claude Debussy]
 periods: [Impressionism]

@@ -1,5 +1,5 @@
 ---
-title: Franz Liszt - Valse-Impromptu S. 213 (1)
+title: Valse-Impromptu S. 213 (1)
 description: This is the description for Valse-Impromptu S. 213 by Franz Liszt
 composers: [Franz Liszt]
 periods: [Romantic]

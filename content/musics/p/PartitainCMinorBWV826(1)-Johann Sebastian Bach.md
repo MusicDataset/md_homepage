@@ -1,5 +1,5 @@
 ---
-title: Johann Sebastian Bach - Partita in C Minor BWV 826 (1)
+title: Partita in C Minor BWV 826 (1)
 description: This is the description for Partita in C Minor BWV 826 by Johann Sebastian Bach
 composers: [Johann Sebastian Bach]
 periods: [Baroque]

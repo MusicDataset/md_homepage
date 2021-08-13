@@ -1,5 +1,5 @@
 ---
-title: Ludwig van Beethoven - Sonata No. 27 in E Minor Op. 90 (1)
+title: Sonata No. 27 in E Minor Op. 90 (1)
 description: This is the description for Sonata No. 27 in E Minor Op. 90 by Ludwig van Beethoven
 composers: [Ludwig van Beethoven]
 periods: [Classical]

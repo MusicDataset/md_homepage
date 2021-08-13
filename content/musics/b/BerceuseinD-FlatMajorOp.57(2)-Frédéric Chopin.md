@@ -1,5 +1,5 @@
 ---
-title: Frédéric Chopin - Berceuse in D-Flat Major Op. 57 (2)
+title: Berceuse in D-Flat Major Op. 57 (2)
 description: This is the description for Berceuse in D-Flat Major Op. 57 by Frédéric Chopin
 composers: [Frédéric Chopin]
 periods: [Romantic]

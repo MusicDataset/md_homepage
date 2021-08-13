@@ -1,5 +1,5 @@
 ---
-title: Franz Liszt - Après une lecture de Dante Fantasia quasi Sonata S.161 No. 7 (1)
+title: Après une lecture de Dante Fantasia quasi Sonata S.161 No. 7 (1)
 description: This is the description for Après une lecture de Dante Fantasia quasi Sonata S.161 No. 7 by Franz Liszt
 composers: [Franz Liszt]
 periods: [Romantic]

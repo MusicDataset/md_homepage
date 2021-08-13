@@ -1,5 +1,5 @@
 ---
-title: Sergei Rachmaninoff - Moment Musicaux Op. 16 No. 4 in E Minor (3)
+title: Moment Musicaux Op. 16 No. 4 in E Minor (3)
 description: This is the description for Moment Musicaux Op. 16 No. 4 in E Minor by Sergei Rachmaninoff
 composers: [Sergei Rachmaninoff]
 periods: [Romantic]

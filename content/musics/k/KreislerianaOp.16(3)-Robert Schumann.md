@@ -1,5 +1,5 @@
 ---
-title: Robert Schumann - Kreisleriana Op. 16 (3)
+title: Kreisleriana Op. 16 (3)
 description: This is the description for Kreisleriana Op. 16 by Robert Schumann
 composers: [Robert Schumann]
 periods: [Romantic]

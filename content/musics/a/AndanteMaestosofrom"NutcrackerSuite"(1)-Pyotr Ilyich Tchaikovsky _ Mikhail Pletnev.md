@@ -1,5 +1,5 @@
 ---
-title: Pyotr Ilyich Tchaikovsky _ Mikhail Pletnev - Andante Maestoso from "Nutcracker Suite" (1)
+title: Andante Maestoso from "Nutcracker Suite" (1)
 description: This is the description for Andante Maestoso from "Nutcracker Suite" by Pyotr Ilyich Tchaikovsky _ Mikhail Pletnev
 composers: [Pyotr Ilyich Tchaikovsky _ Mikhail Pletnev]
 periods: [Romantic]

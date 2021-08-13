@@ -1,5 +1,5 @@
 ---
-title: Robert Schumann - Humoresque Op. 20 (1)
+title: Humoresque Op. 20 (1)
 description: This is the description for Humoresque Op. 20 by Robert Schumann
 composers: [Robert Schumann]
 periods: [Romantic]

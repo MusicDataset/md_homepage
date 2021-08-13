@@ -1,5 +1,5 @@
 ---
-title: Felix Mendelssohn - Variations serieuses Op. 54 (21)
+title: Variations serieuses Op. 54 (21)
 description: This is the description for Variations serieuses Op. 54 by Felix Mendelssohn
 composers: [Felix Mendelssohn]
 periods: [Romantic]

@@ -1,5 +1,5 @@
 ---
-title: Alexander Scriabin - Sonata No. 9 Op. 68 (1)
+title: Sonata No. 9 Op. 68 (1)
 description: This is the description for Sonata No. 9 Op. 68 by Alexander Scriabin
 composers: [Alexander Scriabin]
 periods: [Romantic]

@@ -1,5 +1,5 @@
 ---
-title: César Franck - Prel. Chor. Fug. (1)
+title: Prel. Chor. Fug. (1)
 description: This is the description for Prel. Chor. Fug. by César Franck
 composers: [César Franck]
 periods: [Romantic]

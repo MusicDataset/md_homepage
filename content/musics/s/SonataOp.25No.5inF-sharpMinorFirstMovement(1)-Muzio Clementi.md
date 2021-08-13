@@ -1,5 +1,5 @@
 ---
-title: Muzio Clementi - Sonata Op. 25 No. 5 in F-sharp Minor First Movement (1)
+title: Sonata Op. 25 No. 5 in F-sharp Minor First Movement (1)
 description: This is the description for Sonata Op. 25 No. 5 in F-sharp Minor First Movement by Muzio Clementi
 composers: [Muzio Clementi]
 periods: [Classical]

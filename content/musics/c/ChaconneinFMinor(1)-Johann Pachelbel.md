@@ -1,5 +1,5 @@
 ---
-title: Johann Pachelbel - Chaconne in F Minor (1)
+title: Chaconne in F Minor (1)
 description: This is the description for Chaconne in F Minor by Johann Pachelbel
 composers: [Johann Pachelbel]
 periods: [Baroque]

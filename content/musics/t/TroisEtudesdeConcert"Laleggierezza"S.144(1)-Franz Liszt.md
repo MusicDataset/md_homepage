@@ -1,5 +1,5 @@
 ---
-title: Franz Liszt - Trois Etudes de Concert "La leggierezza" S.144 (1)
+title: Trois Etudes de Concert "La leggierezza" S.144 (1)
 description: This is the description for Trois Etudes de Concert "La leggierezza" S.144 by Franz Liszt
 composers: [Franz Liszt]
 periods: [Romantic]

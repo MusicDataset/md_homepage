@@ -1,5 +1,5 @@
 ---
-title: Ludwig van Beethoven - Fantasia Op. 77 (1)
+title: Fantasia Op. 77 (1)
 description: This is the description for Fantasia Op. 77 by Ludwig van Beethoven
 composers: [Ludwig van Beethoven]
 periods: [Classical]

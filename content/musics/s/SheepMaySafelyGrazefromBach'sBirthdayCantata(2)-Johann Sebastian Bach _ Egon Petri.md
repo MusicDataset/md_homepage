@@ -1,5 +1,5 @@
 ---
-title: Johann Sebastian Bach _ Egon Petri - Sheep May Safely Graze from Bach's Birthday Cantata (2)
+title: Sheep May Safely Graze from Bach's Birthday Cantata (2)
 description: This is the description for Sheep May Safely Graze from Bach's Birthday Cantata by Johann Sebastian Bach _ Egon Petri
 composers: [Johann Sebastian Bach _ Egon Petri]
 periods: [Baroque]

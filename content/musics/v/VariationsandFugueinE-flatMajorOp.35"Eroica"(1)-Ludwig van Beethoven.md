@@ -1,5 +1,5 @@
 ---
-title: Ludwig van Beethoven - Variations and Fugue in E-flat Major Op. 35 "Eroica" (1)
+title: Variations and Fugue in E-flat Major Op. 35 "Eroica" (1)
 description: This is the description for Variations and Fugue in E-flat Major Op. 35 "Eroica" by Ludwig van Beethoven
 composers: [Ludwig van Beethoven]
 periods: [Classical]

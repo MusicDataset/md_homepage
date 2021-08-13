@@ -1,5 +1,5 @@
 ---
-title: Johannes Brahms - Fantasias Op. 116 (Selections) (1)
+title: Fantasias Op. 116 (Selections) (1)
 description: This is the description for Fantasias Op. 116 (Selections) by Johannes Brahms
 composers: [Johannes Brahms]
 periods: [Romantic]

@@ -1,5 +1,5 @@
 ---
-title: Ludwig van Beethoven - Sonata No. 11 in E-flat Major Op. 22 (Complete) (1)
+title: Sonata No. 11 in E-flat Major Op. 22 (Complete) (1)
 description: This is the description for Sonata No. 11 in E-flat Major Op. 22 (Complete) by Ludwig van Beethoven
 composers: [Ludwig van Beethoven]
 periods: [Classical]

@@ -1,5 +1,5 @@
 ---
-title: Franz Schubert - Sonata in A Major D. 664 I. Allegro moderato (1)
+title: Sonata in A Major D. 664 I. Allegro moderato (1)
 description: This is the description for Sonata in A Major D. 664 I. Allegro moderato by Franz Schubert
 composers: [Franz Schubert]
 periods: [Romantic]

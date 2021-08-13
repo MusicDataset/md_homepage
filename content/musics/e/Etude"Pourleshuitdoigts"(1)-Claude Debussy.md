@@ -1,5 +1,5 @@
 ---
-title: Claude Debussy - Etude "Pour les huit doigts" (1)
+title: Etude "Pour les huit doigts" (1)
 description: This is the description for Etude "Pour les huit doigts" by Claude Debussy
 composers: [Claude Debussy]
 periods: [Impressionism]

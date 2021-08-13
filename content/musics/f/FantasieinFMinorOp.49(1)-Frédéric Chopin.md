@@ -1,5 +1,5 @@
 ---
-title: Frédéric Chopin - Fantasie in F Minor Op. 49 (1)
+title: Fantasie in F Minor Op. 49 (1)
 description: This is the description for Fantasie in F Minor Op. 49 by Frédéric Chopin
 composers: [Frédéric Chopin]
 periods: [Romantic]

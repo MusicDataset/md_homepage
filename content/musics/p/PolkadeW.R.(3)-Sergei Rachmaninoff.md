@@ -1,5 +1,5 @@
 ---
-title: Sergei Rachmaninoff - Polka de W.R. (3)
+title: Polka de W.R. (3)
 description: This is the description for Polka de W.R. by Sergei Rachmaninoff
 composers: [Sergei Rachmaninoff]
 periods: [Romantic]

@@ -1,5 +1,5 @@
 ---
-title: Isaac Albéniz - Navarra (1)
+title: Navarra (1)
 description: This is the description for Navarra by Isaac Albéniz
 composers: [Isaac Albéniz]
 periods: [Romantic]

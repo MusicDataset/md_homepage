@@ -1,5 +1,5 @@
 ---
-title: Franz Schubert _ Franz Liszt - Fruelingsglaube Die Junge Nonne (1)
+title: Fruelingsglaube Die Junge Nonne (1)
 description: This is the description for Fruelingsglaube Die Junge Nonne by Franz Schubert _ Franz Liszt
 composers: [Franz Schubert _ Franz Liszt]
 periods: [Romantic]

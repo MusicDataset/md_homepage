@@ -1,5 +1,5 @@
 ---
-title: Sergei Rachmaninoff _ György Cziffra - Flight of B.B. (1)
+title: Flight of B.B. (1)
 description: This is the description for Flight of B.B. by Sergei Rachmaninoff _ György Cziffra
 composers: [Sergei Rachmaninoff _ György Cziffra]
 periods: [Romantic]

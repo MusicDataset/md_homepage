@@ -1,5 +1,5 @@
 ---
-title: Felix Mendelssohn - Etude in A Minor (1)
+title: Etude in A Minor (1)
 description: This is the description for Etude in A Minor by Felix Mendelssohn
 composers: [Felix Mendelssohn]
 periods: [Romantic]

@@ -1,5 +1,5 @@
 ---
-title: Niccolò Paganini _ Franz Liszt - Etude No. 6 in A Minor (1)
+title: Etude No. 6 in A Minor (1)
 description: This is the description for Etude No. 6 in A Minor by Niccolò Paganini _ Franz Liszt
 composers: [Niccolò Paganini _ Franz Liszt]
 periods: [Romantic]

@@ -1,5 +1,5 @@
 ---
-title: Johann Sebastian Bach - Prelude and Fugue in B-flat Minor WTC I BWV 867 (4)
+title: Prelude and Fugue in B-flat Minor WTC I BWV 867 (4)
 description: This is the description for Prelude and Fugue in B-flat Minor WTC I BWV 867 by Johann Sebastian Bach
 composers: [Johann Sebastian Bach]
 periods: [Baroque]

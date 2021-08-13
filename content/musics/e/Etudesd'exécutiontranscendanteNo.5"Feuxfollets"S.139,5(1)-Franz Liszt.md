@@ -1,5 +1,5 @@
 ---
-title: Franz Liszt - Etudes d'exécution transcendante No. 5 "Feux follets" S.139/5 (1)
+title: Etudes d'exécution transcendante No. 5 "Feux follets" S.139/5 (1)
 description: This is the description for Etudes d'exécution transcendante No. 5 "Feux follets" S.139/5 by Franz Liszt
 composers: [Franz Liszt]
 periods: [Romantic]

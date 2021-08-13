@@ -1,5 +1,5 @@
 ---
-title: Frédéric Chopin - Ballade No. 2 in F Major Op. 38 (3)
+title: Ballade No. 2 in F Major Op. 38 (3)
 description: This is the description for Ballade No. 2 in F Major Op. 38 by Frédéric Chopin
 composers: [Frédéric Chopin]
 periods: [Romantic]

@@ -1,5 +1,5 @@
 ---
-title: Robert Schumann - Fantasy in C Major Op. 17 (1)
+title: Fantasy in C Major Op. 17 (1)
 description: This is the description for Fantasy in C Major Op. 17 by Robert Schumann
 composers: [Robert Schumann]
 periods: [Romantic]

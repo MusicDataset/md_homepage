@@ -1,5 +1,5 @@
 ---
-title: Frédéric Chopin - Etude Op. 25 No. 11 (1)
+title: Etude Op. 25 No. 11 (1)
 description: This is the description for Etude Op. 25 No. 11 by Frédéric Chopin
 composers: [Frédéric Chopin]
 periods: [Romantic]

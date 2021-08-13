@@ -1,5 +1,5 @@
 ---
-title: Johann Sebastian Bach - Prelude & Fugue in G Minor WTK II (1)
+title: Prelude & Fugue in G Minor WTK II (1)
 description: This is the description for Prelude & Fugue in G Minor WTK II by Johann Sebastian Bach
 composers: [Johann Sebastian Bach]
 periods: [Baroque]

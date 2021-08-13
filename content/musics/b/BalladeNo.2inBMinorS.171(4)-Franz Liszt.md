@@ -1,5 +1,5 @@
 ---
-title: Franz Liszt - Ballade No. 2 in B Minor S. 171 (4)
+title: Ballade No. 2 in B Minor S. 171 (4)
 description: This is the description for Ballade No. 2 in B Minor S. 171 by Franz Liszt
 composers: [Franz Liszt]
 periods: [Romantic]

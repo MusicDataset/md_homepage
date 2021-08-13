@@ -1,5 +1,5 @@
 ---
-title: Franz Liszt - Hungarian Rhapsody No. 9 in E-flat Major S. 244 (2)
+title: Hungarian Rhapsody No. 9 in E-flat Major S. 244 (2)
 description: This is the description for Hungarian Rhapsody No. 9 in E-flat Major S. 244 by Franz Liszt
 composers: [Franz Liszt]
 periods: [Romantic]

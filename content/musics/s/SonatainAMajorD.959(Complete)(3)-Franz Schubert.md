@@ -1,5 +1,5 @@
 ---
-title: Franz Schubert - Sonata in A Major D. 959 (Complete) (3)
+title: Sonata in A Major D. 959 (Complete) (3)
 description: This is the description for Sonata in A Major D. 959 (Complete) by Franz Schubert
 composers: [Franz Schubert]
 periods: [Romantic]

@@ -1,5 +1,5 @@
 ---
-title: Ludwig van Beethoven - Andante favori in F Major WoO 57 (1)
+title: Andante favori in F Major WoO 57 (1)
 description: This is the description for Andante favori in F Major WoO 57 by Ludwig van Beethoven
 composers: [Ludwig van Beethoven]
 periods: [Classical]

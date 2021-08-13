@@ -1,5 +1,5 @@
 ---
-title: Richard Wagner _ Franz Liszt - IsoldasLiebestod (1)
+title: IsoldasLiebestod (1)
 description: This is the description for IsoldasLiebestod by Richard Wagner _ Franz Liszt
 composers: [Richard Wagner _ Franz Liszt]
 periods: [Romantic]

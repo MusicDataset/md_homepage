@@ -1,5 +1,5 @@
 ---
-title: Sergei Rachmaninoff - Prelude in G-Sharp MinorOp. 32 No. 12 (1)
+title: Prelude in G-Sharp MinorOp. 32 No. 12 (1)
 description: This is the description for Prelude in G-Sharp MinorOp. 32 No. 12 by Sergei Rachmaninoff
 composers: [Sergei Rachmaninoff]
 periods: [Romantic]

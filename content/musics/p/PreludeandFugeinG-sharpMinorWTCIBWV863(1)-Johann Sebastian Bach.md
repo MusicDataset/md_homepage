@@ -1,5 +1,5 @@
 ---
-title: Johann Sebastian Bach - Prelude and Fuge in G-sharp Minor WTC I BWV 863 (1)
+title: Prelude and Fuge in G-sharp Minor WTC I BWV 863 (1)
 description: This is the description for Prelude and Fuge in G-sharp Minor WTC I BWV 863 by Johann Sebastian Bach
 composers: [Johann Sebastian Bach]
 periods: [Baroque]

@@ -1,5 +1,5 @@
 ---
-title: Sergei Rachmaninoff - Moment Musical Op. 16 No.4 (1)
+title: Moment Musical Op. 16 No.4 (1)
 description: This is the description for Moment Musical Op. 16 No.4 by Sergei Rachmaninoff
 composers: [Sergei Rachmaninoff]
 periods: [Romantic]

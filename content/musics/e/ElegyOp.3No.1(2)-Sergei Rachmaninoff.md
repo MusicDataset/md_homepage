@@ -1,5 +1,5 @@
 ---
-title: Sergei Rachmaninoff - Elegy Op. 3 No. 1 (2)
+title: Elegy Op. 3 No. 1 (2)
 description: This is the description for Elegy Op. 3 No. 1 by Sergei Rachmaninoff
 composers: [Sergei Rachmaninoff]
 periods: [Romantic]

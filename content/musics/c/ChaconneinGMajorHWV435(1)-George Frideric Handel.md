@@ -1,5 +1,5 @@
 ---
-title: George Frideric Handel - Chaconne in G Major HWV 435 (1)
+title: Chaconne in G Major HWV 435 (1)
 description: This is the description for Chaconne in G Major HWV 435 by George Frideric Handel
 composers: [George Frideric Handel]
 periods: [Baroque]

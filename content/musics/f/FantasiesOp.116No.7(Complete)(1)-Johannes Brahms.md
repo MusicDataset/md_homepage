@@ -1,5 +1,5 @@
 ---
-title: Johannes Brahms - Fantasies Op. 116 No. 7 (Complete) (1)
+title: Fantasies Op. 116 No. 7 (Complete) (1)
 description: This is the description for Fantasies Op. 116 No. 7 (Complete) by Johannes Brahms
 composers: [Johannes Brahms]
 periods: [Romantic]

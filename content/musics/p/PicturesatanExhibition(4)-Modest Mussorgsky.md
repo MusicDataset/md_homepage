@@ -1,5 +1,5 @@
 ---
-title: Modest Mussorgsky - Pictures at an Exhibition (4)
+title: Pictures at an Exhibition (4)
 description: This is the description for Pictures at an Exhibition by Modest Mussorgsky
 composers: [Modest Mussorgsky]
 periods: [Romantic]

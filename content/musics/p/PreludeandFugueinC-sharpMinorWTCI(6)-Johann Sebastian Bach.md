@@ -1,5 +1,5 @@
 ---
-title: Johann Sebastian Bach - Prelude and Fugue in C-sharp Minor WTC I (6)
+title: Prelude and Fugue in C-sharp Minor WTC I (6)
 description: This is the description for Prelude and Fugue in C-sharp Minor WTC I by Johann Sebastian Bach
 composers: [Johann Sebastian Bach]
 periods: [Baroque]

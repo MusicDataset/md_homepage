@@ -1,5 +1,5 @@
 ---
-title: Frédéric Chopin - Polonaise-Fantasie (1)
+title: Polonaise-Fantasie (1)
 description: This is the description for Polonaise-Fantasie by Frédéric Chopin
 composers: [Frédéric Chopin]
 periods: [Romantic]

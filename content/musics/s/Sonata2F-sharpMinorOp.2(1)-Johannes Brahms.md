@@ -1,5 +1,5 @@
 ---
-title: Johannes Brahms - Sonata 2 F-sharp Minor Op. 2 (1)
+title: Sonata 2 F-sharp Minor Op. 2 (1)
 description: This is the description for Sonata 2 F-sharp Minor Op. 2 by Johannes Brahms
 composers: [Johannes Brahms]
 periods: [Romantic]

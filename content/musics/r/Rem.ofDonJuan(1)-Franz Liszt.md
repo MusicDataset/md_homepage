@@ -1,5 +1,5 @@
 ---
-title: Franz Liszt - Rem. of Don Juan (1)
+title: Rem. of Don Juan (1)
 description: This is the description for Rem. of Don Juan by Franz Liszt
 composers: [Franz Liszt]
 periods: [Romantic]

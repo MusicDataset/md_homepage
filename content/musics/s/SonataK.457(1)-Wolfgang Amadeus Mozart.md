@@ -1,5 +1,5 @@
 ---
-title: Wolfgang Amadeus Mozart - Sonata K. 457 (1)
+title: Sonata K. 457 (1)
 description: This is the description for Sonata K. 457 by Wolfgang Amadeus Mozart
 composers: [Wolfgang Amadeus Mozart]
 periods: [Classical]

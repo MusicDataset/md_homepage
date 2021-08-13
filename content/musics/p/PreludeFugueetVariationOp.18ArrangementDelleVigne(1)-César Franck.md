@@ -1,5 +1,5 @@
 ---
-title: César Franck - Prelude Fugue et Variation Op. 18 Arrangement Delle Vigne (1)
+title: Prelude Fugue et Variation Op. 18 Arrangement Delle Vigne (1)
 description: This is the description for Prelude Fugue et Variation Op. 18 Arrangement Delle Vigne by César Franck
 composers: [César Franck]
 periods: [Romantic]

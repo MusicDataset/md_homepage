@@ -1,5 +1,5 @@
 ---
-title: Frédéric Chopin - Barcarolle Op. 60 (1)
+title: Barcarolle Op. 60 (1)
 description: This is the description for Barcarolle Op. 60 by Frédéric Chopin
 composers: [Frédéric Chopin]
 periods: [Romantic]

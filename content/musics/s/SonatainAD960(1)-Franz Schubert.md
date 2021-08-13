@@ -1,5 +1,5 @@
 ---
-title: Franz Schubert - Sonata in A D960 (1)
+title: Sonata in A D960 (1)
 description: This is the description for Sonata in A D960 by Franz Schubert
 composers: [Franz Schubert]
 periods: [Romantic]

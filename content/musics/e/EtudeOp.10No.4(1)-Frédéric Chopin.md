@@ -1,5 +1,5 @@
 ---
-title: Frédéric Chopin - Etude Op. 10 No. 4 (1)
+title: Etude Op. 10 No. 4 (1)
 description: This is the description for Etude Op. 10 No. 4 by Frédéric Chopin
 composers: [Frédéric Chopin]
 periods: [Romantic]

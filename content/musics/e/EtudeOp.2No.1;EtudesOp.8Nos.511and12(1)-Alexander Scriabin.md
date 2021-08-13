@@ -1,5 +1,5 @@
 ---
-title: Alexander Scriabin - Etude Op. 2 No.1; Etudes Op. 8 Nos. 5 11 and 12 (1)
+title: Etude Op. 2 No.1; Etudes Op. 8 Nos. 5 11 and 12 (1)
 description: This is the description for Etude Op. 2 No.1; Etudes Op. 8 Nos. 5 11 and 12 by Alexander Scriabin
 composers: [Alexander Scriabin]
 periods: [Romantic]

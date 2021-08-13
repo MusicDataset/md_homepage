@@ -1,5 +1,5 @@
 ---
-title: Claude Debussy - Images Book I "Reflets dans l'eau" (1)
+title: Images Book I "Reflets dans l'eau" (1)
 description: This is the description for Images Book I "Reflets dans l'eau" by Claude Debussy
 composers: [Claude Debussy]
 periods: [Impressionism]

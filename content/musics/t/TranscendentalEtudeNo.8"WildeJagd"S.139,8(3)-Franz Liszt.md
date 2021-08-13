@@ -1,5 +1,5 @@
 ---
-title: Franz Liszt - Transcendental Etude No. 8 "Wilde Jagd" S. 139/8 (3)
+title: Transcendental Etude No. 8 "Wilde Jagd" S. 139/8 (3)
 description: This is the description for Transcendental Etude No. 8 "Wilde Jagd" S. 139/8 by Franz Liszt
 composers: [Franz Liszt]
 periods: [Romantic]

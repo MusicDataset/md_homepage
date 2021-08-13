@@ -1,5 +1,5 @@
 ---
-title: Franz Schubert - Sonata in A Minor D845 (1)
+title: Sonata in A Minor D845 (1)
 description: This is the description for Sonata in A Minor D845 by Franz Schubert
 composers: [Franz Schubert]
 periods: [Romantic]

@@ -1,5 +1,5 @@
 ---
-title: Claude Debussy - Preludes Book II  Feux d'artifice L 123 No. 12 (1)
+title: Preludes Book II  Feux d'artifice L 123 No. 12 (1)
 description: This is the description for Preludes Book II  Feux d'artifice L 123 No. 12 by Claude Debussy
 composers: [Claude Debussy]
 periods: [Impressionism]

@@ -1,5 +1,5 @@
 ---
-title: Wolfgang Amadeus Mozart - Fantasy in C Min (1)
+title: Fantasy in C Min (1)
 description: This is the description for Fantasy in C Min by Wolfgang Amadeus Mozart
 composers: [Wolfgang Amadeus Mozart]
 periods: [Classical]

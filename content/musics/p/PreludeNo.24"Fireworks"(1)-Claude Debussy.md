@@ -1,5 +1,5 @@
 ---
-title: Claude Debussy - Prelude No. 24 "Fireworks" (1)
+title: Prelude No. 24 "Fireworks" (1)
 description: This is the description for Prelude No. 24 "Fireworks" by Claude Debussy
 composers: [Claude Debussy]
 periods: [Impressionism]

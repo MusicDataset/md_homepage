@@ -1,5 +1,5 @@
 ---
-title: Franz Liszt _ Vladimir Horowitz - Hungarian Rhapsody No. 2 (Horowitz Edition) (1)
+title: Hungarian Rhapsody No. 2 (Horowitz Edition) (1)
 description: This is the description for Hungarian Rhapsody No. 2 (Horowitz Edition) by Franz Liszt _ Vladimir Horowitz
 composers: [Franz Liszt _ Vladimir Horowitz]
 periods: [Romantic]

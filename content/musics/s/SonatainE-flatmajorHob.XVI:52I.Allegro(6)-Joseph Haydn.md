@@ -1,5 +1,5 @@
 ---
-title: Joseph Haydn - Sonata in E-flat major Hob. XVI52 I. Allegro (6)
+title: Sonata in E-flat major Hob. XVI52 I. Allegro (6)
 description: This is the description for Sonata in E-flat major Hob. XVI52 I. Allegro by Joseph Haydn
 composers: [Joseph Haydn]
 periods: [Classical]

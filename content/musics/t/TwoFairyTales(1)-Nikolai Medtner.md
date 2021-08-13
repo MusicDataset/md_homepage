@@ -1,5 +1,5 @@
 ---
-title: Nikolai Medtner - Two Fairy Tales (1)
+title: Two Fairy Tales (1)
 description: This is the description for Two Fairy Tales by Nikolai Medtner
 composers: [Nikolai Medtner]
 periods: [Romantic]

@@ -1,5 +1,5 @@
 ---
-title: Domenico Scarlatti - Sonata in G Major K. 455 (1)
+title: Sonata in G Major K. 455 (1)
 description: This is the description for Sonata in G Major K. 455 by Domenico Scarlatti
 composers: [Domenico Scarlatti]
 periods: [Baroque]

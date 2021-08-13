@@ -1,5 +1,5 @@
 ---
-title: Franz Liszt - Grandes Etudes de Paganini S. 141 (1)
+title: Grandes Etudes de Paganini S. 141 (1)
 description: This is the description for Grandes Etudes de Paganini S. 141 by Franz Liszt
 composers: [Franz Liszt]
 periods: [Romantic]

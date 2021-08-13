@@ -1,5 +1,5 @@
 ---
-title: Wolfgang Amadeus Mozart - Sonata in D Major K. 284 First Movement (2)
+title: Sonata in D Major K. 284 First Movement (2)
 description: This is the description for Sonata in D Major K. 284 First Movement by Wolfgang Amadeus Mozart
 composers: [Wolfgang Amadeus Mozart]
 periods: [Classical]

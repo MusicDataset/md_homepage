@@ -1,5 +1,5 @@
 ---
-title: Franz Schubert - Fantasia in C Major "Wanderer" D. 760 (1)
+title: Fantasia in C Major "Wanderer" D. 760 (1)
 description: This is the description for Fantasia in C Major "Wanderer" D. 760 by Franz Schubert
 composers: [Franz Schubert]
 periods: [Romantic]

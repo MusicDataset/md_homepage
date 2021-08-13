@@ -1,5 +1,5 @@
 ---
-title: Wolfgang Amadeus Mozart - Sonata in F Major K533 (1)
+title: Sonata in F Major K533 (1)
 description: This is the description for Sonata in F Major K533 by Wolfgang Amadeus Mozart
 composers: [Wolfgang Amadeus Mozart]
 periods: [Classical]

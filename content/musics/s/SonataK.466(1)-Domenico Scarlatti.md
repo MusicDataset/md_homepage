@@ -1,5 +1,5 @@
 ---
-title: Domenico Scarlatti - Sonata K. 466 (1)
+title: Sonata K. 466 (1)
 description: This is the description for Sonata K. 466 by Domenico Scarlatti
 composers: [Domenico Scarlatti]
 periods: [Baroque]

@@ -1,5 +1,5 @@
 ---
-title: Ludwig van Beethoven - Sonata Op. 81 No. 26 'Les Adieux' (1)
+title: Sonata Op. 81 No. 26 'Les Adieux' (1)
 description: This is the description for Sonata Op. 81 No. 26 'Les Adieux' by Ludwig van Beethoven
 composers: [Ludwig van Beethoven]
 periods: [Classical]

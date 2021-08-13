@@ -1,5 +1,5 @@
 ---
-title: Domenico Scarlatti - Sonata in D Major K. 96 L. 465 (1)
+title: Sonata in D Major K. 96 L. 465 (1)
 description: This is the description for Sonata in D Major K. 96 L. 465 by Domenico Scarlatti
 composers: [Domenico Scarlatti]
 periods: [Baroque]

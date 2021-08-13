@@ -1,5 +1,5 @@
 ---
-title: Sergei Rachmaninoff - Corelli Var.Op42 (1)
+title: Corelli Var.Op42 (1)
 description: This is the description for Corelli Var.Op42 by Sergei Rachmaninoff
 composers: [Sergei Rachmaninoff]
 periods: [Romantic]

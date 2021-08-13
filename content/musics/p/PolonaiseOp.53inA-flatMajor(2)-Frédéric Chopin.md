@@ -1,5 +1,5 @@
 ---
-title: Frédéric Chopin - Polonaise Op. 53 in A-flat Major (2)
+title: Polonaise Op. 53 in A-flat Major (2)
 description: This is the description for Polonaise Op. 53 in A-flat Major by Frédéric Chopin
 composers: [Frédéric Chopin]
 periods: [Romantic]

@@ -1,5 +1,5 @@
 ---
-title: Johann Sebastian Bach - Prelude from the English Suite No. 2 in A Minor BWV 807 (1)
+title: Prelude from the English Suite No. 2 in A Minor BWV 807 (1)
 description: This is the description for Prelude from the English Suite No. 2 in A Minor BWV 807 by Johann Sebastian Bach
 composers: [Johann Sebastian Bach]
 periods: [Baroque]

@@ -1,5 +1,5 @@
 ---
-title: Sergei Rachmaninoff - Prelude Op. 32 No. 8 in A Minor (1)
+title: Prelude Op. 32 No. 8 in A Minor (1)
 description: This is the description for Prelude Op. 32 No. 8 in A Minor by Sergei Rachmaninoff
 composers: [Sergei Rachmaninoff]
 periods: [Romantic]

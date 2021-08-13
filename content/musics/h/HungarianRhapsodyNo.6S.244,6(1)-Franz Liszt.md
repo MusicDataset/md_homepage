@@ -1,5 +1,5 @@
 ---
-title: Franz Liszt - Hungarian Rhapsody No. 6 S.244, 6 (1)
+title: Hungarian Rhapsody No. 6 S.244, 6 (1)
 description: This is the description for Hungarian Rhapsody No. 6 S.244, 6 by Franz Liszt
 composers: [Franz Liszt]
 periods: [Romantic]

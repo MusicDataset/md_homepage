@@ -1,5 +1,5 @@
 ---
-title: Frédéric Chopin - Polonaise-Fantasie Op. 61 (1)
+title: Polonaise-Fantasie Op. 61 (1)
 description: This is the description for Polonaise-Fantasie Op. 61 by Frédéric Chopin
 composers: [Frédéric Chopin]
 periods: [Romantic]

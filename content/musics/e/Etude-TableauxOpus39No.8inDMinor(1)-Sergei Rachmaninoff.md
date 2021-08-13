@@ -1,5 +1,5 @@
 ---
-title: Sergei Rachmaninoff - Etude-Tableaux Opus 39 No. 8 in D Minor (1)
+title: Etude-Tableaux Opus 39 No. 8 in D Minor (1)
 description: This is the description for Etude-Tableaux Opus 39 No. 8 in D Minor by Sergei Rachmaninoff
 composers: [Sergei Rachmaninoff]
 periods: [Romantic]

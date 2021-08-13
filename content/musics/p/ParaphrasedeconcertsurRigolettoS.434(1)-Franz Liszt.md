@@ -1,5 +1,5 @@
 ---
-title: Franz Liszt - Paraphrase de concert sur Rigoletto S.434 (1)
+title: Paraphrase de concert sur Rigoletto S.434 (1)
 description: This is the description for Paraphrase de concert sur Rigoletto S.434 by Franz Liszt
 composers: [Franz Liszt]
 periods: [Romantic]

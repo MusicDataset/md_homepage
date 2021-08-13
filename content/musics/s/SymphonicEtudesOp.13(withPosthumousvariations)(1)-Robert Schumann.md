@@ -1,5 +1,5 @@
 ---
-title: Robert Schumann - Symphonic Etudes Op. 13 (with Posthumous variations) (1)
+title: Symphonic Etudes Op. 13 (with Posthumous variations) (1)
 description: This is the description for Symphonic Etudes Op. 13 (with Posthumous variations) by Robert Schumann
 composers: [Robert Schumann]
 periods: [Romantic]

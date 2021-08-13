@@ -1,5 +1,5 @@
 ---
-title: Franz Schubert - Sonata in A D959 (2)
+title: Sonata in A D959 (2)
 description: This is the description for Sonata in A D959 by Franz Schubert
 composers: [Franz Schubert]
 periods: [Romantic]

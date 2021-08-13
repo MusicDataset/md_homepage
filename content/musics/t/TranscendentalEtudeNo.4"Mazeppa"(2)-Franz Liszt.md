@@ -1,5 +1,5 @@
 ---
-title: Franz Liszt - Transcendental Etude No. 4 "Mazeppa" (2)
+title: Transcendental Etude No. 4 "Mazeppa" (2)
 description: This is the description for Transcendental Etude No. 4 "Mazeppa" by Franz Liszt
 composers: [Franz Liszt]
 periods: [Romantic]

@@ -1,5 +1,5 @@
 ---
-title: Franz Liszt - Hungarian Rhapsody (1)
+title: Hungarian Rhapsody (1)
 description: This is the description for Hungarian Rhapsody by Franz Liszt
 composers: [Franz Liszt]
 periods: [Romantic]

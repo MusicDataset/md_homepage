@@ -1,5 +1,5 @@
 ---
-title: Franz Liszt - Tarantella S. 162 No. 3 from Venezia e Napoli (1)
+title: Tarantella S. 162 No. 3 from Venezia e Napoli (1)
 description: This is the description for Tarantella S. 162 No. 3 from Venezia e Napoli by Franz Liszt
 composers: [Franz Liszt]
 periods: [Romantic]

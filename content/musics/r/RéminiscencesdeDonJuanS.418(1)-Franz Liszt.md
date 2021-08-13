@@ -1,5 +1,5 @@
 ---
-title: Franz Liszt - Réminiscences de Don Juan S.418 (1)
+title: Réminiscences de Don Juan S.418 (1)
 description: This is the description for Réminiscences de Don Juan S.418 by Franz Liszt
 composers: [Franz Liszt]
 periods: [Romantic]

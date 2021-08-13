@@ -1,5 +1,5 @@
 ---
-title: Claude Debussy - Preludes Book II III - La puerta del vino (1)
+title: Preludes Book II III - La puerta del vino (1)
 description: This is the description for Preludes Book II III - La puerta del vino by Claude Debussy
 composers: [Claude Debussy]
 periods: [Impressionism]

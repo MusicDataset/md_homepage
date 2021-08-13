@@ -1,5 +1,5 @@
 ---
-title: Johann Sebastian Bach - Prelude and Fugue in G Major WTC I (4)
+title: Prelude and Fugue in G Major WTC I (4)
 description: This is the description for Prelude and Fugue in G Major WTC I by Johann Sebastian Bach
 composers: [Johann Sebastian Bach]
 periods: [Baroque]

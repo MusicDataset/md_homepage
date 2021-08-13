@@ -1,5 +1,5 @@
 ---
-title: Johann Sebastian Bach - Prelude and Fugue in E-flat Minor WTC I BWV 853 (2)
+title: Prelude and Fugue in E-flat Minor WTC I BWV 853 (2)
 description: This is the description for Prelude and Fugue in E-flat Minor WTC I BWV 853 by Johann Sebastian Bach
 composers: [Johann Sebastian Bach]
 periods: [Baroque]

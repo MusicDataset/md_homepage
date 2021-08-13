@@ -1,5 +1,5 @@
 ---
-title: Georges Bizet _ Vladimir Horowitz - Carmen Variations (1)
+title: Carmen Variations (1)
 description: This is the description for Carmen Variations by Georges Bizet _ Vladimir Horowitz
 composers: [Georges Bizet _ Vladimir Horowitz]
 periods: [Romantic]

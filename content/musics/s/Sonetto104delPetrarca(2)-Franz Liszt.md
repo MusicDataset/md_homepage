@@ -1,5 +1,5 @@
 ---
-title: Franz Liszt - Sonetto 104 del Petrarca (2)
+title: Sonetto 104 del Petrarca (2)
 description: This is the description for Sonetto 104 del Petrarca by Franz Liszt
 composers: [Franz Liszt]
 periods: [Romantic]

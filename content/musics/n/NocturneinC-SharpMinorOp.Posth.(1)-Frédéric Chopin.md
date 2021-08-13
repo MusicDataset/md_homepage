@@ -1,5 +1,5 @@
 ---
-title: Frédéric Chopin - Nocturne in C-Sharp Minor Op. Posth. (1)
+title: Nocturne in C-Sharp Minor Op. Posth. (1)
 description: This is the description for Nocturne in C-Sharp Minor Op. Posth. by Frédéric Chopin
 composers: [Frédéric Chopin]
 periods: [Romantic]

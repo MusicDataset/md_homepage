@@ -1,5 +1,5 @@
 ---
-title: Franz Liszt - Transcendental Etude No. 5 "Feux Follets" (3)
+title: Transcendental Etude No. 5 "Feux Follets" (3)
 description: This is the description for Transcendental Etude No. 5 "Feux Follets" by Franz Liszt
 composers: [Franz Liszt]
 periods: [Romantic]

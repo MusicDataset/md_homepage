@@ -1,5 +1,5 @@
 ---
-title: Frédéric Chopin - Ballade No. 1 in G Minor Op. 23 (9)
+title: Ballade No. 1 in G Minor Op. 23 (9)
 description: This is the description for Ballade No. 1 in G Minor Op. 23 by Frédéric Chopin
 composers: [Frédéric Chopin]
 periods: [Romantic]

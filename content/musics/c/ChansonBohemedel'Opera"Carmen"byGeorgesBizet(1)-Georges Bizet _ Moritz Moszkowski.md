@@ -1,5 +1,5 @@
 ---
-title: Georges Bizet _ Moritz Moszkowski - Chanson Boheme de l'Opera "Carmen" by Georges Bizet (1)
+title: Chanson Boheme de l'Opera "Carmen" by Georges Bizet (1)
 description: This is the description for Chanson Boheme de l'Opera "Carmen" by Georges Bizet by Georges Bizet _ Moritz Moszkowski
 composers: [Georges Bizet _ Moritz Moszkowski]
 periods: [Romantic]

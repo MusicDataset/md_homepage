@@ -1,5 +1,5 @@
 ---
-title: Johann Sebastian Bach - Toccata in C Minor BWV 911 (2)
+title: Toccata in C Minor BWV 911 (2)
 description: This is the description for Toccata in C Minor BWV 911 by Johann Sebastian Bach
 composers: [Johann Sebastian Bach]
 periods: [Baroque]

@@ -1,5 +1,5 @@
 ---
-title: Frédéric Chopin - Preludes Book II L 123 VI. Général Lavine - eccentric (1)
+title: Preludes Book II L 123 VI. Général Lavine - eccentric (1)
 description: This is the description for Preludes Book II L 123 VI. Général Lavine - eccentric by Frédéric Chopin
 composers: [Frédéric Chopin]
 periods: [Romantic]

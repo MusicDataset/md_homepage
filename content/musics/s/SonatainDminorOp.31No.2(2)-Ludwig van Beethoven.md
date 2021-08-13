@@ -1,5 +1,5 @@
 ---
-title: Ludwig van Beethoven - Sonata in D minor Op. 31 No. 2 (2)
+title: Sonata in D minor Op. 31 No. 2 (2)
 description: This is the description for Sonata in D minor Op. 31 No. 2 by Ludwig van Beethoven
 composers: [Ludwig van Beethoven]
 periods: [Classical]

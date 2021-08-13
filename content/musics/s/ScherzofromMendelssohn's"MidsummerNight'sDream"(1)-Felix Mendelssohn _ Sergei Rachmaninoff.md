@@ -1,5 +1,5 @@
 ---
-title: Felix Mendelssohn _ Sergei Rachmaninoff - Scherzo from Mendelssohn's "Midsummer Night's Dream" (1)
+title: Scherzo from Mendelssohn's "Midsummer Night's Dream" (1)
 description: This is the description for Scherzo from Mendelssohn's "Midsummer Night's Dream" by Felix Mendelssohn _ Sergei Rachmaninoff
 composers: [Felix Mendelssohn _ Sergei Rachmaninoff]
 periods: [Romantic]

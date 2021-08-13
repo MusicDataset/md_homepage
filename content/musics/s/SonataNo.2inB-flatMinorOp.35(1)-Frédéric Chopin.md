@@ -1,5 +1,5 @@
 ---
-title: Frédéric Chopin - Sonata No. 2 in B-flat Minor Op. 35 (1)
+title: Sonata No. 2 in B-flat Minor Op. 35 (1)
 description: This is the description for Sonata No. 2 in B-flat Minor Op. 35 by Frédéric Chopin
 composers: [Frédéric Chopin]
 periods: [Romantic]

@@ -1,5 +1,5 @@
 ---
-title: Franz Schubert - Erlkoenig (1)
+title: Erlkoenig (1)
 description: This is the description for Erlkoenig by Franz Schubert
 composers: [Franz Schubert]
 periods: [Romantic]

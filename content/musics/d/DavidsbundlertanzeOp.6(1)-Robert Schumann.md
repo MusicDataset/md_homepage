@@ -1,5 +1,5 @@
 ---
-title: Robert Schumann - Davidsbundlertanze Op. 6 (1)
+title: Davidsbundlertanze Op. 6 (1)
 description: This is the description for Davidsbundlertanze Op. 6 by Robert Schumann
 composers: [Robert Schumann]
 periods: [Romantic]

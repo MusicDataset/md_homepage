@@ -1,5 +1,5 @@
 ---
-title: Robert Schumann - ABEGG Variations Op. 1 (2)
+title: ABEGG Variations Op. 1 (2)
 description: This is the description for ABEGG Variations Op. 1 by Robert Schumann
 composers: [Robert Schumann]
 periods: [Romantic]

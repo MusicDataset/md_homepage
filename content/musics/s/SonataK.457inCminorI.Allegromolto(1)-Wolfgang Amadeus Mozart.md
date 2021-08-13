@@ -1,5 +1,5 @@
 ---
-title: Wolfgang Amadeus Mozart - Sonata K. 457 in C minor I. Allegro molto (1)
+title: Sonata K. 457 in C minor I. Allegro molto (1)
 description: This is the description for Sonata K. 457 in C minor I. Allegro molto by Wolfgang Amadeus Mozart
 composers: [Wolfgang Amadeus Mozart]
 periods: [Classical]

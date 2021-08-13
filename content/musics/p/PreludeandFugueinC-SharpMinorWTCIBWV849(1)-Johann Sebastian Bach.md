@@ -1,5 +1,5 @@
 ---
-title: Johann Sebastian Bach - Prelude and Fugue in C-Sharp Minor WTC I BWV 849 (1)
+title: Prelude and Fugue in C-Sharp Minor WTC I BWV 849 (1)
 description: This is the description for Prelude and Fugue in C-Sharp Minor WTC I BWV 849 by Johann Sebastian Bach
 composers: [Johann Sebastian Bach]
 periods: [Baroque]

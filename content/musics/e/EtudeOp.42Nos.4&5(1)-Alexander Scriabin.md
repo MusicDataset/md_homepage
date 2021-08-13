@@ -1,5 +1,5 @@
 ---
-title: Alexander Scriabin - Etude Op. 42 Nos. 4 & 5 (1)
+title: Etude Op. 42 Nos. 4 & 5 (1)
 description: This is the description for Etude Op. 42 Nos. 4 & 5 by Alexander Scriabin
 composers: [Alexander Scriabin]
 periods: [Romantic]

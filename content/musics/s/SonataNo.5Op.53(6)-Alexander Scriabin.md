@@ -1,5 +1,5 @@
 ---
-title: Alexander Scriabin - Sonata No. 5 Op. 53 (6)
+title: Sonata No. 5 Op. 53 (6)
 description: This is the description for Sonata No. 5 Op. 53 by Alexander Scriabin
 composers: [Alexander Scriabin]
 periods: [Romantic]

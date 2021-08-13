@@ -1,5 +1,5 @@
 ---
-title: Franz Schubert - Impromptus Op. 90 (1)
+title: Impromptus Op. 90 (1)
 description: This is the description for Impromptus Op. 90 by Franz Schubert
 composers: [Franz Schubert]
 periods: [Romantic]

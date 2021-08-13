@@ -1,5 +1,5 @@
 ---
-title: Wolfgang Amadeus Mozart - Sonata in F Major K 332 (Complete) (2)
+title: Sonata in F Major K 332 (Complete) (2)
 description: This is the description for Sonata in F Major K 332 (Complete) by Wolfgang Amadeus Mozart
 composers: [Wolfgang Amadeus Mozart]
 periods: [Classical]

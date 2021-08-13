@@ -1,5 +1,5 @@
 ---
-title: Franz Schubert - Sonata in A Minor D. 846 (1)
+title: Sonata in A Minor D. 846 (1)
 description: This is the description for Sonata in A Minor D. 846 by Franz Schubert
 composers: [Franz Schubert]
 periods: [Romantic]

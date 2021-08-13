@@ -1,5 +1,5 @@
 ---
-title: Robert Schumann - Toccata Op. 7 (1)
+title: Toccata Op. 7 (1)
 description: This is the description for Toccata Op. 7 by Robert Schumann
 composers: [Robert Schumann]
 periods: [Romantic]

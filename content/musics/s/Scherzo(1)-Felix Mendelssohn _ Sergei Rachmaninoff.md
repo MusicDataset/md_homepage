@@ -1,5 +1,5 @@
 ---
-title: Felix Mendelssohn _ Sergei Rachmaninoff - Scherzo (1)
+title: Scherzo (1)
 description: This is the description for Scherzo by Felix Mendelssohn _ Sergei Rachmaninoff
 composers: [Felix Mendelssohn _ Sergei Rachmaninoff]
 periods: [Romantic]

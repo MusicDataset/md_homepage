@@ -1,5 +1,5 @@
 ---
-title: Ludwig van Beethoven - Rondo a capriccioso "Rage over a Lost Penny" Op. 129 (1)
+title: Rondo a capriccioso "Rage over a Lost Penny" Op. 129 (1)
 description: This is the description for Rondo a capriccioso "Rage over a Lost Penny" Op. 129 by Ludwig van Beethoven
 composers: [Ludwig van Beethoven]
 periods: [Classical]

@@ -1,5 +1,5 @@
 ---
-title: Johannes Brahms - Variations on a Theme by Paganini Op. 35 Book II (2)
+title: Variations on a Theme by Paganini Op. 35 Book II (2)
 description: This is the description for Variations on a Theme by Paganini Op. 35 Book II by Johannes Brahms
 composers: [Johannes Brahms]
 periods: [Romantic]

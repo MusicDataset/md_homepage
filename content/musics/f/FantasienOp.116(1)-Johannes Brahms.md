@@ -1,5 +1,5 @@
 ---
-title: Johannes Brahms - Fantasien Op.116 (1)
+title: Fantasien Op.116 (1)
 description: This is the description for Fantasien Op.116 by Johannes Brahms
 composers: [Johannes Brahms]
 periods: [Romantic]

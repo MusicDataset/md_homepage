@@ -1,5 +1,5 @@
 ---
-title: Robert Schumann - Symphonic Etudes (2)
+title: Symphonic Etudes (2)
 description: This is the description for Symphonic Etudes by Robert Schumann
 composers: [Robert Schumann]
 periods: [Romantic]

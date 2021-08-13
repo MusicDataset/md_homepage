@@ -1,5 +1,5 @@
 ---
-title: Franz Liszt - Transcendental Etude No. 12 "Chasse-neige" (1)
+title: Transcendental Etude No. 12 "Chasse-neige" (1)
 description: This is the description for Transcendental Etude No. 12 "Chasse-neige" by Franz Liszt
 composers: [Franz Liszt]
 periods: [Romantic]

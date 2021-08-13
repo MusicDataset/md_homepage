@@ -1,5 +1,5 @@
 ---
-title: Frédéric Chopin - Polonaise Op. 26 in E-flat Minor (1)
+title: Polonaise Op. 26 in E-flat Minor (1)
 description: This is the description for Polonaise Op. 26 in E-flat Minor by Frédéric Chopin
 composers: [Frédéric Chopin]
 periods: [Romantic]

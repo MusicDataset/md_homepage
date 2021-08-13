@@ -1,5 +1,5 @@
 ---
-title: Alexander Scriabin - Sonata No. 2 in G-sharp Minor Op. 19 (1)
+title: Sonata No. 2 in G-sharp Minor Op. 19 (1)
 description: This is the description for Sonata No. 2 in G-sharp Minor Op. 19 by Alexander Scriabin
 composers: [Alexander Scriabin]
 periods: [Romantic]

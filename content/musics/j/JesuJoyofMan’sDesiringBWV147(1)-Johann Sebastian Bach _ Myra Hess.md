@@ -1,5 +1,5 @@
 ---
-title: Johann Sebastian Bach _ Myra Hess - Jesu Joy of Man’s Desiring BWV 147 (1)
+title: Jesu Joy of Man’s Desiring BWV 147 (1)
 description: This is the description for Jesu Joy of Man’s Desiring BWV 147 by Johann Sebastian Bach _ Myra Hess
 composers: [Johann Sebastian Bach _ Myra Hess]
 periods: [Baroque]

@@ -1,5 +1,5 @@
 ---
-title: Franz Liszt - Mephisto Waltz (1)
+title: Mephisto Waltz (1)
 description: This is the description for Mephisto Waltz by Franz Liszt
 composers: [Franz Liszt]
 periods: [Romantic]

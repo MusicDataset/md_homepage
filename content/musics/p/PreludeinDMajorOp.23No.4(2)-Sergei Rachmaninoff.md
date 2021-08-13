@@ -1,5 +1,5 @@
 ---
-title: Sergei Rachmaninoff - Prelude in D Major Op. 23 No. 4 (2)
+title: Prelude in D Major Op. 23 No. 4 (2)
 description: This is the description for Prelude in D Major Op. 23 No. 4 by Sergei Rachmaninoff
 composers: [Sergei Rachmaninoff]
 periods: [Romantic]

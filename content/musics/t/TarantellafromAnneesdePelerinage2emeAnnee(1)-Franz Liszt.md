@@ -1,5 +1,5 @@
 ---
-title: Franz Liszt - Tarantella from Annees de Pelerinage 2eme Annee (1)
+title: Tarantella from Annees de Pelerinage 2eme Annee (1)
 description: This is the description for Tarantella from Annees de Pelerinage 2eme Annee by Franz Liszt
 composers: [Franz Liszt]
 periods: [Romantic]

@@ -1,5 +1,5 @@
 ---
-title: Frédéric Chopin - Etude Op. 10 No. 12 in C Minor (5)
+title: Etude Op. 10 No. 12 in C Minor (5)
 description: This is the description for Etude Op. 10 No. 12 in C Minor by Frédéric Chopin
 composers: [Frédéric Chopin]
 periods: [Romantic]

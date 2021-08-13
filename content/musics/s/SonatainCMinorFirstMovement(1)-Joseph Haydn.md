@@ -1,5 +1,5 @@
 ---
-title: Joseph Haydn - Sonata in C Minor First Movement (1)
+title: Sonata in C Minor First Movement (1)
 description: This is the description for Sonata in C Minor First Movement by Joseph Haydn
 composers: [Joseph Haydn]
 periods: [Classical]

@@ -1,5 +1,5 @@
 ---
-title: Jean-Philippe Rameau - RameauSelections (1)
+title: RameauSelections (1)
 description: This is the description for RameauSelections by Jean-Philippe Rameau
 composers: [Jean-Philippe Rameau]
 periods: [Baroque]

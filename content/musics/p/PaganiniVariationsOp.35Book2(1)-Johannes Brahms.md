@@ -1,5 +1,5 @@
 ---
-title: Johannes Brahms - Paganini Variations Op. 35 Book 2 (1)
+title: Paganini Variations Op. 35 Book 2 (1)
 description: This is the description for Paganini Variations Op. 35 Book 2 by Johannes Brahms
 composers: [Johannes Brahms]
 periods: [Romantic]

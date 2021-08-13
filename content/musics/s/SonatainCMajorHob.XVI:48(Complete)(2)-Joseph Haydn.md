@@ -1,5 +1,5 @@
 ---
-title: Joseph Haydn - Sonata in C Major Hob. XVI48 (Complete) (2)
+title: Sonata in C Major Hob. XVI48 (Complete) (2)
 description: This is the description for Sonata in C Major Hob. XVI48 (Complete) by Joseph Haydn
 composers: [Joseph Haydn]
 periods: [Classical]

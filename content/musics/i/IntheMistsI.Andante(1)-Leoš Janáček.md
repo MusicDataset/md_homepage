@@ -1,5 +1,5 @@
 ---
-title: Leoš Janáček - In the Mists I. Andante (1)
+title: In the Mists I. Andante (1)
 description: This is the description for In the Mists I. Andante by Leoš Janáček
 composers: [Leoš Janáček]
 periods: [Romantic]

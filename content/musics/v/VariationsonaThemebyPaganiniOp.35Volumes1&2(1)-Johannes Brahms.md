@@ -1,5 +1,5 @@
 ---
-title: Johannes Brahms - Variations on a Theme by Paganini Op. 35 Volumes 1 & 2 (1)
+title: Variations on a Theme by Paganini Op. 35 Volumes 1 & 2 (1)
 description: This is the description for Variations on a Theme by Paganini Op. 35 Volumes 1 & 2 by Johannes Brahms
 composers: [Johannes Brahms]
 periods: [Romantic]

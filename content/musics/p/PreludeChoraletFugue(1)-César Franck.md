@@ -1,5 +1,5 @@
 ---
-title: César Franck - Prelude Choral et Fugue (1)
+title: Prelude Choral et Fugue (1)
 description: This is the description for Prelude Choral et Fugue by César Franck
 composers: [César Franck]
 periods: [Romantic]

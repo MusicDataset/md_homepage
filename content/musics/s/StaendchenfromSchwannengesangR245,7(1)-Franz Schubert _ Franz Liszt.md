@@ -1,5 +1,5 @@
 ---
-title: Franz Schubert _ Franz Liszt - Staendchen from Schwannengesang R245/7 (1)
+title: Staendchen from Schwannengesang R245/7 (1)
 description: This is the description for Staendchen from Schwannengesang R245/7 by Franz Schubert _ Franz Liszt
 composers: [Franz Schubert _ Franz Liszt]
 periods: [Romantic]

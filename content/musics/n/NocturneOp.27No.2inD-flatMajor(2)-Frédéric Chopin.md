@@ -1,5 +1,5 @@
 ---
-title: Frédéric Chopin - Nocturne Op. 27 No. 2 in D-flat Major (2)
+title: Nocturne Op. 27 No. 2 in D-flat Major (2)
 description: This is the description for Nocturne Op. 27 No. 2 in D-flat Major by Frédéric Chopin
 composers: [Frédéric Chopin]
 periods: [Romantic]

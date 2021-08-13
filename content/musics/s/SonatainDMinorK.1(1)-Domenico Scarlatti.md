@@ -1,5 +1,5 @@
 ---
-title: Domenico Scarlatti - Sonata in D Minor K. 1 (1)
+title: Sonata in D Minor K. 1 (1)
 description: This is the description for Sonata in D Minor K. 1 by Domenico Scarlatti
 composers: [Domenico Scarlatti]
 periods: [Baroque]

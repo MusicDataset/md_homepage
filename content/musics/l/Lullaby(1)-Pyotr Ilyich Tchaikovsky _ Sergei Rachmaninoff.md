@@ -1,5 +1,5 @@
 ---
-title: Pyotr Ilyich Tchaikovsky _ Sergei Rachmaninoff - Lullaby (1)
+title: Lullaby (1)
 description: This is the description for Lullaby by Pyotr Ilyich Tchaikovsky _ Sergei Rachmaninoff
 composers: [Pyotr Ilyich Tchaikovsky _ Sergei Rachmaninoff]
 periods: [Romantic]

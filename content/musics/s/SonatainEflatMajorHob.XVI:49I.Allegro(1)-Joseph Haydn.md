@@ -1,5 +1,5 @@
 ---
-title: Joseph Haydn - Sonata in E flat Major Hob. XVI 49 I. Allegro (1)
+title: Sonata in E flat Major Hob. XVI 49 I. Allegro (1)
 description: This is the description for Sonata in E flat Major Hob. XVI 49 I. Allegro by Joseph Haydn
 composers: [Joseph Haydn]
 periods: [Classical]

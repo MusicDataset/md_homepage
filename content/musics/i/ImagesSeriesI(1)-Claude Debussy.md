@@ -1,5 +1,5 @@
 ---
-title: Claude Debussy - Images Series I (1)
+title: Images Series I (1)
 description: This is the description for Images Series I by Claude Debussy
 composers: [Claude Debussy]
 periods: [Impressionism]

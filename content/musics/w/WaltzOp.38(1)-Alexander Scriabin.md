@@ -1,5 +1,5 @@
 ---
-title: Alexander Scriabin - Waltz Op. 38 (1)
+title: Waltz Op. 38 (1)
 description: This is the description for Waltz Op. 38 by Alexander Scriabin
 composers: [Alexander Scriabin]
 periods: [Romantic]

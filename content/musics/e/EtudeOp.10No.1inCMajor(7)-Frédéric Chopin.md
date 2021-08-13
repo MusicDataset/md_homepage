@@ -1,5 +1,5 @@
 ---
-title: Frédéric Chopin - Etude Op. 10 No. 1 in C Major (7)
+title: Etude Op. 10 No. 1 in C Major (7)
 description: This is the description for Etude Op. 10 No. 1 in C Major by Frédéric Chopin
 composers: [Frédéric Chopin]
 periods: [Romantic]

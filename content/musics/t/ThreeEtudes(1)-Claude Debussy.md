@@ -1,5 +1,5 @@
 ---
-title: Claude Debussy - Three Etudes (1)
+title: Three Etudes (1)
 description: This is the description for Three Etudes by Claude Debussy
 composers: [Claude Debussy]
 periods: [Impressionism]

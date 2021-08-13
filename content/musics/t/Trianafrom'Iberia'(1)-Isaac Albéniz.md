@@ -1,5 +1,5 @@
 ---
-title: Isaac Albéniz - Triana from 'Iberia' (1)
+title: Triana from 'Iberia' (1)
 description: This is the description for Triana from 'Iberia' by Isaac Albéniz
 composers: [Isaac Albéniz]
 periods: [Romantic]

@@ -1,5 +1,5 @@
 ---
-title: Wolfgang Amadeus Mozart - Rondo in A Minor K. 511 (1)
+title: Rondo in A Minor K. 511 (1)
 description: This is the description for Rondo in A Minor K. 511 by Wolfgang Amadeus Mozart
 composers: [Wolfgang Amadeus Mozart]
 periods: [Classical]

@@ -1,5 +1,5 @@
 ---
-title: Robert Schumann - Sonata No. 1 in F-sharp Minor Op. 11 (1)
+title: Sonata No. 1 in F-sharp Minor Op. 11 (1)
 description: This is the description for Sonata No. 1 in F-sharp Minor Op. 11 by Robert Schumann
 composers: [Robert Schumann]
 periods: [Romantic]

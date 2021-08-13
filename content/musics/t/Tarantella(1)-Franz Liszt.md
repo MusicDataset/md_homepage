@@ -1,5 +1,5 @@
 ---
-title: Franz Liszt - Tarantella (1)
+title: Tarantella (1)
 description: This is the description for Tarantella by Franz Liszt
 composers: [Franz Liszt]
 periods: [Romantic]

@@ -1,5 +1,5 @@
 ---
-title: Frédéric Chopin - Mazurka Op. 6 No. 2 in C-sharp Minor (1)
+title: Mazurka Op. 6 No. 2 in C-sharp Minor (1)
 description: This is the description for Mazurka Op. 6 No. 2 in C-sharp Minor by Frédéric Chopin
 composers: [Frédéric Chopin]
 periods: [Romantic]

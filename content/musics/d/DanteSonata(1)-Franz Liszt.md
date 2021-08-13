@@ -1,5 +1,5 @@
 ---
-title: Franz Liszt - Dante Sonata (1)
+title: Dante Sonata (1)
 description: This is the description for Dante Sonata by Franz Liszt
 composers: [Franz Liszt]
 periods: [Romantic]

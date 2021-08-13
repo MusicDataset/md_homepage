@@ -1,5 +1,5 @@
 ---
-title: Johann Sebastian Bach - Prelude and Fugue in D Major WTC I BWV 850 (1)
+title: Prelude and Fugue in D Major WTC I BWV 850 (1)
 description: This is the description for Prelude and Fugue in D Major WTC I BWV 850 by Johann Sebastian Bach
 composers: [Johann Sebastian Bach]
 periods: [Baroque]

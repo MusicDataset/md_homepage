@@ -1,5 +1,5 @@
 ---
-title: Sergei Rachmaninoff - Moments Musicaux (1)
+title: Moments Musicaux (1)
 description: This is the description for Moments Musicaux by Sergei Rachmaninoff
 composers: [Sergei Rachmaninoff]
 periods: [Romantic]

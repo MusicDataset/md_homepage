@@ -1,5 +1,5 @@
 ---
-title: Johann Sebastian Bach - Prelude & Fugue (1)
+title: Prelude & Fugue (1)
 description: This is the description for Prelude & Fugue by Johann Sebastian Bach
 composers: [Johann Sebastian Bach]
 periods: [Baroque]

@@ -1,5 +1,5 @@
 ---
-title: Frédéric Chopin - Scherzo No. 1 in B Minor Op. 20 (2)
+title: Scherzo No. 1 in B Minor Op. 20 (2)
 description: This is the description for Scherzo No. 1 in B Minor Op. 20 by Frédéric Chopin
 composers: [Frédéric Chopin]
 periods: [Romantic]

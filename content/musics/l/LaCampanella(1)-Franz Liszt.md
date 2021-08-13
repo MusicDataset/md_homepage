@@ -1,5 +1,5 @@
 ---
-title: Franz Liszt - La Campanella (1)
+title: La Campanella (1)
 description: This is the description for La Campanella by Franz Liszt
 composers: [Franz Liszt]
 periods: [Romantic]

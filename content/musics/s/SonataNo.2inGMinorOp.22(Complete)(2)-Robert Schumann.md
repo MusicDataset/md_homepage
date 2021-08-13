@@ -1,5 +1,5 @@
 ---
-title: Robert Schumann - Sonata No. 2 in G Minor Op. 22 (Complete) (2)
+title: Sonata No. 2 in G Minor Op. 22 (Complete) (2)
 description: This is the description for Sonata No. 2 in G Minor Op. 22 (Complete) by Robert Schumann
 composers: [Robert Schumann]
 periods: [Romantic]

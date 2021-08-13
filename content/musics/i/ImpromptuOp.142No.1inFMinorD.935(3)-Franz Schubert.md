@@ -1,5 +1,5 @@
 ---
-title: Franz Schubert - Impromptu Op. 142 No. 1 in F Minor D. 935 (3)
+title: Impromptu Op. 142 No. 1 in F Minor D. 935 (3)
 description: This is the description for Impromptu Op. 142 No. 1 in F Minor D. 935 by Franz Schubert
 composers: [Franz Schubert]
 periods: [Romantic]

@@ -1,5 +1,5 @@
 ---
-title: Franz Liszt - Mephisto Waltz No. 1 S.514 (6)
+title: Mephisto Waltz No. 1 S.514 (6)
 description: This is the description for Mephisto Waltz No. 1 S.514 by Franz Liszt
 composers: [Franz Liszt]
 periods: [Romantic]

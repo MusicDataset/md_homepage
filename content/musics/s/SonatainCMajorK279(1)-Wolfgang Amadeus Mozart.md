@@ -1,5 +1,5 @@
 ---
-title: Wolfgang Amadeus Mozart - Sonata in C Major K279 (1)
+title: Sonata in C Major K279 (1)
 description: This is the description for Sonata in C Major K279 by Wolfgang Amadeus Mozart
 composers: [Wolfgang Amadeus Mozart]
 periods: [Classical]

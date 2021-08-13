@@ -1,5 +1,5 @@
 ---
-title: Sergei Rachmaninoff - Elegie in E-flat Minor Op. 3 No. 1 (1)
+title: Elegie in E-flat Minor Op. 3 No. 1 (1)
 description: This is the description for Elegie in E-flat Minor Op. 3 No. 1 by Sergei Rachmaninoff
 composers: [Sergei Rachmaninoff]
 periods: [Romantic]

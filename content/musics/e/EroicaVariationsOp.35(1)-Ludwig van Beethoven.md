@@ -1,5 +1,5 @@
 ---
-title: Ludwig van Beethoven - Eroica Variations Op. 35 (1)
+title: Eroica Variations Op. 35 (1)
 description: This is the description for Eroica Variations Op. 35 by Ludwig van Beethoven
 composers: [Ludwig van Beethoven]
 periods: [Classical]

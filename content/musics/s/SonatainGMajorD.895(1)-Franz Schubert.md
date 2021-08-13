@@ -1,5 +1,5 @@
 ---
-title: Franz Schubert - Sonata in G Major D. 895 (1)
+title: Sonata in G Major D. 895 (1)
 description: This is the description for Sonata in G Major D. 895 by Franz Schubert
 composers: [Franz Schubert]
 periods: [Romantic]

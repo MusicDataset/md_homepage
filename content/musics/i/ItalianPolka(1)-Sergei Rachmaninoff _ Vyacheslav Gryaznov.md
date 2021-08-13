@@ -1,5 +1,5 @@
 ---
-title: Sergei Rachmaninoff _ Vyacheslav Gryaznov - Italian Polka (1)
+title: Italian Polka (1)
 description: This is the description for Italian Polka by Sergei Rachmaninoff _ Vyacheslav Gryaznov
 composers: [Sergei Rachmaninoff _ Vyacheslav Gryaznov]
 periods: [Romantic]

@@ -1,5 +1,5 @@
 ---
-title: Johann Sebastian Bach - French Suite No. 5 in G Major (1)
+title: French Suite No. 5 in G Major (1)
 description: This is the description for French Suite No. 5 in G Major by Johann Sebastian Bach
 composers: [Johann Sebastian Bach]
 periods: [Baroque]

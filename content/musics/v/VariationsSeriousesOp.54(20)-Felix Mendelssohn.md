@@ -1,5 +1,5 @@
 ---
-title: Felix Mendelssohn - Variations Seriouses Op. 54 (20)
+title: Variations Seriouses Op. 54 (20)
 description: This is the description for Variations Seriouses Op. 54 by Felix Mendelssohn
 composers: [Felix Mendelssohn]
 periods: [Romantic]

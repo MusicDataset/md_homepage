@@ -1,5 +1,5 @@
 ---
-title: Frédéric Chopin - Scherzo No. 4 in E Major Op. 54 (8)
+title: Scherzo No. 4 in E Major Op. 54 (8)
 description: This is the description for Scherzo No. 4 in E Major Op. 54 by Frédéric Chopin
 composers: [Frédéric Chopin]
 periods: [Romantic]

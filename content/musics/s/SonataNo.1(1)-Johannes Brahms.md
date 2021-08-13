@@ -1,5 +1,5 @@
 ---
-title: Johannes Brahms - Sonata No. 1 (1)
+title: Sonata No. 1 (1)
 description: This is the description for Sonata No. 1 by Johannes Brahms
 composers: [Johannes Brahms]
 periods: [Romantic]

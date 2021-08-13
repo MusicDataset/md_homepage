@@ -1,5 +1,5 @@
 ---
-title: Johannes Brahms - Variations on a theme by Paganini (Books I & II) (1)
+title: Variations on a theme by Paganini (Books I & II) (1)
 description: This is the description for Variations on a theme by Paganini (Books I & II) by Johannes Brahms
 composers: [Johannes Brahms]
 periods: [Romantic]

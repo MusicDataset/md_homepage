@@ -1,5 +1,5 @@
 ---
-title: Franz Liszt - Mephisto Waltz No. 1 (4)
+title: Mephisto Waltz No. 1 (4)
 description: This is the description for Mephisto Waltz No. 1 by Franz Liszt
 composers: [Franz Liszt]
 periods: [Romantic]

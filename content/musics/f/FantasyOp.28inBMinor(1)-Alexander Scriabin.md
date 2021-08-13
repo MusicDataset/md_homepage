@@ -1,5 +1,5 @@
 ---
-title: Alexander Scriabin - Fantasy Op. 28 in B Minor (1)
+title: Fantasy Op. 28 in B Minor (1)
 description: This is the description for Fantasy Op. 28 in B Minor by Alexander Scriabin
 composers: [Alexander Scriabin]
 periods: [Romantic]

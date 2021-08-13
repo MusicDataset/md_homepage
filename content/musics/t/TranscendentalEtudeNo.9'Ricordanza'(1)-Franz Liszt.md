@@ -1,5 +1,5 @@
 ---
-title: Franz Liszt - Transcendental Etude No. 9 'Ricordanza' (1)
+title: Transcendental Etude No. 9 'Ricordanza' (1)
 description: This is the description for Transcendental Etude No. 9 'Ricordanza' by Franz Liszt
 composers: [Franz Liszt]
 periods: [Romantic]

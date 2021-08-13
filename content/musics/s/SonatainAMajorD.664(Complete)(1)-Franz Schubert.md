@@ -1,5 +1,5 @@
 ---
-title: Franz Schubert - Sonata in A Major D. 664 (Complete) (1)
+title: Sonata in A Major D. 664 (Complete) (1)
 description: This is the description for Sonata in A Major D. 664 (Complete) by Franz Schubert
 composers: [Franz Schubert]
 periods: [Romantic]

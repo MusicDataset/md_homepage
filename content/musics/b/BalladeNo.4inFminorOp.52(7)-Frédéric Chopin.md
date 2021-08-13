@@ -1,5 +1,5 @@
 ---
-title: Frédéric Chopin - Ballade No. 4 in F minor Op. 52 (7)
+title: Ballade No. 4 in F minor Op. 52 (7)
 description: This is the description for Ballade No. 4 in F minor Op. 52 by Frédéric Chopin
 composers: [Frédéric Chopin]
 periods: [Romantic]

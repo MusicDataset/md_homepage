@@ -1,5 +1,5 @@
 ---
-title: Ludwig van Beethoven - Sonata No. 10 in G Major Op. 14 No. 2 First Movement (1)
+title: Sonata No. 10 in G Major Op. 14 No. 2 First Movement (1)
 description: This is the description for Sonata No. 10 in G Major Op. 14 No. 2 First Movement by Ludwig van Beethoven
 composers: [Ludwig van Beethoven]
 periods: [Classical]

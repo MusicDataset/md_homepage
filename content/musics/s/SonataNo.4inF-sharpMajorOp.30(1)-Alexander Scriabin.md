@@ -1,5 +1,5 @@
 ---
-title: Alexander Scriabin - Sonata No. 4 in F-sharp Major Op.30 (1)
+title: Sonata No. 4 in F-sharp Major Op.30 (1)
 description: This is the description for Sonata No. 4 in F-sharp Major Op.30 by Alexander Scriabin
 composers: [Alexander Scriabin]
 periods: [Romantic]

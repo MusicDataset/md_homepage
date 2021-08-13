@@ -1,5 +1,5 @@
 ---
-title: Frédéric Chopin - Sonata No. 3 in B Minor Op. 58 (5)
+title: Sonata No. 3 in B Minor Op. 58 (5)
 description: This is the description for Sonata No. 3 in B Minor Op. 58 by Frédéric Chopin
 composers: [Frédéric Chopin]
 periods: [Romantic]

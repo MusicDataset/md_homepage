@@ -1,5 +1,5 @@
 ---
-title: Franz Schubert - Moment Musical Op. 94 No. 1 in C Major (1)
+title: Moment Musical Op. 94 No. 1 in C Major (1)
 description: This is the description for Moment Musical Op. 94 No. 1 in C Major by Franz Schubert
 composers: [Franz Schubert]
 periods: [Romantic]

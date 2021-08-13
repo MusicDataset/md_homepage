@@ -1,5 +1,5 @@
 ---
-title: Frédéric Chopin - Nocturne Op. 27 No. 1 in C-sharp Minor (1)
+title: Nocturne Op. 27 No. 1 in C-sharp Minor (1)
 description: This is the description for Nocturne Op. 27 No. 1 in C-sharp Minor by Frédéric Chopin
 composers: [Frédéric Chopin]
 periods: [Romantic]

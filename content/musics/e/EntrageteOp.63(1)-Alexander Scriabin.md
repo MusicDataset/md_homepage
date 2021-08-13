@@ -1,5 +1,5 @@
 ---
-title: Alexander Scriabin - Entragete Op.63 (1)
+title: Entragete Op.63 (1)
 description: This is the description for Entragete Op.63 by Alexander Scriabin
 composers: [Alexander Scriabin]
 periods: [Romantic]

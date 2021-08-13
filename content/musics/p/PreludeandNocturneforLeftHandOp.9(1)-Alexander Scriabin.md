@@ -1,5 +1,5 @@
 ---
-title: Alexander Scriabin - Prelude and Nocturne for Left Hand Op. 9 (1)
+title: Prelude and Nocturne for Left Hand Op. 9 (1)
 description: This is the description for Prelude and Nocturne for Left Hand Op. 9 by Alexander Scriabin
 composers: [Alexander Scriabin]
 periods: [Romantic]

@@ -1,5 +1,5 @@
 ---
-title: Franz Schubert _ Franz Liszt - Die Forelle (1)
+title: Die Forelle (1)
 description: This is the description for Die Forelle by Franz Schubert _ Franz Liszt
 composers: [Franz Schubert _ Franz Liszt]
 periods: [Romantic]

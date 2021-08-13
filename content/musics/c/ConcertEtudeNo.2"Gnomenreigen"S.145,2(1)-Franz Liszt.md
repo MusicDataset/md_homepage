@@ -1,5 +1,5 @@
 ---
-title: Franz Liszt - Concert Etude No. 2 "Gnomenreigen" S. 145, 2 (1)
+title: Concert Etude No. 2 "Gnomenreigen" S. 145, 2 (1)
 description: This is the description for Concert Etude No. 2 "Gnomenreigen" S. 145, 2 by Franz Liszt
 composers: [Franz Liszt]
 periods: [Romantic]

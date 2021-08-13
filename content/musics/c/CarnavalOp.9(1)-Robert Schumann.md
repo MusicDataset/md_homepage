@@ -1,5 +1,5 @@
 ---
-title: Robert Schumann - Carnaval Op. 9 (1)
+title: Carnaval Op. 9 (1)
 description: This is the description for Carnaval Op. 9 by Robert Schumann
 composers: [Robert Schumann]
 periods: [Romantic]

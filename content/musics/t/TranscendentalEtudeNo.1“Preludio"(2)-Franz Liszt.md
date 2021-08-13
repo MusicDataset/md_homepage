@@ -1,5 +1,5 @@
 ---
-title: Franz Liszt - Transcendental Etude No. 1 “Preludio" (2)
+title: Transcendental Etude No. 1 “Preludio" (2)
 description: This is the description for Transcendental Etude No. 1 “Preludio" by Franz Liszt
 composers: [Franz Liszt]
 periods: [Romantic]

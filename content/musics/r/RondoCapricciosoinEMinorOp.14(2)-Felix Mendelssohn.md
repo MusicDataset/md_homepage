@@ -1,5 +1,5 @@
 ---
-title: Felix Mendelssohn - Rondo Capriccioso in E Minor Op. 14 (2)
+title: Rondo Capriccioso in E Minor Op. 14 (2)
 description: This is the description for Rondo Capriccioso in E Minor Op. 14 by Felix Mendelssohn
 composers: [Felix Mendelssohn]
 periods: [Romantic]

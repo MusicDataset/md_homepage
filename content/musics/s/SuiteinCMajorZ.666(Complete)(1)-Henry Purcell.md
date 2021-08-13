@@ -1,5 +1,5 @@
 ---
-title: Henry Purcell - Suite in C Major Z. 666 (Complete) (1)
+title: Suite in C Major Z. 666 (Complete) (1)
 description: This is the description for Suite in C Major Z. 666 (Complete) by Henry Purcell
 composers: [Henry Purcell]
 periods: [Baroque]

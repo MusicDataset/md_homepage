@@ -1,5 +1,5 @@
 ---
-title: Claude Debussy - Images Book I (1)
+title: Images Book I (1)
 description: This is the description for Images Book I by Claude Debussy
 composers: [Claude Debussy]
 periods: [Impressionism]

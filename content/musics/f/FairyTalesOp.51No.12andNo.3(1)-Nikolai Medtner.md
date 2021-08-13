@@ -1,5 +1,5 @@
 ---
-title: Nikolai Medtner - Fairy Tales Op. 51 No. 1 2 and No. 3 (1)
+title: Fairy Tales Op. 51 No. 1 2 and No. 3 (1)
 description: This is the description for Fairy Tales Op. 51 No. 1 2 and No. 3 by Nikolai Medtner
 composers: [Nikolai Medtner]
 periods: [Romantic]

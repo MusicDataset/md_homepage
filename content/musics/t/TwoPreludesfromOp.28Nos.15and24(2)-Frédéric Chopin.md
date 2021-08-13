@@ -1,5 +1,5 @@
 ---
-title: Frédéric Chopin - Two Preludes from Op. 28 Nos. 15 and 24 (2)
+title: Two Preludes from Op. 28 Nos. 15 and 24 (2)
 description: This is the description for Two Preludes from Op. 28 Nos. 15 and 24 by Frédéric Chopin
 composers: [Frédéric Chopin]
 periods: [Romantic]

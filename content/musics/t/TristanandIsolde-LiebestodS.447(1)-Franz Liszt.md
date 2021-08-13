@@ -1,5 +1,5 @@
 ---
-title: Franz Liszt - Tristan and Isolde - Liebestod S.447 (1)
+title: Tristan and Isolde - Liebestod S.447 (1)
 description: This is the description for Tristan and Isolde - Liebestod S.447 by Franz Liszt
 composers: [Franz Liszt]
 periods: [Romantic]

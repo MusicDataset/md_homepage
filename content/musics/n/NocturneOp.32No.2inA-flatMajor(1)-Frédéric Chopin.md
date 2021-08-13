@@ -1,5 +1,5 @@
 ---
-title: Frédéric Chopin - Nocturne Op. 32 No. 2 in A-flat Major (1)
+title: Nocturne Op. 32 No. 2 in A-flat Major (1)
 description: This is the description for Nocturne Op. 32 No. 2 in A-flat Major by Frédéric Chopin
 composers: [Frédéric Chopin]
 periods: [Romantic]

@@ -1,5 +1,5 @@
 ---
-title: Frédéric Chopin - Mazurka Op. 50 No. 3 in C-sharp Minor (1)
+title: Mazurka Op. 50 No. 3 in C-sharp Minor (1)
 description: This is the description for Mazurka Op. 50 No. 3 in C-sharp Minor by Frédéric Chopin
 composers: [Frédéric Chopin]
 periods: [Romantic]

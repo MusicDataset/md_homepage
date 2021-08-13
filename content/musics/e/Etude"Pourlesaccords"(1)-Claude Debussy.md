@@ -1,5 +1,5 @@
 ---
-title: Claude Debussy - Etude "Pour les accords" (1)
+title: Etude "Pour les accords" (1)
 description: This is the description for Etude "Pour les accords" by Claude Debussy
 composers: [Claude Debussy]
 periods: [Impressionism]

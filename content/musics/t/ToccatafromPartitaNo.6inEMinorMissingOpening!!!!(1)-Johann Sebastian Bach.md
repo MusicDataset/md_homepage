@@ -1,5 +1,5 @@
 ---
-title: Johann Sebastian Bach - Toccata from Partita No. 6 in E Minor Missing Opening!!!! (1)
+title: Toccata from Partita No. 6 in E Minor Missing Opening!!!! (1)
 description: This is the description for Toccata from Partita No. 6 in E Minor Missing Opening!!!! by Johann Sebastian Bach
 composers: [Johann Sebastian Bach]
 periods: [Baroque]

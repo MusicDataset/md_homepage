@@ -1,5 +1,5 @@
 ---
-title: Claude Debussy - Prelude No. 7 Book II La terrasse des audiences du clair de lune (1)
+title: Prelude No. 7 Book II La terrasse des audiences du clair de lune (1)
 description: This is the description for Prelude No. 7 Book II La terrasse des audiences du clair de lune by Claude Debussy
 composers: [Claude Debussy]
 periods: [Impressionism]

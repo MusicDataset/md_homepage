@@ -1,5 +1,5 @@
 ---
-title: Franz Liszt - Etudes d'exécution transcendante No. 10 in F Minor S.139/10 (1)
+title: Etudes d'exécution transcendante No. 10 in F Minor S.139/10 (1)
 description: This is the description for Etudes d'exécution transcendante No. 10 in F Minor S.139/10 by Franz Liszt
 composers: [Franz Liszt]
 periods: [Romantic]

@@ -1,5 +1,5 @@
 ---
-title: Ludwig van Beethoven - Bagatelles Op126 (1)
+title: Bagatelles Op126 (1)
 description: This is the description for Bagatelles Op126 by Ludwig van Beethoven
 composers: [Ludwig van Beethoven]
 periods: [Classical]

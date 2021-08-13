@@ -1,5 +1,5 @@
 ---
-title: Frédéric Chopin - Rondo in C Minor Op. 1 (1)
+title: Rondo in C Minor Op. 1 (1)
 description: This is the description for Rondo in C Minor Op. 1 by Frédéric Chopin
 composers: [Frédéric Chopin]
 periods: [Romantic]

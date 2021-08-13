@@ -1,5 +1,5 @@
 ---
-title: George Frideric Handel - Suite No. 3 in D Minor (1)
+title: Suite No. 3 in D Minor (1)
 description: This is the description for Suite No. 3 in D Minor by George Frideric Handel
 composers: [George Frideric Handel]
 periods: [Baroque]

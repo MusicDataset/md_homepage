@@ -1,5 +1,5 @@
 ---
-title: Franz Liszt - Tarantelle di Bravura S. 386 (1)
+title: Tarantelle di Bravura S. 386 (1)
 description: This is the description for Tarantelle di Bravura S. 386 by Franz Liszt
 composers: [Franz Liszt]
 periods: [Romantic]

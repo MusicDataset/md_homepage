@@ -1,5 +1,5 @@
 ---
-title: Wolfgang Amadeus Mozart - Sonata in F Major K533/K494 (1)
+title: Sonata in F Major K533/K494 (1)
 description: This is the description for Sonata in F Major K533/K494 by Wolfgang Amadeus Mozart
 composers: [Wolfgang Amadeus Mozart]
 periods: [Classical]

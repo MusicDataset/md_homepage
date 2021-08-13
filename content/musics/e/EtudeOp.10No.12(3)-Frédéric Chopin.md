@@ -1,5 +1,5 @@
 ---
-title: Frédéric Chopin - Etude Op. 10 No. 12 (3)
+title: Etude Op. 10 No. 12 (3)
 description: This is the description for Etude Op. 10 No. 12 by Frédéric Chopin
 composers: [Frédéric Chopin]
 periods: [Romantic]

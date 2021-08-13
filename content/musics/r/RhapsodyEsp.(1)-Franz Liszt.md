@@ -1,5 +1,5 @@
 ---
-title: Franz Liszt - Rhapsody Esp. (1)
+title: Rhapsody Esp. (1)
 description: This is the description for Rhapsody Esp. by Franz Liszt
 composers: [Franz Liszt]
 periods: [Romantic]

@@ -1,5 +1,5 @@
 ---
-title: Claude Debussy - L'isle joyeuse L. 106 (1)
+title: L'isle joyeuse L. 106 (1)
 description: This is the description for L'isle joyeuse L. 106 by Claude Debussy
 composers: [Claude Debussy]
 periods: [Impressionism]

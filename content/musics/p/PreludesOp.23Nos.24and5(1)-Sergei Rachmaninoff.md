@@ -1,5 +1,5 @@
 ---
-title: Sergei Rachmaninoff - Preludes Op. 23 Nos. 2 4 and 5 (1)
+title: Preludes Op. 23 Nos. 2 4 and 5 (1)
 description: This is the description for Preludes Op. 23 Nos. 2 4 and 5 by Sergei Rachmaninoff
 composers: [Sergei Rachmaninoff]
 periods: [Romantic]

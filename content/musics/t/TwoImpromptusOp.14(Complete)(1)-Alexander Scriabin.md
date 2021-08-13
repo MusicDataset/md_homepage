@@ -1,5 +1,5 @@
 ---
-title: Alexander Scriabin - Two Impromptus Op. 14 (Complete) (1)
+title: Two Impromptus Op. 14 (Complete) (1)
 description: This is the description for Two Impromptus Op. 14 (Complete) by Alexander Scriabin
 composers: [Alexander Scriabin]
 periods: [Romantic]

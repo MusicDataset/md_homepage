@@ -1,5 +1,5 @@
 ---
-title: Robert Schumann - Toccata in C Major Op. 7 (3)
+title: Toccata in C Major Op. 7 (3)
 description: This is the description for Toccata in C Major Op. 7 by Robert Schumann
 composers: [Robert Schumann]
 periods: [Romantic]

@@ -1,5 +1,5 @@
 ---
-title: Franz Schubert - Sonata in C major D. 840 (Complete) (1)
+title: Sonata in C major D. 840 (Complete) (1)
 description: This is the description for Sonata in C major D. 840 (Complete) by Franz Schubert
 composers: [Franz Schubert]
 periods: [Romantic]

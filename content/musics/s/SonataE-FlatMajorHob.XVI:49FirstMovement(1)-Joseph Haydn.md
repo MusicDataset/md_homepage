@@ -1,5 +1,5 @@
 ---
-title: Joseph Haydn - Sonata E-Flat Major Hob. XVI49 First Movement (1)
+title: Sonata E-Flat Major Hob. XVI49 First Movement (1)
 description: This is the description for Sonata E-Flat Major Hob. XVI49 First Movement by Joseph Haydn
 composers: [Joseph Haydn]
 periods: [Classical]

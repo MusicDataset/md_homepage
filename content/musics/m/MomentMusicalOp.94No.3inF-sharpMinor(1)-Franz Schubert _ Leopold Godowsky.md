@@ -1,5 +1,5 @@
 ---
-title: Franz Schubert _ Leopold Godowsky - Moment Musical Op. 94 No. 3 in F-sharp Minor (1)
+title: Moment Musical Op. 94 No. 3 in F-sharp Minor (1)
 description: This is the description for Moment Musical Op. 94 No. 3 in F-sharp Minor by Franz Schubert _ Leopold Godowsky
 composers: [Franz Schubert _ Leopold Godowsky]
 periods: [Romantic]

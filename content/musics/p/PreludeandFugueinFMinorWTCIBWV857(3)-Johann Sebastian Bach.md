@@ -1,5 +1,5 @@
 ---
-title: Johann Sebastian Bach - Prelude and Fugue in F Minor WTC I BWV 857 (3)
+title: Prelude and Fugue in F Minor WTC I BWV 857 (3)
 description: This is the description for Prelude and Fugue in F Minor WTC I BWV 857 by Johann Sebastian Bach
 composers: [Johann Sebastian Bach]
 periods: [Baroque]

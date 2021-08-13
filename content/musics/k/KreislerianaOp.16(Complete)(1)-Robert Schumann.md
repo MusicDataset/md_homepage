@@ -1,5 +1,5 @@
 ---
-title: Robert Schumann - Kreisleriana Op. 16 (Complete) (1)
+title: Kreisleriana Op. 16 (Complete) (1)
 description: This is the description for Kreisleriana Op. 16 (Complete) by Robert Schumann
 composers: [Robert Schumann]
 periods: [Romantic]

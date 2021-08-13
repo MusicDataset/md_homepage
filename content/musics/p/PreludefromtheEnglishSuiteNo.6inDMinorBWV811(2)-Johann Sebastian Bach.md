@@ -1,5 +1,5 @@
 ---
-title: Johann Sebastian Bach - Prelude from the English Suite No. 6 in D Minor BWV 811 (2)
+title: Prelude from the English Suite No. 6 in D Minor BWV 811 (2)
 description: This is the description for Prelude from the English Suite No. 6 in D Minor BWV 811 by Johann Sebastian Bach
 composers: [Johann Sebastian Bach]
 periods: [Baroque]

@@ -1,5 +1,5 @@
 ---
-title: Alexander Scriabin - Twenty-Four Preludes Op. 11 No. 13-24 (1)
+title: Twenty-Four Preludes Op. 11 No. 13-24 (1)
 description: This is the description for Twenty-Four Preludes Op. 11 No. 13-24 by Alexander Scriabin
 composers: [Alexander Scriabin]
 periods: [Romantic]

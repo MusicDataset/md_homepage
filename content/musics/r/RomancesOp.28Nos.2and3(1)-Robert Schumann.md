@@ -1,5 +1,5 @@
 ---
-title: Robert Schumann - Romances Op. 28 Nos. 2 and 3 (1)
+title: Romances Op. 28 Nos. 2 and 3 (1)
 description: This is the description for Romances Op. 28 Nos. 2 and 3 by Robert Schumann
 composers: [Robert Schumann]
 periods: [Romantic]

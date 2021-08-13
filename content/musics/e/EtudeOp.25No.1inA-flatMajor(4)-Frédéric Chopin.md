@@ -1,5 +1,5 @@
 ---
-title: Frédéric Chopin - Etude Op. 25 No. 1 in A-flat Major (4)
+title: Etude Op. 25 No. 1 in A-flat Major (4)
 description: This is the description for Etude Op. 25 No. 1 in A-flat Major by Frédéric Chopin
 composers: [Frédéric Chopin]
 periods: [Romantic]

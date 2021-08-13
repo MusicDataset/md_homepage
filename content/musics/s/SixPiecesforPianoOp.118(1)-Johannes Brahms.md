@@ -1,5 +1,5 @@
 ---
-title: Johannes Brahms - Six Pieces for Piano Op. 118 (1)
+title: Six Pieces for Piano Op. 118 (1)
 description: This is the description for Six Pieces for Piano Op. 118 by Johannes Brahms
 composers: [Johannes Brahms]
 periods: [Romantic]

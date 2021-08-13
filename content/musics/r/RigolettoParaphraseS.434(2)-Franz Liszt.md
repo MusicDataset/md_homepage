@@ -1,5 +1,5 @@
 ---
-title: Franz Liszt - Rigoletto Paraphrase S. 434 (2)
+title: Rigoletto Paraphrase S. 434 (2)
 description: This is the description for Rigoletto Paraphrase S. 434 by Franz Liszt
 composers: [Franz Liszt]
 periods: [Romantic]

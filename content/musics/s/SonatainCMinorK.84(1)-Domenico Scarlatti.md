@@ -1,5 +1,5 @@
 ---
-title: Domenico Scarlatti - Sonata in C Minor K. 84 (1)
+title: Sonata in C Minor K. 84 (1)
 description: This is the description for Sonata in C Minor K. 84 by Domenico Scarlatti
 composers: [Domenico Scarlatti]
 periods: [Baroque]

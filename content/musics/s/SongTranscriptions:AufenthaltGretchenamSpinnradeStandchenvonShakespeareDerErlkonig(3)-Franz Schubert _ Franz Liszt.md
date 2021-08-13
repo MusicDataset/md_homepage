@@ -1,5 +1,5 @@
 ---
-title: Franz Schubert _ Franz Liszt - Song Transcriptions Aufenthalt Gretchen am Spinnrade Standchen von Shakespeare Der Erlkonig (3)
+title: Song Transcriptions Aufenthalt Gretchen am Spinnrade Standchen von Shakespeare Der Erlkonig (3)
 description: This is the description for Song Transcriptions Aufenthalt Gretchen am Spinnrade Standchen von Shakespeare Der Erlkonig by Franz Schubert _ Franz Liszt
 composers: [Franz Schubert _ Franz Liszt]
 periods: [Romantic]

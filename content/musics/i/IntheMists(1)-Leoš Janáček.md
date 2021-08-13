@@ -1,5 +1,5 @@
 ---
-title: Leoš Janáček - In the Mists (1)
+title: In the Mists (1)
 description: This is the description for In the Mists by Leoš Janáček
 composers: [Leoš Janáček]
 periods: [Romantic]

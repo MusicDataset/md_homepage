@@ -1,5 +1,5 @@
 ---
-title: Franz Schubert - Sonata in A Min. (6)
+title: Sonata in A Min. (6)
 description: This is the description for Sonata in A Min. by Franz Schubert
 composers: [Franz Schubert]
 periods: [Romantic]

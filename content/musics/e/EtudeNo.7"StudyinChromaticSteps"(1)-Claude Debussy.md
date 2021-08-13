@@ -1,5 +1,5 @@
 ---
-title: Claude Debussy - Etude No. 7 "Study in Chromatic Steps" (1)
+title: Etude No. 7 "Study in Chromatic Steps" (1)
 description: This is the description for Etude No. 7 "Study in Chromatic Steps" by Claude Debussy
 composers: [Claude Debussy]
 periods: [Impressionism]

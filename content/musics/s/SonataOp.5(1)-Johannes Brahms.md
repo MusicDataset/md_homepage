@@ -1,5 +1,5 @@
 ---
-title: Johannes Brahms - Sonata Op. 5 (1)
+title: Sonata Op. 5 (1)
 description: This is the description for Sonata Op. 5 by Johannes Brahms
 composers: [Johannes Brahms]
 periods: [Romantic]

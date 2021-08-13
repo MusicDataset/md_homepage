@@ -1,5 +1,5 @@
 ---
-title: Nikolai Medtner - Three Fairy Tales "Skazki" from Op. 34 (1)
+title: Three Fairy Tales "Skazki" from Op. 34 (1)
 description: This is the description for Three Fairy Tales "Skazki" from Op. 34 by Nikolai Medtner
 composers: [Nikolai Medtner]
 periods: [Romantic]

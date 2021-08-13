@@ -1,5 +1,5 @@
 ---
-title: Sergei Rachmaninoff - Sonata No. 2 in B-flat Minor Opus 36 (5)
+title: Sonata No. 2 in B-flat Minor Opus 36 (5)
 description: This is the description for Sonata No. 2 in B-flat Minor Opus 36 by Sergei Rachmaninoff
 composers: [Sergei Rachmaninoff]
 periods: [Romantic]

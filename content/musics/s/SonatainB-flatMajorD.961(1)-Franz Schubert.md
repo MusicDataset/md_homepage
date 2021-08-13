@@ -1,5 +1,5 @@
 ---
-title: Franz Schubert - Sonata in B-flat Major D. 961 (1)
+title: Sonata in B-flat Major D. 961 (1)
 description: This is the description for Sonata in B-flat Major D. 961 by Franz Schubert
 composers: [Franz Schubert]
 periods: [Romantic]

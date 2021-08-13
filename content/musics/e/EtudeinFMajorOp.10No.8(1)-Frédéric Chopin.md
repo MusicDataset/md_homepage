@@ -1,5 +1,5 @@
 ---
-title: Frédéric Chopin - Etude in F Major Op. 10 No. 8 (1)
+title: Etude in F Major Op. 10 No. 8 (1)
 description: This is the description for Etude in F Major Op. 10 No. 8 by Frédéric Chopin
 composers: [Frédéric Chopin]
 periods: [Romantic]

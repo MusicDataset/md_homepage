@@ -1,5 +1,5 @@
 ---
-title: Pyotr Ilyich Tchaikovsky - Dumka (1)
+title: Dumka (1)
 description: This is the description for Dumka by Pyotr Ilyich Tchaikovsky
 composers: [Pyotr Ilyich Tchaikovsky]
 periods: [Romantic]

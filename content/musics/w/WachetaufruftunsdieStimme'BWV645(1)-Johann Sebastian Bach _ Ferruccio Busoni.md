@@ -1,5 +1,5 @@
 ---
-title: Johann Sebastian Bach _ Ferruccio Busoni - Wachet auf ruft uns die Stimme' BWV 645 (1)
+title: Wachet auf ruft uns die Stimme' BWV 645 (1)
 description: This is the description for Wachet auf ruft uns die Stimme' BWV 645 by Johann Sebastian Bach _ Ferruccio Busoni
 composers: [Johann Sebastian Bach _ Ferruccio Busoni]
 periods: [Baroque]

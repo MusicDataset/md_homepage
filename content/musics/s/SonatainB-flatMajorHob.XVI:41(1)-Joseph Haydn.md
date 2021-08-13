@@ -1,5 +1,5 @@
 ---
-title: Joseph Haydn - Sonata in B-flat Major Hob.XVI41 (1)
+title: Sonata in B-flat Major Hob.XVI41 (1)
 description: This is the description for Sonata in B-flat Major Hob.XVI41 by Joseph Haydn
 composers: [Joseph Haydn]
 periods: [Classical]

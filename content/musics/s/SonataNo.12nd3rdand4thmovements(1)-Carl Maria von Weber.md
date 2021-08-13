@@ -1,5 +1,5 @@
 ---
-title: Carl Maria von Weber - Sonata No. 1 2nd 3rd and 4th movements (1)
+title: Sonata No. 1 2nd 3rd and 4th movements (1)
 description: This is the description for Sonata No. 1 2nd 3rd and 4th movements by Carl Maria von Weber
 composers: [Carl Maria von Weber]
 periods: [Romantic]

@@ -1,5 +1,5 @@
 ---
-title: Ludwig van Beethoven - Sonata No. 18 in E-flat Major Op. 31 No. 3 (Complete) (1)
+title: Sonata No. 18 in E-flat Major Op. 31 No. 3 (Complete) (1)
 description: This is the description for Sonata No. 18 in E-flat Major Op. 31 No. 3 (Complete) by Ludwig van Beethoven
 composers: [Ludwig van Beethoven]
 periods: [Classical]

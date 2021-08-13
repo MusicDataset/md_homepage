@@ -1,5 +1,5 @@
 ---
-title: Sergei Rachmaninoff - Moment Musicaux Op. 16 No. 3 in B Minor (1)
+title: Moment Musicaux Op. 16 No. 3 in B Minor (1)
 description: This is the description for Moment Musicaux Op. 16 No. 3 in B Minor by Sergei Rachmaninoff
 composers: [Sergei Rachmaninoff]
 periods: [Romantic]

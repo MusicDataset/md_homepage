@@ -1,5 +1,5 @@
 ---
-title: Franz Schubert - Moment Musical Op. 94 No. 4 in C-sharp Minor D780 (2)
+title: Moment Musical Op. 94 No. 4 in C-sharp Minor D780 (2)
 description: This is the description for Moment Musical Op. 94 No. 4 in C-sharp Minor D780 by Franz Schubert
 composers: [Franz Schubert]
 periods: [Romantic]

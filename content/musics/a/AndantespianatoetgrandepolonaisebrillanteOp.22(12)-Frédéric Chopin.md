@@ -1,5 +1,5 @@
 ---
-title: Frédéric Chopin - Andante spianato et grande polonaise brillante Op. 22 (12)
+title: Andante spianato et grande polonaise brillante Op. 22 (12)
 description: This is the description for Andante spianato et grande polonaise brillante Op. 22 by Frédéric Chopin
 composers: [Frédéric Chopin]
 periods: [Romantic]

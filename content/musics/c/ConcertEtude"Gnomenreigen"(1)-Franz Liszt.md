@@ -1,5 +1,5 @@
 ---
-title: Franz Liszt - Concert Etude "Gnomenreigen" (1)
+title: Concert Etude "Gnomenreigen" (1)
 description: This is the description for Concert Etude "Gnomenreigen" by Franz Liszt
 composers: [Franz Liszt]
 periods: [Romantic]

@@ -1,5 +1,5 @@
 ---
-title: Mily Balakirev - In the Garden Etude-Idyll (1)
+title: In the Garden Etude-Idyll (1)
 description: This is the description for In the Garden Etude-Idyll by Mily Balakirev
 composers: [Mily Balakirev]
 periods: [Romantic]

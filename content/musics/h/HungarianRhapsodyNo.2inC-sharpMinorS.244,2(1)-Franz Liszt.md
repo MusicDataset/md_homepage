@@ -1,5 +1,5 @@
 ---
-title: Franz Liszt - Hungarian Rhapsody No. 2 in C-sharp Minor S. 244, 2 (1)
+title: Hungarian Rhapsody No. 2 in C-sharp Minor S. 244, 2 (1)
 description: This is the description for Hungarian Rhapsody No. 2 in C-sharp Minor S. 244, 2 by Franz Liszt
 composers: [Franz Liszt]
 periods: [Romantic]

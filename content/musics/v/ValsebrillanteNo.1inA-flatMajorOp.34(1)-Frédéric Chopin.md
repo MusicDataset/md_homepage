@@ -1,5 +1,5 @@
 ---
-title: Frédéric Chopin - Valse brillante No. 1 in A-flat Major Op. 34 (1)
+title: Valse brillante No. 1 in A-flat Major Op. 34 (1)
 description: This is the description for Valse brillante No. 1 in A-flat Major Op. 34 by Frédéric Chopin
 composers: [Frédéric Chopin]
 periods: [Romantic]

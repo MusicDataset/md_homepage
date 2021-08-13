@@ -1,5 +1,5 @@
 ---
-title: Franz Liszt - Transcendental Etude No. 3 "Paysage" (1)
+title: Transcendental Etude No. 3 "Paysage" (1)
 description: This is the description for Transcendental Etude No. 3 "Paysage" by Franz Liszt
 composers: [Franz Liszt]
 periods: [Romantic]

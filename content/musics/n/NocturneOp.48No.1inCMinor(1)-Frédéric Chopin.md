@@ -1,5 +1,5 @@
 ---
-title: Frédéric Chopin - Nocturne Op. 48 No. 1 in C Minor (1)
+title: Nocturne Op. 48 No. 1 in C Minor (1)
 description: This is the description for Nocturne Op. 48 No. 1 in C Minor by Frédéric Chopin
 composers: [Frédéric Chopin]
 periods: [Romantic]

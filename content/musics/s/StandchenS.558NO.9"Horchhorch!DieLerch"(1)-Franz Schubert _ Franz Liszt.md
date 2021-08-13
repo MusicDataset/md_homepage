@@ -1,5 +1,5 @@
 ---
-title: Franz Schubert _ Franz Liszt - Standchen S. 558 NO. 9 "Horch horch! Die Lerch" (1)
+title: Standchen S. 558 NO. 9 "Horch horch! Die Lerch" (1)
 description: This is the description for Standchen S. 558 NO. 9 "Horch horch! Die Lerch" by Franz Schubert _ Franz Liszt
 composers: [Franz Schubert _ Franz Liszt]
 periods: [Romantic]

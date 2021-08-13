@@ -1,5 +1,5 @@
 ---
-title: Domenico Scarlatti - Sonata in C Major K. 132 (1)
+title: Sonata in C Major K. 132 (1)
 description: This is the description for Sonata in C Major K. 132 by Domenico Scarlatti
 composers: [Domenico Scarlatti]
 periods: [Baroque]

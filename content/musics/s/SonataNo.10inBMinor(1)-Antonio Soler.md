@@ -1,5 +1,5 @@
 ---
-title: Antonio Soler - Sonata No. 10 in B Minor (1)
+title: Sonata No. 10 in B Minor (1)
 description: This is the description for Sonata No. 10 in B Minor by Antonio Soler
 composers: [Antonio Soler]
 periods: [Baroque]

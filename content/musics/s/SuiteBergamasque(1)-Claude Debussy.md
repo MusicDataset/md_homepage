@@ -1,5 +1,5 @@
 ---
-title: Claude Debussy - SuiteBergamasque (1)
+title: SuiteBergamasque (1)
 description: This is the description for SuiteBergamasque by Claude Debussy
 composers: [Claude Debussy]
 periods: [Impressionism]

@@ -1,5 +1,5 @@
 ---
-title: Frédéric Chopin - Barcarolle in F-sharp Major Op. 60 (2)
+title: Barcarolle in F-sharp Major Op. 60 (2)
 description: This is the description for Barcarolle in F-sharp Major Op. 60 by Frédéric Chopin
 composers: [Frédéric Chopin]
 periods: [Romantic]

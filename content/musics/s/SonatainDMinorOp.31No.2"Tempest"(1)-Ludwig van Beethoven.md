@@ -1,5 +1,5 @@
 ---
-title: Ludwig van Beethoven - Sonata in D Minor Op. 31 No. 2 "Tempest" (1)
+title: Sonata in D Minor Op. 31 No. 2 "Tempest" (1)
 description: This is the description for Sonata in D Minor Op. 31 No. 2 "Tempest" by Ludwig van Beethoven
 composers: [Ludwig van Beethoven]
 periods: [Classical]

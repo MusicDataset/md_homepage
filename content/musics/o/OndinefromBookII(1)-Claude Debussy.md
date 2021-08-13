@@ -1,5 +1,5 @@
 ---
-title: Claude Debussy - Ondine from Book II (1)
+title: Ondine from Book II (1)
 description: This is the description for Ondine from Book II by Claude Debussy
 composers: [Claude Debussy]
 periods: [Impressionism]

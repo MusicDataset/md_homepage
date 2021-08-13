@@ -1,5 +1,5 @@
 ---
-title: Sergei Rachmaninoff - Etude-Tableaux Op. 39 No. 5 (2)
+title: Etude-Tableaux Op. 39 No. 5 (2)
 description: This is the description for Etude-Tableaux Op. 39 No. 5 by Sergei Rachmaninoff
 composers: [Sergei Rachmaninoff]
 periods: [Romantic]

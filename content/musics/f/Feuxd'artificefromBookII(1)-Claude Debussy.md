@@ -1,5 +1,5 @@
 ---
-title: Claude Debussy - Feux d'artifice from Book II (1)
+title: Feux d'artifice from Book II (1)
 description: This is the description for Feux d'artifice from Book II by Claude Debussy
 composers: [Claude Debussy]
 periods: [Impressionism]

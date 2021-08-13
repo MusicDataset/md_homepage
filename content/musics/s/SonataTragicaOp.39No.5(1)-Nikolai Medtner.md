@@ -1,5 +1,5 @@
 ---
-title: Nikolai Medtner - Sonata Tragica Op. 39 No. 5 (1)
+title: Sonata Tragica Op. 39 No. 5 (1)
 description: This is the description for Sonata Tragica Op. 39 No. 5 by Nikolai Medtner
 composers: [Nikolai Medtner]
 periods: [Romantic]

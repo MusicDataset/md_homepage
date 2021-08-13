@@ -1,5 +1,5 @@
 ---
-title: Robert Schumann - ABEGG Op. 1 (1)
+title: ABEGG Op. 1 (1)
 description: This is the description for ABEGG Op. 1 by Robert Schumann
 composers: [Robert Schumann]
 periods: [Romantic]

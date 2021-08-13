@@ -1,5 +1,5 @@
 ---
-title: Joseph Haydn - Sonata in E-flat Major Hob. XVI52 1st mov. (2)
+title: Sonata in E-flat Major Hob. XVI52 1st mov. (2)
 description: This is the description for Sonata in E-flat Major Hob. XVI52 1st mov. by Joseph Haydn
 composers: [Joseph Haydn]
 periods: [Classical]

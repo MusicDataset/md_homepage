@@ -1,5 +1,5 @@
 ---
-title: Franz Liszt - Concert Etude "La Leggierezza" (1)
+title: Concert Etude "La Leggierezza" (1)
 description: This is the description for Concert Etude "La Leggierezza" by Franz Liszt
 composers: [Franz Liszt]
 periods: [Romantic]

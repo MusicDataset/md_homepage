@@ -1,5 +1,5 @@
 ---
-title: Wolfgang Amadeus Mozart - Sonata in F Major K280 (3)
+title: Sonata in F Major K280 (3)
 description: This is the description for Sonata in F Major K280 by Wolfgang Amadeus Mozart
 composers: [Wolfgang Amadeus Mozart]
 periods: [Classical]

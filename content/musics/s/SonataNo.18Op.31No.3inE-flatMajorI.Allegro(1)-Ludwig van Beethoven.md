@@ -1,5 +1,5 @@
 ---
-title: Ludwig van Beethoven - Sonata No. 18 Op. 31 No. 3 in E-flat Major I. Allegro (1)
+title: Sonata No. 18 Op. 31 No. 3 in E-flat Major I. Allegro (1)
 description: This is the description for Sonata No. 18 Op. 31 No. 3 in E-flat Major I. Allegro by Ludwig van Beethoven
 composers: [Ludwig van Beethoven]
 periods: [Classical]

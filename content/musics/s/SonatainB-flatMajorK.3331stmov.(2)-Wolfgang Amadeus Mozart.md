@@ -1,5 +1,5 @@
 ---
-title: Wolfgang Amadeus Mozart - Sonata in B-flat Major K. 333 1st mov. (2)
+title: Sonata in B-flat Major K. 333 1st mov. (2)
 description: This is the description for Sonata in B-flat Major K. 333 1st mov. by Wolfgang Amadeus Mozart
 composers: [Wolfgang Amadeus Mozart]
 periods: [Classical]

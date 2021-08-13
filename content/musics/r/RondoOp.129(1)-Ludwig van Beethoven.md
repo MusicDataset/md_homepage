@@ -1,5 +1,5 @@
 ---
-title: Ludwig van Beethoven - Rondo Op. 129 (1)
+title: Rondo Op. 129 (1)
 description: This is the description for Rondo Op. 129 by Ludwig van Beethoven
 composers: [Ludwig van Beethoven]
 periods: [Classical]

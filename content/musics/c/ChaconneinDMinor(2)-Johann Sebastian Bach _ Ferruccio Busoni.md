@@ -1,5 +1,5 @@
 ---
-title: Johann Sebastian Bach _ Ferruccio Busoni - Chaconne in D Minor (2)
+title: Chaconne in D Minor (2)
 description: This is the description for Chaconne in D Minor by Johann Sebastian Bach _ Ferruccio Busoni
 composers: [Johann Sebastian Bach _ Ferruccio Busoni]
 periods: [Baroque]

@@ -1,5 +1,5 @@
 ---
-title: Franz Liszt - Sonata in B Minor S. 178 (7)
+title: Sonata in B Minor S. 178 (7)
 description: This is the description for Sonata in B Minor S. 178 by Franz Liszt
 composers: [Franz Liszt]
 periods: [Romantic]

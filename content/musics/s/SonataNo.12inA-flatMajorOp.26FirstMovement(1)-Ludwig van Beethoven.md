@@ -1,5 +1,5 @@
 ---
-title: Ludwig van Beethoven - Sonata No. 12 in A-flat Major Op. 26 First Movement (1)
+title: Sonata No. 12 in A-flat Major Op. 26 First Movement (1)
 description: This is the description for Sonata No. 12 in A-flat Major Op. 26 First Movement by Ludwig van Beethoven
 composers: [Ludwig van Beethoven]
 periods: [Classical]

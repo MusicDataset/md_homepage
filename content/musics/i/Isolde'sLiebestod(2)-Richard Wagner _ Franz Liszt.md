@@ -1,5 +1,5 @@
 ---
-title: Richard Wagner _ Franz Liszt - Isolde's Liebestod (2)
+title: Isolde's Liebestod (2)
 description: This is the description for Isolde's Liebestod by Richard Wagner _ Franz Liszt
 composers: [Richard Wagner _ Franz Liszt]
 periods: [Romantic]

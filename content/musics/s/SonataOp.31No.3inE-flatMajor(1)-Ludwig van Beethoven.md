@@ -1,5 +1,5 @@
 ---
-title: Ludwig van Beethoven - Sonata Op. 31 No. 3 in E-flat Major (1)
+title: Sonata Op. 31 No. 3 in E-flat Major (1)
 description: This is the description for Sonata Op. 31 No. 3 in E-flat Major by Ludwig van Beethoven
 composers: [Ludwig van Beethoven]
 periods: [Classical]

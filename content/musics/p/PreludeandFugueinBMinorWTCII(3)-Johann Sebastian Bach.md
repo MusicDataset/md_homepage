@@ -1,5 +1,5 @@
 ---
-title: Johann Sebastian Bach - Prelude and Fugue in B Minor WTC II (3)
+title: Prelude and Fugue in B Minor WTC II (3)
 description: This is the description for Prelude and Fugue in B Minor WTC II by Johann Sebastian Bach
 composers: [Johann Sebastian Bach]
 periods: [Baroque]

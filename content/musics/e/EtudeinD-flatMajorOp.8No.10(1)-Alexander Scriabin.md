@@ -1,5 +1,5 @@
 ---
-title: Alexander Scriabin - Etude in D-flat Major Op. 8 No. 10 (1)
+title: Etude in D-flat Major Op. 8 No. 10 (1)
 description: This is the description for Etude in D-flat Major Op. 8 No. 10 by Alexander Scriabin
 composers: [Alexander Scriabin]
 periods: [Romantic]

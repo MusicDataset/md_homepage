@@ -1,5 +1,5 @@
 ---
-title: Ludwig van Beethoven - Bagtellen Op.126 (2)
+title: Bagtellen Op.126 (2)
 description: This is the description for Bagtellen Op.126 by Ludwig van Beethoven
 composers: [Ludwig van Beethoven]
 periods: [Classical]

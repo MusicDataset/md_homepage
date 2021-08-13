@@ -1,5 +1,5 @@
 ---
-title: Modest Mussorgsky - Pictures at an E (2)
+title: Pictures at an E (2)
 description: This is the description for Pictures at an E by Modest Mussorgsky
 composers: [Modest Mussorgsky]
 periods: [Romantic]

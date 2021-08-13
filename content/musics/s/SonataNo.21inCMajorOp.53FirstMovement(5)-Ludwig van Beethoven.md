@@ -1,5 +1,5 @@
 ---
-title: Ludwig van Beethoven - Sonata No. 21 in C Major Op. 53 First Movement (5)
+title: Sonata No. 21 in C Major Op. 53 First Movement (5)
 description: This is the description for Sonata No. 21 in C Major Op. 53 First Movement by Ludwig van Beethoven
 composers: [Ludwig van Beethoven]
 periods: [Classical]

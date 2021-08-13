@@ -1,5 +1,5 @@
 ---
-title: Pyotr Ilyich Tchaikovsky - The Seasons Op. 37a (Selections) (1)
+title: The Seasons Op. 37a (Selections) (1)
 description: This is the description for The Seasons Op. 37a (Selections) by Pyotr Ilyich Tchaikovsky
 composers: [Pyotr Ilyich Tchaikovsky]
 periods: [Romantic]

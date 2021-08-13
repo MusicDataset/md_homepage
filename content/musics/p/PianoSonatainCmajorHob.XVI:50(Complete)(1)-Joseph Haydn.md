@@ -1,5 +1,5 @@
 ---
-title: Joseph Haydn - Piano Sonata in C major Hob. XVI50 (Complete) (1)
+title: Piano Sonata in C major Hob. XVI50 (Complete) (1)
 description: This is the description for Piano Sonata in C major Hob. XVI50 (Complete) by Joseph Haydn
 composers: [Joseph Haydn]
 periods: [Classical]

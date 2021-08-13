@@ -1,5 +1,5 @@
 ---
-title: Sergei Rachmaninoff - Prelude Op. 23 No. 2 (1)
+title: Prelude Op. 23 No. 2 (1)
 description: This is the description for Prelude Op. 23 No. 2 by Sergei Rachmaninoff
 composers: [Sergei Rachmaninoff]
 periods: [Romantic]

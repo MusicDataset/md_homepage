@@ -1,5 +1,5 @@
 ---
-title: Claude Debussy - Preludes Book II L 123 (Complete) (1)
+title: Preludes Book II L 123 (Complete) (1)
 description: This is the description for Preludes Book II L 123 (Complete) by Claude Debussy
 composers: [Claude Debussy]
 periods: [Impressionism]

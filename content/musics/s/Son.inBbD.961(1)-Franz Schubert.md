@@ -1,5 +1,5 @@
 ---
-title: Franz Schubert - Son. in Bb D.961 (1)
+title: Son. in Bb D.961 (1)
 description: This is the description for Son. in Bb D.961 by Franz Schubert
 composers: [Franz Schubert]
 periods: [Romantic]

@@ -1,5 +1,5 @@
 ---
-title: Nikolai Medtner - Fairy Tale in D Minor Op. 54 (1)
+title: Fairy Tale in D Minor Op. 54 (1)
 description: This is the description for Fairy Tale in D Minor Op. 54 by Nikolai Medtner
 composers: [Nikolai Medtner]
 periods: [Romantic]

@@ -1,5 +1,5 @@
 ---
-title: Ludwig van Beethoven - Sonata No. 29 in B-flat Major Op. 106 (1)
+title: Sonata No. 29 in B-flat Major Op. 106 (1)
 description: This is the description for Sonata No. 29 in B-flat Major Op. 106 by Ludwig van Beethoven
 composers: [Ludwig van Beethoven]
 periods: [Classical]

@@ -1,5 +1,5 @@
 ---
-title: Joseph Haydn - Sonata in C Major Hob. XVI/50 (1)
+title: Sonata in C Major Hob. XVI/50 (1)
 description: This is the description for Sonata in C Major Hob. XVI/50 by Joseph Haydn
 composers: [Joseph Haydn]
 periods: [Classical]

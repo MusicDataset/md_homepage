@@ -1,5 +1,5 @@
 ---
-title: Franz Schubert - Sonata in C Minor D. 958 (Complete) (2)
+title: Sonata in C Minor D. 958 (Complete) (2)
 description: This is the description for Sonata in C Minor D. 958 (Complete) by Franz Schubert
 composers: [Franz Schubert]
 periods: [Romantic]

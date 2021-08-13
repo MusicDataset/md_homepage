@@ -1,5 +1,5 @@
 ---
-title: Frédéric Chopin - Nocturne in Db (2)
+title: Nocturne in Db (2)
 description: This is the description for Nocturne in Db by Frédéric Chopin
 composers: [Frédéric Chopin]
 periods: [Romantic]

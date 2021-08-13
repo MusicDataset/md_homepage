@@ -1,5 +1,5 @@
 ---
-title: Sergei Rachmaninoff - Prelude Op. 23/4 (2)
+title: Prelude Op. 23/4 (2)
 description: This is the description for Prelude Op. 23/4 by Sergei Rachmaninoff
 composers: [Sergei Rachmaninoff]
 periods: [Romantic]

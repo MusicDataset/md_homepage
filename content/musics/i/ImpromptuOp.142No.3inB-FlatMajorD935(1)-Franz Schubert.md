@@ -1,5 +1,5 @@
 ---
-title: Franz Schubert - Impromptu Op.142 No.3 in B-Flat Major D935 (1)
+title: Impromptu Op.142 No.3 in B-Flat Major D935 (1)
 description: This is the description for Impromptu Op.142 No.3 in B-Flat Major D935 by Franz Schubert
 composers: [Franz Schubert]
 periods: [Romantic]

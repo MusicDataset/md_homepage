@@ -1,5 +1,5 @@
 ---
-title: Johann Sebastian Bach - Partita No. 1 in B-Flat Major BWV 825 (Complete) (1)
+title: Partita No. 1 in B-Flat Major BWV 825 (Complete) (1)
 description: This is the description for Partita No. 1 in B-Flat Major BWV 825 (Complete) by Johann Sebastian Bach
 composers: [Johann Sebastian Bach]
 periods: [Baroque]

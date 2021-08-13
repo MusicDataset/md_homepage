@@ -1,5 +1,5 @@
 ---
-title: Sergei Rachmaninoff - Prelude Op. 3 No. 2 in C-sharp Minor (1)
+title: Prelude Op. 3 No. 2 in C-sharp Minor (1)
 description: This is the description for Prelude Op. 3 No. 2 in C-sharp Minor by Sergei Rachmaninoff
 composers: [Sergei Rachmaninoff]
 periods: [Romantic]

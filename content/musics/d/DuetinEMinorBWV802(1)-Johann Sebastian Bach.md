@@ -1,5 +1,5 @@
 ---
-title: Johann Sebastian Bach - Duet in E Minor BWV 802 (1)
+title: Duet in E Minor BWV 802 (1)
 description: This is the description for Duet in E Minor BWV 802 by Johann Sebastian Bach
 composers: [Johann Sebastian Bach]
 periods: [Baroque]

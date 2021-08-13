@@ -1,5 +1,5 @@
 ---
-title: Frédéric Chopin - Andante Spianato and Grand Polonaise Brilliante Op. 22 (2)
+title: Andante Spianato and Grand Polonaise Brilliante Op. 22 (2)
 description: This is the description for Andante Spianato and Grand Polonaise Brilliante Op. 22 by Frédéric Chopin
 composers: [Frédéric Chopin]
 periods: [Romantic]

@@ -1,5 +1,5 @@
 ---
-title: Franz Schubert - Sonata in C Minor D. 960 (1)
+title: Sonata in C Minor D. 960 (1)
 description: This is the description for Sonata in C Minor D. 960 by Franz Schubert
 composers: [Franz Schubert]
 periods: [Romantic]

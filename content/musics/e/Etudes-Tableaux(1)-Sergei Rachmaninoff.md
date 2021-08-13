@@ -1,5 +1,5 @@
 ---
-title: Sergei Rachmaninoff - Etudes-Tableaux (1)
+title: Etudes-Tableaux (1)
 description: This is the description for Etudes-Tableaux by Sergei Rachmaninoff
 composers: [Sergei Rachmaninoff]
 periods: [Romantic]

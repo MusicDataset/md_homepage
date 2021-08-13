@@ -1,5 +1,5 @@
 ---
-title: Isaac Albéniz - Evocacion from "Iberia" (1)
+title: Evocacion from "Iberia" (1)
 description: This is the description for Evocacion from "Iberia" by Isaac Albéniz
 composers: [Isaac Albéniz]
 periods: [Romantic]

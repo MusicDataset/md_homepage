@@ -1,5 +1,5 @@
 ---
-title: Frédéric Chopin - Nocturne in B Major Op. 9 No. 3 (1)
+title: Nocturne in B Major Op. 9 No. 3 (1)
 description: This is the description for Nocturne in B Major Op. 9 No. 3 by Frédéric Chopin
 composers: [Frédéric Chopin]
 periods: [Romantic]

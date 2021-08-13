@@ -1,5 +1,5 @@
 ---
-title: Domenico Scarlatti - Two Sonatas (1)
+title: Two Sonatas (1)
 description: This is the description for Two Sonatas by Domenico Scarlatti
 composers: [Domenico Scarlatti]
 periods: [Baroque]

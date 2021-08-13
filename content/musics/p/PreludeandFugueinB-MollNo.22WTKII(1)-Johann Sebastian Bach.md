@@ -1,5 +1,5 @@
 ---
-title: Johann Sebastian Bach - Prelude and Fugue in B-Moll No. 22 WTKII (1)
+title: Prelude and Fugue in B-Moll No. 22 WTKII (1)
 description: This is the description for Prelude and Fugue in B-Moll No. 22 WTKII by Johann Sebastian Bach
 composers: [Johann Sebastian Bach]
 periods: [Baroque]

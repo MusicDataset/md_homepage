@@ -1,5 +1,5 @@
 ---
-title: Joseph Haydn - Andante w/Var. (1)
+title: Andante w/Var. (1)
 description: This is the description for Andante w/Var. by Joseph Haydn
 composers: [Joseph Haydn]
 periods: [Classical]

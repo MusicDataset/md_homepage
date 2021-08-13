@@ -1,5 +1,5 @@
 ---
-title: Claude Debussy - Pagodas from Estampes No. 1 (1)
+title: Pagodas from Estampes No. 1 (1)
 description: This is the description for Pagodas from Estampes No. 1 by Claude Debussy
 composers: [Claude Debussy]
 periods: [Impressionism]

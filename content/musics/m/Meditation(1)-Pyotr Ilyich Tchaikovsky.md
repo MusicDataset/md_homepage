@@ -1,5 +1,5 @@
 ---
-title: Pyotr Ilyich Tchaikovsky - Meditation (1)
+title: Meditation (1)
 description: This is the description for Meditation by Pyotr Ilyich Tchaikovsky
 composers: [Pyotr Ilyich Tchaikovsky]
 periods: [Romantic]

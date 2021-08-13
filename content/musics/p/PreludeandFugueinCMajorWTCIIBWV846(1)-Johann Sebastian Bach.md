@@ -1,5 +1,5 @@
 ---
-title: Johann Sebastian Bach - Prelude and Fugue in C Major WTC II BWV 846 (1)
+title: Prelude and Fugue in C Major WTC II BWV 846 (1)
 description: This is the description for Prelude and Fugue in C Major WTC II BWV 846 by Johann Sebastian Bach
 composers: [Johann Sebastian Bach]
 periods: [Baroque]

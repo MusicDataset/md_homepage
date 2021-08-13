@@ -1,5 +1,5 @@
 ---
-title: Alexander Scriabin - Three Etudes Op. 65 (1)
+title: Three Etudes Op. 65 (1)
 description: This is the description for Three Etudes Op. 65 by Alexander Scriabin
 composers: [Alexander Scriabin]
 periods: [Romantic]

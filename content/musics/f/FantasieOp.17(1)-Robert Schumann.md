@@ -1,5 +1,5 @@
 ---
-title: Robert Schumann - Fantasie Op. 17 (1)
+title: Fantasie Op. 17 (1)
 description: This is the description for Fantasie Op. 17 by Robert Schumann
 composers: [Robert Schumann]
 periods: [Romantic]

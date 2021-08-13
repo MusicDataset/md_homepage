@@ -1,5 +1,5 @@
 ---
-title: Frédéric Chopin - Berceuse Op. 57 (3)
+title: Berceuse Op. 57 (3)
 description: This is the description for Berceuse Op. 57 by Frédéric Chopin
 composers: [Frédéric Chopin]
 periods: [Romantic]

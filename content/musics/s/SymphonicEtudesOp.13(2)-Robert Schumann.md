@@ -1,5 +1,5 @@
 ---
-title: Robert Schumann - Symphonic Etudes Op. 13 (2)
+title: Symphonic Etudes Op. 13 (2)
 description: This is the description for Symphonic Etudes Op. 13 by Robert Schumann
 composers: [Robert Schumann]
 periods: [Romantic]

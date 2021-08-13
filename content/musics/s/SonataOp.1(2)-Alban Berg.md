@@ -1,5 +1,5 @@
 ---
-title: Alban Berg - Sonata Op. 1 (2)
+title: Sonata Op. 1 (2)
 description: This is the description for Sonata Op. 1 by Alban Berg
 composers: [Alban Berg]
 periods: [Romantic]

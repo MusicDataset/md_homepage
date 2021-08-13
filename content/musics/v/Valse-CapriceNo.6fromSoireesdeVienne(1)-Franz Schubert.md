@@ -1,5 +1,5 @@
 ---
-title: Franz Schubert - Valse-Caprice No. 6 from Soirees de Vienne (1)
+title: Valse-Caprice No. 6 from Soirees de Vienne (1)
 description: This is the description for Valse-Caprice No. 6 from Soirees de Vienne by Franz Schubert
 composers: [Franz Schubert]
 periods: [Romantic]

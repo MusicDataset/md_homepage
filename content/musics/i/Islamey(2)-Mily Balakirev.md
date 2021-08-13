@@ -1,5 +1,5 @@
 ---
-title: Mily Balakirev - Islamey (2)
+title: Islamey (2)
 description: This is the description for Islamey by Mily Balakirev
 composers: [Mily Balakirev]
 periods: [Romantic]

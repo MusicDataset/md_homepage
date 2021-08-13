@@ -1,5 +1,5 @@
 ---
-title: Ludwig van Beethoven - Sonata No. 32 in C minor Op. 111 (2)
+title: Sonata No. 32 in C minor Op. 111 (2)
 description: This is the description for Sonata No. 32 in C minor Op. 111 by Ludwig van Beethoven
 composers: [Ludwig van Beethoven]
 periods: [Classical]

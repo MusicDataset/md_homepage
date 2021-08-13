@@ -1,5 +1,5 @@
 ---
-title: Franz Liszt - Rigoletto-Paraphrase (3)
+title: Rigoletto-Paraphrase (3)
 description: This is the description for Rigoletto-Paraphrase by Franz Liszt
 composers: [Franz Liszt]
 periods: [Romantic]

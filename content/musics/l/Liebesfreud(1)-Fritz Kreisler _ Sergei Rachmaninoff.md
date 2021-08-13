@@ -1,5 +1,5 @@
 ---
-title: Fritz Kreisler _ Sergei Rachmaninoff - Liebesfreud (1)
+title: Liebesfreud (1)
 description: This is the description for Liebesfreud by Fritz Kreisler _ Sergei Rachmaninoff
 composers: [Fritz Kreisler _ Sergei Rachmaninoff]
 periods: [Romantic]

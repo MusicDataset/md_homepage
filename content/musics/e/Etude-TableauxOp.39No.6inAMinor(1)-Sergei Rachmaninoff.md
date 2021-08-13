@@ -1,5 +1,5 @@
 ---
-title: Sergei Rachmaninoff - Etude-Tableaux Op. 39 No. 6 in A Minor (1)
+title: Etude-Tableaux Op. 39 No. 6 in A Minor (1)
 description: This is the description for Etude-Tableaux Op. 39 No. 6 in A Minor by Sergei Rachmaninoff
 composers: [Sergei Rachmaninoff]
 periods: [Romantic]

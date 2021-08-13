@@ -1,5 +1,5 @@
 ---
-title: Ludwig van Beethoven - Sonata No. 4 in E-flat Major Op. 7 1st mov. (1)
+title: Sonata No. 4 in E-flat Major Op. 7 1st mov. (1)
 description: This is the description for Sonata No. 4 in E-flat Major Op. 7 1st mov. by Ludwig van Beethoven
 composers: [Ludwig van Beethoven]
 periods: [Classical]

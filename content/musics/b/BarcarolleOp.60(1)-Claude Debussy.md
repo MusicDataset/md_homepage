@@ -1,5 +1,5 @@
 ---
-title: Claude Debussy - Barcarolle Op. 60 (1)
+title: Barcarolle Op. 60 (1)
 description: This is the description for Barcarolle Op. 60 by Claude Debussy
 composers: [Claude Debussy]
 periods: [Impressionism]

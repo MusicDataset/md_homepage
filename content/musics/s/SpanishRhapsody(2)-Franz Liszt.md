@@ -1,5 +1,5 @@
 ---
-title: Franz Liszt - Spanish Rhapsody (2)
+title: Spanish Rhapsody (2)
 description: This is the description for Spanish Rhapsody by Franz Liszt
 composers: [Franz Liszt]
 periods: [Romantic]

@@ -1,5 +1,5 @@
 ---
-title: Muzio Clementi - Sonata in F# Min (1)
+title: Sonata in F# Min (1)
 description: This is the description for Sonata in F# Min by Muzio Clementi
 composers: [Muzio Clementi]
 periods: [Classical]

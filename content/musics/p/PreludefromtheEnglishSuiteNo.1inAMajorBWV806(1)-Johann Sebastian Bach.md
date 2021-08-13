@@ -1,5 +1,5 @@
 ---
-title: Johann Sebastian Bach - Prelude from the English Suite No. 1 in A Major BWV 806 (1)
+title: Prelude from the English Suite No. 1 in A Major BWV 806 (1)
 description: This is the description for Prelude from the English Suite No. 1 in A Major BWV 806 by Johann Sebastian Bach
 composers: [Johann Sebastian Bach]
 periods: [Baroque]

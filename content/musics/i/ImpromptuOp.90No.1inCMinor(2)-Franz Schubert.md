@@ -1,5 +1,5 @@
 ---
-title: Franz Schubert - Impromptu Op. 90 No. 1 in C Minor (2)
+title: Impromptu Op. 90 No. 1 in C Minor (2)
 description: This is the description for Impromptu Op. 90 No. 1 in C Minor by Franz Schubert
 composers: [Franz Schubert]
 periods: [Romantic]

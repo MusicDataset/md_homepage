@@ -1,5 +1,5 @@
 ---
-title: Johann Sebastian Bach - English Suite in A Minor BWV 807 (2)
+title: English Suite in A Minor BWV 807 (2)
 description: This is the description for English Suite in A Minor BWV 807 by Johann Sebastian Bach
 composers: [Johann Sebastian Bach]
 periods: [Baroque]

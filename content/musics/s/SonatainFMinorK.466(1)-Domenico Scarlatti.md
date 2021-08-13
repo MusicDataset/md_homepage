@@ -1,5 +1,5 @@
 ---
-title: Domenico Scarlatti - Sonata in F Minor K. 466 (1)
+title: Sonata in F Minor K. 466 (1)
 description: This is the description for Sonata in F Minor K. 466 by Domenico Scarlatti
 composers: [Domenico Scarlatti]
 periods: [Baroque]

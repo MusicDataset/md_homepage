@@ -1,5 +1,5 @@
 ---
-title: Ludwig van Beethoven - Bagatelles Op. 126 (Complete) (1)
+title: Bagatelles Op. 126 (Complete) (1)
 description: This is the description for Bagatelles Op. 126 (Complete) by Ludwig van Beethoven
 composers: [Ludwig van Beethoven]
 periods: [Classical]

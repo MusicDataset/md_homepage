@@ -1,5 +1,5 @@
 ---
-title: Domenico Scarlatti - Sonata K. 525 (1)
+title: Sonata K. 525 (1)
 description: This is the description for Sonata K. 525 by Domenico Scarlatti
 composers: [Domenico Scarlatti]
 periods: [Baroque]

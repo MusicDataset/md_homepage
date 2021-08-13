@@ -1,5 +1,5 @@
 ---
-title: Sergei Rachmaninoff - Etude Tableaux Op. 39 No. 1 in C Minor (1)
+title: Etude Tableaux Op. 39 No. 1 in C Minor (1)
 description: This is the description for Etude Tableaux Op. 39 No. 1 in C Minor by Sergei Rachmaninoff
 composers: [Sergei Rachmaninoff]
 periods: [Romantic]

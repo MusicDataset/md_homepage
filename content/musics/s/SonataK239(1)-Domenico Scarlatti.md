@@ -1,5 +1,5 @@
 ---
-title: Domenico Scarlatti - Sonata K239 (1)
+title: Sonata K239 (1)
 description: This is the description for Sonata K239 by Domenico Scarlatti
 composers: [Domenico Scarlatti]
 periods: [Baroque]

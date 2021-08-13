@@ -1,5 +1,5 @@
 ---
-title: Ludwig van Beethoven - Sonata No. 17 in D minor Op. 31 No. 2 1st mov. (4)
+title: Sonata No. 17 in D minor Op. 31 No. 2 1st mov. (4)
 description: This is the description for Sonata No. 17 in D minor Op. 31 No. 2 1st mov. by Ludwig van Beethoven
 composers: [Ludwig van Beethoven]
 periods: [Classical]

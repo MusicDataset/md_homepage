@@ -1,5 +1,5 @@
 ---
-title: Ludwig van Beethoven - Sonata No. 31 in A-flat Major Op. 110 (Complete) (2)
+title: Sonata No. 31 in A-flat Major Op. 110 (Complete) (2)
 description: This is the description for Sonata No. 31 in A-flat Major Op. 110 (Complete) by Ludwig van Beethoven
 composers: [Ludwig van Beethoven]
 periods: [Classical]

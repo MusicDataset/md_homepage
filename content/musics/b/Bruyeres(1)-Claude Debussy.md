@@ -1,5 +1,5 @@
 ---
-title: Claude Debussy - Bruyeres (1)
+title: Bruyeres (1)
 description: This is the description for Bruyeres by Claude Debussy
 composers: [Claude Debussy]
 periods: [Impressionism]

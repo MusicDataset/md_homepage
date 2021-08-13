@@ -1,5 +1,5 @@
 ---
-title: Ludwig van Beethoven - Sonata in E-flat Major Op. 81a (1)
+title: Sonata in E-flat Major Op. 81a (1)
 description: This is the description for Sonata in E-flat Major Op. 81a by Ludwig van Beethoven
 composers: [Ludwig van Beethoven]
 periods: [Classical]

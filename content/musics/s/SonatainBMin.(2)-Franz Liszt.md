@@ -1,5 +1,5 @@
 ---
-title: Franz Liszt - Sonata in B Min. (2)
+title: Sonata in B Min. (2)
 description: This is the description for Sonata in B Min. by Franz Liszt
 composers: [Franz Liszt]
 periods: [Romantic]

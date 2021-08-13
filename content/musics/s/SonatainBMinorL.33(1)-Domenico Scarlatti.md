@@ -1,5 +1,5 @@
 ---
-title: Domenico Scarlatti - Sonata in B Minor L. 33 (1)
+title: Sonata in B Minor L. 33 (1)
 description: This is the description for Sonata in B Minor L. 33 by Domenico Scarlatti
 composers: [Domenico Scarlatti]
 periods: [Baroque]

@@ -1,5 +1,5 @@
 ---
-title: Ludwig van Beethoven - Sonata No. 27 Op. 90 I. Mit Lebhaftigkeit und durchaus mit Empfindung und Ausdruck (1)
+title: Sonata No. 27 Op. 90 I. Mit Lebhaftigkeit und durchaus mit Empfindung und Ausdruck (1)
 description: This is the description for Sonata No. 27 Op. 90 I. Mit Lebhaftigkeit und durchaus mit Empfindung und Ausdruck by Ludwig van Beethoven
 composers: [Ludwig van Beethoven]
 periods: [Classical]

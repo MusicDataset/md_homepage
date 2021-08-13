@@ -1,5 +1,5 @@
 ---
-title: Frédéric Chopin - Sonata 3 Op. 58 (1)
+title: Sonata 3 Op. 58 (1)
 description: This is the description for Sonata 3 Op. 58 by Frédéric Chopin
 composers: [Frédéric Chopin]
 periods: [Romantic]

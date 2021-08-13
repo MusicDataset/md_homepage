@@ -1,5 +1,5 @@
 ---
-title: Franz Liszt - Hungarian Rhapsody No. 12 S. 244, 12 (1)
+title: Hungarian Rhapsody No. 12 S. 244, 12 (1)
 description: This is the description for Hungarian Rhapsody No. 12 S. 244, 12 by Franz Liszt
 composers: [Franz Liszt]
 periods: [Romantic]

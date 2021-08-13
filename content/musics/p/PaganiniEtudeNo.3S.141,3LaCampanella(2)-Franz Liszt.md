@@ -1,5 +1,5 @@
 ---
-title: Franz Liszt - Paganini Etude No. 3 S. 141, 3 La Campanella (2)
+title: Paganini Etude No. 3 S. 141, 3 La Campanella (2)
 description: This is the description for Paganini Etude No. 3 S. 141, 3 La Campanella by Franz Liszt
 composers: [Franz Liszt]
 periods: [Romantic]

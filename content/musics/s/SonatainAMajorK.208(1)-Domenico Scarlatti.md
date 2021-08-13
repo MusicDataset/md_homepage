@@ -1,5 +1,5 @@
 ---
-title: Domenico Scarlatti - Sonata in A Major K. 208 (1)
+title: Sonata in A Major K. 208 (1)
 description: This is the description for Sonata in A Major K. 208 by Domenico Scarlatti
 composers: [Domenico Scarlatti]
 periods: [Baroque]

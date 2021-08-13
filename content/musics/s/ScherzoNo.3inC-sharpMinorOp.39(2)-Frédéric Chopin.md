@@ -1,5 +1,5 @@
 ---
-title: Frédéric Chopin - Scherzo No. 3 in C-sharp Minor Op. 39 (2)
+title: Scherzo No. 3 in C-sharp Minor Op. 39 (2)
 description: This is the description for Scherzo No. 3 in C-sharp Minor Op. 39 by Frédéric Chopin
 composers: [Frédéric Chopin]
 periods: [Romantic]

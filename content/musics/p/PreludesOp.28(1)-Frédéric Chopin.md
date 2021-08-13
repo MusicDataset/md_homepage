@@ -1,5 +1,5 @@
 ---
-title: Frédéric Chopin - Preludes Op.28 (1)
+title: Preludes Op.28 (1)
 description: This is the description for Preludes Op.28 by Frédéric Chopin
 composers: [Frédéric Chopin]
 periods: [Romantic]

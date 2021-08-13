@@ -1,5 +1,5 @@
 ---
-title: Robert Schumann - Gesänge der Frühe Op. 133 (1)
+title: Gesänge der Frühe Op. 133 (1)
 description: This is the description for Gesänge der Frühe Op. 133 by Robert Schumann
 composers: [Robert Schumann]
 periods: [Romantic]

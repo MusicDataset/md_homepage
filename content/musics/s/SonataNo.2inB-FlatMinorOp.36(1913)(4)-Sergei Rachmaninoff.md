@@ -1,5 +1,5 @@
 ---
-title: Sergei Rachmaninoff - Sonata No. 2 in B-Flat Minor Op. 36 (1913) (4)
+title: Sonata No. 2 in B-Flat Minor Op. 36 (1913) (4)
 description: This is the description for Sonata No. 2 in B-Flat Minor Op. 36 (1913) by Sergei Rachmaninoff
 composers: [Sergei Rachmaninoff]
 periods: [Romantic]

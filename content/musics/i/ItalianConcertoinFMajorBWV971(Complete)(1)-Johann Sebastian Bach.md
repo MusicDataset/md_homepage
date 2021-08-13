@@ -1,5 +1,5 @@
 ---
-title: Johann Sebastian Bach - Italian Concerto in F Major BWV 971 (Complete) (1)
+title: Italian Concerto in F Major BWV 971 (Complete) (1)
 description: This is the description for Italian Concerto in F Major BWV 971 (Complete) by Johann Sebastian Bach
 composers: [Johann Sebastian Bach]
 periods: [Baroque]

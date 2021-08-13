@@ -1,5 +1,5 @@
 ---
-title: Ludwig van Beethoven - Sonata in E Major Op. 109 (1)
+title: Sonata in E Major Op. 109 (1)
 description: This is the description for Sonata in E Major Op. 109 by Ludwig van Beethoven
 composers: [Ludwig van Beethoven]
 periods: [Classical]

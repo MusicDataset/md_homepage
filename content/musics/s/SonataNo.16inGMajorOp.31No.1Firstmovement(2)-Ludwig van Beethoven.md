@@ -1,5 +1,5 @@
 ---
-title: Ludwig van Beethoven - Sonata No. 16 in G Major Op. 31 No. 1 First movement (2)
+title: Sonata No. 16 in G Major Op. 31 No. 1 First movement (2)
 description: This is the description for Sonata No. 16 in G Major Op. 31 No. 1 First movement by Ludwig van Beethoven
 composers: [Ludwig van Beethoven]
 periods: [Classical]

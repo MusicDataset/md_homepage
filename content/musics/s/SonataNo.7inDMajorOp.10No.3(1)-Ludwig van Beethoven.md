@@ -1,5 +1,5 @@
 ---
-title: Ludwig van Beethoven - Sonata No. 7 in D Major Op. 10 No. 3 (1)
+title: Sonata No. 7 in D Major Op. 10 No. 3 (1)
 description: This is the description for Sonata No. 7 in D Major Op. 10 No. 3 by Ludwig van Beethoven
 composers: [Ludwig van Beethoven]
 periods: [Classical]

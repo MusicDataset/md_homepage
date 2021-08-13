@@ -1,5 +1,5 @@
 ---
-title: Robert Schumann - Kreisleriana (1)
+title: Kreisleriana (1)
 description: This is the description for Kreisleriana by Robert Schumann
 composers: [Robert Schumann]
 periods: [Romantic]

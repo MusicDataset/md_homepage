@@ -1,5 +1,5 @@
 ---
-title: Pyotr Ilyich Tchaikovsky - Russian Scherzo Op. 1 (1)
+title: Russian Scherzo Op. 1 (1)
 description: This is the description for Russian Scherzo Op. 1 by Pyotr Ilyich Tchaikovsky
 composers: [Pyotr Ilyich Tchaikovsky]
 periods: [Romantic]

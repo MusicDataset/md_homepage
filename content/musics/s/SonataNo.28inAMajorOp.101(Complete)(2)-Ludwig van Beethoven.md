@@ -1,5 +1,5 @@
 ---
-title: Ludwig van Beethoven - Sonata No. 28 in A Major Op. 101 (Complete) (2)
+title: Sonata No. 28 in A Major Op. 101 (Complete) (2)
 description: This is the description for Sonata No. 28 in A Major Op. 101 (Complete) by Ludwig van Beethoven
 composers: [Ludwig van Beethoven]
 periods: [Classical]

@@ -1,5 +1,5 @@
 ---
-title: Claude Debussy - Etude No. 6 Book I "Pour les huits doigts" (1)
+title: Etude No. 6 Book I "Pour les huits doigts" (1)
 description: This is the description for Etude No. 6 Book I "Pour les huits doigts" by Claude Debussy
 composers: [Claude Debussy]
 periods: [Impressionism]

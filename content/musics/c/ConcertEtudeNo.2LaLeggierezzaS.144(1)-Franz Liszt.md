@@ -1,5 +1,5 @@
 ---
-title: Franz Liszt - Concert Etude No. 2 La Leggierezza S. 144 (1)
+title: Concert Etude No. 2 La Leggierezza S. 144 (1)
 description: This is the description for Concert Etude No. 2 La Leggierezza S. 144 by Franz Liszt
 composers: [Franz Liszt]
 periods: [Romantic]

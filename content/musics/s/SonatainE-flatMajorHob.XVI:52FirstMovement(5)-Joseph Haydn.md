@@ -1,5 +1,5 @@
 ---
-title: Joseph Haydn - Sonata in E-flat Major Hob. XVI52 First Movement (5)
+title: Sonata in E-flat Major Hob. XVI52 First Movement (5)
 description: This is the description for Sonata in E-flat Major Hob. XVI52 First Movement by Joseph Haydn
 composers: [Joseph Haydn]
 periods: [Classical]

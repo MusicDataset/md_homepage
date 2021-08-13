@@ -1,5 +1,5 @@
 ---
-title: Johann Sebastian Bach _ Ferruccio Busoni - Toccata in DMin. (1)
+title: Toccata in DMin. (1)
 description: This is the description for Toccata in DMin. by Johann Sebastian Bach _ Ferruccio Busoni
 composers: [Johann Sebastian Bach _ Ferruccio Busoni]
 periods: [Baroque]

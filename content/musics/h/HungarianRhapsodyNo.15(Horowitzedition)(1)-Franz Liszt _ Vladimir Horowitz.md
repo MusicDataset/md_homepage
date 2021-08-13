@@ -1,5 +1,5 @@
 ---
-title: Franz Liszt _ Vladimir Horowitz - Hungarian Rhapsody No. 15 (Horowitz edition) (1)
+title: Hungarian Rhapsody No. 15 (Horowitz edition) (1)
 description: This is the description for Hungarian Rhapsody No. 15 (Horowitz edition) by Franz Liszt _ Vladimir Horowitz
 composers: [Franz Liszt _ Vladimir Horowitz]
 periods: [Romantic]

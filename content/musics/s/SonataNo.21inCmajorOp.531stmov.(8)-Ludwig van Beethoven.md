@@ -1,5 +1,5 @@
 ---
-title: Ludwig van Beethoven - Sonata No. 21 in C major Op. 53 1st mov. (8)
+title: Sonata No. 21 in C major Op. 53 1st mov. (8)
 description: This is the description for Sonata No. 21 in C major Op. 53 1st mov. by Ludwig van Beethoven
 composers: [Ludwig van Beethoven]
 periods: [Classical]

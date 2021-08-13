@@ -1,5 +1,5 @@
 ---
-title: Johannes Brahms - Sonata No. 1 in C Major Op. 1 (2)
+title: Sonata No. 1 in C Major Op. 1 (2)
 description: This is the description for Sonata No. 1 in C Major Op. 1 by Johannes Brahms
 composers: [Johannes Brahms]
 periods: [Romantic]

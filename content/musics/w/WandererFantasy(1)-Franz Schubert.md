@@ -1,5 +1,5 @@
 ---
-title: Franz Schubert - Wanderer Fantasy (1)
+title: Wanderer Fantasy (1)
 description: This is the description for Wanderer Fantasy by Franz Schubert
 composers: [Franz Schubert]
 periods: [Romantic]

@@ -1,5 +1,5 @@
 ---
-title: Sergei Rachmaninoff - Humoresque Op. 10 No. 5 (1)
+title: Humoresque Op. 10 No. 5 (1)
 description: This is the description for Humoresque Op. 10 No. 5 by Sergei Rachmaninoff
 composers: [Sergei Rachmaninoff]
 periods: [Romantic]

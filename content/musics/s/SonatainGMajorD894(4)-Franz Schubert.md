@@ -1,5 +1,5 @@
 ---
-title: Franz Schubert - Sonata in G Major D894 (4)
+title: Sonata in G Major D894 (4)
 description: This is the description for Sonata in G Major D894 by Franz Schubert
 composers: [Franz Schubert]
 periods: [Romantic]

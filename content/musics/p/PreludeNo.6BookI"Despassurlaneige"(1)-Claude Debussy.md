@@ -1,5 +1,5 @@
 ---
-title: Claude Debussy - Prelude No. 6 Book I "Des pas sur la neige" (1)
+title: Prelude No. 6 Book I "Des pas sur la neige" (1)
 description: This is the description for Prelude No. 6 Book I "Des pas sur la neige" by Claude Debussy
 composers: [Claude Debussy]
 periods: [Impressionism]

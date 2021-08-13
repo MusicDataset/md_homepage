@@ -1,5 +1,5 @@
 ---
-title: Johann Sebastian Bach _ Ferruccio Busoni - Chaconne BWV1004 (1)
+title: Chaconne BWV1004 (1)
 description: This is the description for Chaconne BWV1004 by Johann Sebastian Bach _ Ferruccio Busoni
 composers: [Johann Sebastian Bach _ Ferruccio Busoni]
 periods: [Baroque]

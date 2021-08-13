@@ -1,5 +1,5 @@
 ---
-title: Alexander Scriabin - Sonata No. 9 (2)
+title: Sonata No. 9 (2)
 description: This is the description for Sonata No. 9 by Alexander Scriabin
 composers: [Alexander Scriabin]
 periods: [Romantic]

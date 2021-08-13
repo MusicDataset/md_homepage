@@ -1,5 +1,5 @@
 ---
-title: Franz Liszt - Rhapsodie Espagnole (2)
+title: Rhapsodie Espagnole (2)
 description: This is the description for Rhapsodie Espagnole by Franz Liszt
 composers: [Franz Liszt]
 periods: [Romantic]

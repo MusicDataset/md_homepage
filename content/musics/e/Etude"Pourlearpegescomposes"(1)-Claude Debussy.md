@@ -1,5 +1,5 @@
 ---
-title: Claude Debussy - Etude "Pour le arpeges composes" (1)
+title: Etude "Pour le arpeges composes" (1)
 description: This is the description for Etude "Pour le arpeges composes" by Claude Debussy
 composers: [Claude Debussy]
 periods: [Impressionism]

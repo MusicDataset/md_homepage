@@ -1,5 +1,5 @@
 ---
-title: Ludwig van Beethoven - Sonata No. 17 Op. 31 No. 2 in D Minor "Tempest" I. Largo-Allegro (5)
+title: Sonata No. 17 Op. 31 No. 2 in D Minor "Tempest" I. Largo-Allegro (5)
 description: This is the description for Sonata No. 17 Op. 31 No. 2 in D Minor "Tempest" I. Largo-Allegro by Ludwig van Beethoven
 composers: [Ludwig van Beethoven]
 periods: [Classical]

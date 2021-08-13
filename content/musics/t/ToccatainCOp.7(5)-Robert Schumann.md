@@ -1,5 +1,5 @@
 ---
-title: Robert Schumann - Toccata in C Op. 7 (5)
+title: Toccata in C Op. 7 (5)
 description: This is the description for Toccata in C Op. 7 by Robert Schumann
 composers: [Robert Schumann]
 periods: [Romantic]

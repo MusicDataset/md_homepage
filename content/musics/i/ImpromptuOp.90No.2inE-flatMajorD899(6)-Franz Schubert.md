@@ -1,5 +1,5 @@
 ---
-title: Franz Schubert - Impromptu Op. 90 No. 2 in E-flat Major D899 (6)
+title: Impromptu Op. 90 No. 2 in E-flat Major D899 (6)
 description: This is the description for Impromptu Op. 90 No. 2 in E-flat Major D899 by Franz Schubert
 composers: [Franz Schubert]
 periods: [Romantic]

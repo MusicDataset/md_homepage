@@ -1,5 +1,5 @@
 ---
-title: Ludwig van Beethoven - Sonata No. 26 in 3-flat Major Op. 81a (2nd & 3rd Movements) (2)
+title: Sonata No. 26 in 3-flat Major Op. 81a (2nd & 3rd Movements) (2)
 description: This is the description for Sonata No. 26 in 3-flat Major Op. 81a (2nd & 3rd Movements) by Ludwig van Beethoven
 composers: [Ludwig van Beethoven]
 periods: [Classical]

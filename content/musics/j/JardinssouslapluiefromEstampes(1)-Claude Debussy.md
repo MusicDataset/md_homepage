@@ -1,5 +1,5 @@
 ---
-title: Claude Debussy - Jardins sous la pluie from Estampes (1)
+title: Jardins sous la pluie from Estampes (1)
 description: This is the description for Jardins sous la pluie from Estampes by Claude Debussy
 composers: [Claude Debussy]
 periods: [Impressionism]

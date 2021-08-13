@@ -1,5 +1,5 @@
 ---
-title: Alexander Scriabin - Sonata No. 5 in F-sharp Minor Op. 53 (1)
+title: Sonata No. 5 in F-sharp Minor Op. 53 (1)
 description: This is the description for Sonata No. 5 in F-sharp Minor Op. 53 by Alexander Scriabin
 composers: [Alexander Scriabin]
 periods: [Romantic]

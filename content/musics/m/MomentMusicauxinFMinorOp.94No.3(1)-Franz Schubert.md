@@ -1,5 +1,5 @@
 ---
-title: Franz Schubert - Moment Musicaux in F Minor Op. 94 No. 3 (1)
+title: Moment Musicaux in F Minor Op. 94 No. 3 (1)
 description: This is the description for Moment Musicaux in F Minor Op. 94 No. 3 by Franz Schubert
 composers: [Franz Schubert]
 periods: [Romantic]

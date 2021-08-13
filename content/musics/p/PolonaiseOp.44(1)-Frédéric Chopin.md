@@ -1,5 +1,5 @@
 ---
-title: Frédéric Chopin - Polonaise Op. 44 (1)
+title: Polonaise Op. 44 (1)
 description: This is the description for Polonaise Op. 44 by Frédéric Chopin
 composers: [Frédéric Chopin]
 periods: [Romantic]

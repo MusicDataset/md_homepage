@@ -1,5 +1,5 @@
 ---
-title: Isaac Albéniz _ Leopold Godowsky - Tango (1)
+title: Tango (1)
 description: This is the description for Tango by Isaac Albéniz _ Leopold Godowsky
 composers: [Isaac Albéniz _ Leopold Godowsky]
 periods: [Romantic]

@@ -1,5 +1,5 @@
 ---
-title: Ludwig van Beethoven - Thirty-Two Variaions in C Minor WoO80 (2)
+title: Thirty-Two Variaions in C Minor WoO80 (2)
 description: This is the description for Thirty-Two Variaions in C Minor WoO80 by Ludwig van Beethoven
 composers: [Ludwig van Beethoven]
 periods: [Classical]

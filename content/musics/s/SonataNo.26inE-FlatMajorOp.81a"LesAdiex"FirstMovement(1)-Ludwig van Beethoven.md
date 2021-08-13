@@ -1,5 +1,5 @@
 ---
-title: Ludwig van Beethoven - Sonata No. 26 in E-Flat Major Op. 81a "Les Adiex" First Movement (1)
+title: Sonata No. 26 in E-Flat Major Op. 81a "Les Adiex" First Movement (1)
 description: This is the description for Sonata No. 26 in E-Flat Major Op. 81a "Les Adiex" First Movement by Ludwig van Beethoven
 composers: [Ludwig van Beethoven]
 periods: [Classical]

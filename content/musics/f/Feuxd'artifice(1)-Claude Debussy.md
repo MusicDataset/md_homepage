@@ -1,5 +1,5 @@
 ---
-title: Claude Debussy - Feux d'artifice (1)
+title: Feux d'artifice (1)
 description: This is the description for Feux d'artifice by Claude Debussy
 composers: [Claude Debussy]
 periods: [Impressionism]

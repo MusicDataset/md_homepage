@@ -1,5 +1,5 @@
 ---
-title: Ludwig van Beethoven - Sonata in C Major Op. 2 No. 3 1st mov. (1)
+title: Sonata in C Major Op. 2 No. 3 1st mov. (1)
 description: This is the description for Sonata in C Major Op. 2 No. 3 1st mov. by Ludwig van Beethoven
 composers: [Ludwig van Beethoven]
 periods: [Classical]

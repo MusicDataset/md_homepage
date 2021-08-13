@@ -1,5 +1,5 @@
 ---
-title: Robert Schumann - Fantasy Pieces Op. 12 (1)
+title: Fantasy Pieces Op. 12 (1)
 description: This is the description for Fantasy Pieces Op. 12 by Robert Schumann
 composers: [Robert Schumann]
 periods: [Romantic]

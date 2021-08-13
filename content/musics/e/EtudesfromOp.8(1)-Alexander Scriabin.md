@@ -1,5 +1,5 @@
 ---
-title: Alexander Scriabin - Etudes from Op.8 (1)
+title: Etudes from Op.8 (1)
 description: This is the description for Etudes from Op.8 by Alexander Scriabin
 composers: [Alexander Scriabin]
 periods: [Romantic]

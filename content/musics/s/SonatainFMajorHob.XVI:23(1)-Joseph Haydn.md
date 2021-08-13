@@ -1,5 +1,5 @@
 ---
-title: Joseph Haydn - Sonata in F Major Hob. XVI23 (1)
+title: Sonata in F Major Hob. XVI23 (1)
 description: This is the description for Sonata in F Major Hob. XVI23 by Joseph Haydn
 composers: [Joseph Haydn]
 periods: [Classical]

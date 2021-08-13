@@ -1,5 +1,5 @@
 ---
-title: Franz Schubert - Sonata in A D961 (2)
+title: Sonata in A D961 (2)
 description: This is the description for Sonata in A D961 by Franz Schubert
 composers: [Franz Schubert]
 periods: [Romantic]

@@ -1,5 +1,5 @@
 ---
-title: Johannes Brahms - Sixteen Waltzes Op. 39 (1)
+title: Sixteen Waltzes Op. 39 (1)
 description: This is the description for Sixteen Waltzes Op. 39 by Johannes Brahms
 composers: [Johannes Brahms]
 periods: [Romantic]

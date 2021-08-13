@@ -1,5 +1,5 @@
 ---
-title: Ludwig van Beethoven - Sonata Op. 10/3 (1)
+title: Sonata Op. 10/3 (1)
 description: This is the description for Sonata Op. 10/3 by Ludwig van Beethoven
 composers: [Ludwig van Beethoven]
 periods: [Classical]

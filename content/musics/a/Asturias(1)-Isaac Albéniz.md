@@ -1,5 +1,5 @@
 ---
-title: Isaac Albéniz - Asturias (1)
+title: Asturias (1)
 description: This is the description for Asturias by Isaac Albéniz
 composers: [Isaac Albéniz]
 periods: [Romantic]

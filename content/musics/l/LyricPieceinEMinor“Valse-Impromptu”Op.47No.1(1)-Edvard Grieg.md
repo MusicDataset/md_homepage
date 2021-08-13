@@ -1,5 +1,5 @@
 ---
-title: Edvard Grieg - Lyric Piece in E Minor “Valse-Impromptu” Op. 47 No.1 (1)
+title: Lyric Piece in E Minor “Valse-Impromptu” Op. 47 No.1 (1)
 description: This is the description for Lyric Piece in E Minor “Valse-Impromptu” Op. 47 No.1 by Edvard Grieg
 composers: [Edvard Grieg]
 periods: [Romantic]

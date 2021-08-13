@@ -1,5 +1,5 @@
 ---
-title: Robert Schumann - Arabesque Op. 18 (1)
+title: Arabesque Op. 18 (1)
 description: This is the description for Arabesque Op. 18 by Robert Schumann
 composers: [Robert Schumann]
 periods: [Romantic]

@@ -1,5 +1,5 @@
 ---
-title: Johann Sebastian Bach - Prelude and Fugue in F-sharp Major WTC I BWV 858 (1)
+title: Prelude and Fugue in F-sharp Major WTC I BWV 858 (1)
 description: This is the description for Prelude and Fugue in F-sharp Major WTC I BWV 858 by Johann Sebastian Bach
 composers: [Johann Sebastian Bach]
 periods: [Baroque]

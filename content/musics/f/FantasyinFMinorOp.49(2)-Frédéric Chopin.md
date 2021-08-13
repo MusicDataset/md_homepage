@@ -1,5 +1,5 @@
 ---
-title: Frédéric Chopin - Fantasy in F Minor Op.49 (2)
+title: Fantasy in F Minor Op.49 (2)
 description: This is the description for Fantasy in F Minor Op.49 by Frédéric Chopin
 composers: [Frédéric Chopin]
 periods: [Romantic]

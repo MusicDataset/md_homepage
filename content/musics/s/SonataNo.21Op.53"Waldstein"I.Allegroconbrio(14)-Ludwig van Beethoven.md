@@ -1,5 +1,5 @@
 ---
-title: Ludwig van Beethoven - Sonata No. 21 Op. 53 "Waldstein" I. Allegro con brio (14)
+title: Sonata No. 21 Op. 53 "Waldstein" I. Allegro con brio (14)
 description: This is the description for Sonata No. 21 Op. 53 "Waldstein" I. Allegro con brio by Ludwig van Beethoven
 composers: [Ludwig van Beethoven]
 periods: [Classical]

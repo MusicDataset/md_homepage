@@ -1,5 +1,5 @@
 ---
-title: Sergei Rachmaninoff - Etudes-Tableaux Op. 33 (1)
+title: Etudes-Tableaux Op. 33 (1)
 description: This is the description for Etudes-Tableaux Op. 33 by Sergei Rachmaninoff
 composers: [Sergei Rachmaninoff]
 periods: [Romantic]

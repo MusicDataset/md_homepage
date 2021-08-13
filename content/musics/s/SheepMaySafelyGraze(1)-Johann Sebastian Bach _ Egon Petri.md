@@ -1,5 +1,5 @@
 ---
-title: Johann Sebastian Bach _ Egon Petri - Sheep May Safely Graze (1)
+title: Sheep May Safely Graze (1)
 description: This is the description for Sheep May Safely Graze by Johann Sebastian Bach _ Egon Petri
 composers: [Johann Sebastian Bach _ Egon Petri]
 periods: [Baroque]

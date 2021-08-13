@@ -1,5 +1,5 @@
 ---
-title: Domenico Scarlatti - Sonata K. 54 (1)
+title: Sonata K. 54 (1)
 description: This is the description for Sonata K. 54 by Domenico Scarlatti
 composers: [Domenico Scarlatti]
 periods: [Baroque]

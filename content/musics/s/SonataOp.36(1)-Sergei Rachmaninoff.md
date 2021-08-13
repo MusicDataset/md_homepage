@@ -1,5 +1,5 @@
 ---
-title: Sergei Rachmaninoff - Sonata Op. 36 (1)
+title: Sonata Op. 36 (1)
 description: This is the description for Sonata Op. 36 by Sergei Rachmaninoff
 composers: [Sergei Rachmaninoff]
 periods: [Romantic]

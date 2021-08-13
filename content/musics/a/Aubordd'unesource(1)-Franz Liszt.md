@@ -1,5 +1,5 @@
 ---
-title: Franz Liszt - Au bord d'une source (1)
+title: Au bord d'une source (1)
 description: This is the description for Au bord d'une source by Franz Liszt
 composers: [Franz Liszt]
 periods: [Romantic]

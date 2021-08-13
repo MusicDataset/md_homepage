@@ -1,5 +1,5 @@
 ---
-title: Johann Sebastian Bach - Toccata in E Minor BWV 914 (2)
+title: Toccata in E Minor BWV 914 (2)
 description: This is the description for Toccata in E Minor BWV 914 by Johann Sebastian Bach
 composers: [Johann Sebastian Bach]
 periods: [Baroque]

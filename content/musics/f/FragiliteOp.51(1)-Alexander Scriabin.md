@@ -1,5 +1,5 @@
 ---
-title: Alexander Scriabin - Fragilite Op.51 (1)
+title: Fragilite Op.51 (1)
 description: This is the description for Fragilite Op.51 by Alexander Scriabin
 composers: [Alexander Scriabin]
 periods: [Romantic]

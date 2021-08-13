@@ -1,5 +1,5 @@
 ---
-title: Isaac Albéniz - Iberia Book II (1)
+title: Iberia Book II (1)
 description: This is the description for Iberia Book II by Isaac Albéniz
 composers: [Isaac Albéniz]
 periods: [Romantic]

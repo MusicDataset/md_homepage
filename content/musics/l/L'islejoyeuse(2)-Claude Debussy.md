@@ -1,5 +1,5 @@
 ---
-title: Claude Debussy - L'isle joyeuse (2)
+title: L'isle joyeuse (2)
 description: This is the description for L'isle joyeuse by Claude Debussy
 composers: [Claude Debussy]
 periods: [Impressionism]

@@ -1,5 +1,5 @@
 ---
-title: Johann Sebastian Bach - Prelude and Fugue in E Major WTC I BWV 854 (5)
+title: Prelude and Fugue in E Major WTC I BWV 854 (5)
 description: This is the description for Prelude and Fugue in E Major WTC I BWV 854 by Johann Sebastian Bach
 composers: [Johann Sebastian Bach]
 periods: [Baroque]

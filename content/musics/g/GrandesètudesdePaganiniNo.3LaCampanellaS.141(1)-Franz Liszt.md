@@ -1,5 +1,5 @@
 ---
-title: Franz Liszt - Grandes ètudes de Paganini No. 3 La Campanella S. 141 (1)
+title: Grandes ètudes de Paganini No. 3 La Campanella S. 141 (1)
 description: This is the description for Grandes ètudes de Paganini No. 3 La Campanella S. 141 by Franz Liszt
 composers: [Franz Liszt]
 periods: [Romantic]

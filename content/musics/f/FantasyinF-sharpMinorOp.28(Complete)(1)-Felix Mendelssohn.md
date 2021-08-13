@@ -1,5 +1,5 @@
 ---
-title: Felix Mendelssohn - Fantasy in F-sharp Minor Op. 28 (Complete) (1)
+title: Fantasy in F-sharp Minor Op. 28 (Complete) (1)
 description: This is the description for Fantasy in F-sharp Minor Op. 28 (Complete) by Felix Mendelssohn
 composers: [Felix Mendelssohn]
 periods: [Romantic]

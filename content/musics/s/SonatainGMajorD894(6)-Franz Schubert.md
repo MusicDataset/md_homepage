@@ -1,5 +1,5 @@
 ---
-title: Franz Schubert - Sonata in G Major D 894 (6)
+title: Sonata in G Major D 894 (6)
 description: This is the description for Sonata in G Major D 894 by Franz Schubert
 composers: [Franz Schubert]
 periods: [Romantic]

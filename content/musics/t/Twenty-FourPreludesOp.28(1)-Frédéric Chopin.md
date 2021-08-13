@@ -1,5 +1,5 @@
 ---
-title: Frédéric Chopin - Twenty-Four Preludes Op. 28 (1)
+title: Twenty-Four Preludes Op. 28 (1)
 description: This is the description for Twenty-Four Preludes Op. 28 by Frédéric Chopin
 composers: [Frédéric Chopin]
 periods: [Romantic]

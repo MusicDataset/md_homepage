@@ -1,5 +1,5 @@
 ---
-title: Franz Liszt - Venezia e Napoli S.162 (Complete) (1)
+title: Venezia e Napoli S.162 (Complete) (1)
 description: This is the description for Venezia e Napoli S.162 (Complete) by Franz Liszt
 composers: [Franz Liszt]
 periods: [Romantic]

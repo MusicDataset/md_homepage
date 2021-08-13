@@ -1,5 +1,5 @@
 ---
-title: Pyotr Ilyich Tchaikovsky - Dumka Op.59 (2)
+title: Dumka Op.59 (2)
 description: This is the description for Dumka Op.59 by Pyotr Ilyich Tchaikovsky
 composers: [Pyotr Ilyich Tchaikovsky]
 periods: [Romantic]

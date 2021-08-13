@@ -1,5 +1,5 @@
 ---
-title: Georges Bizet _ Ferruccio Busoni - Sonatina No. 6 BV284 “Fantasia da Camera super Carmen” (1)
+title: Sonatina No. 6 BV284 “Fantasia da Camera super Carmen” (1)
 description: This is the description for Sonatina No. 6 BV284 “Fantasia da Camera super Carmen” by Georges Bizet _ Ferruccio Busoni
 composers: [Georges Bizet _ Ferruccio Busoni]
 periods: [Romantic]

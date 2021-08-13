@@ -1,5 +1,5 @@
 ---
-title: Wolfgang Amadeus Mozart - Sonata in C Minor K. 457 (2)
+title: Sonata in C Minor K. 457 (2)
 description: This is the description for Sonata in C Minor K. 457 by Wolfgang Amadeus Mozart
 composers: [Wolfgang Amadeus Mozart]
 periods: [Classical]

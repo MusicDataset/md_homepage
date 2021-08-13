@@ -1,5 +1,5 @@
 ---
-title: Franz Liszt - Polonaise in E Major (1)
+title: Polonaise in E Major (1)
 description: This is the description for Polonaise in E Major by Franz Liszt
 composers: [Franz Liszt]
 periods: [Romantic]

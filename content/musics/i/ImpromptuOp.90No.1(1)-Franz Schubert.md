@@ -1,5 +1,5 @@
 ---
-title: Franz Schubert - Impromptu Op. 90 No. 1 (1)
+title: Impromptu Op. 90 No. 1 (1)
 description: This is the description for Impromptu Op. 90 No. 1 by Franz Schubert
 composers: [Franz Schubert]
 periods: [Romantic]

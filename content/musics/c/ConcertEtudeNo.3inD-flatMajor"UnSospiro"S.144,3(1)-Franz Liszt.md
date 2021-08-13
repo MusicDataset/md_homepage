@@ -1,5 +1,5 @@
 ---
-title: Franz Liszt - Concert Etude No. 3 in D-flat Major "Un Sospiro" S. 144, 3 (1)
+title: Concert Etude No. 3 in D-flat Major "Un Sospiro" S. 144, 3 (1)
 description: This is the description for Concert Etude No. 3 in D-flat Major "Un Sospiro" S. 144, 3 by Franz Liszt
 composers: [Franz Liszt]
 periods: [Romantic]

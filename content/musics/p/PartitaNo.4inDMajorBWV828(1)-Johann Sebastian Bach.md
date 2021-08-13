@@ -1,5 +1,5 @@
 ---
-title: Johann Sebastian Bach - Partita No. 4 in D Major BWV 828 (1)
+title: Partita No. 4 in D Major BWV 828 (1)
 description: This is the description for Partita No. 4 in D Major BWV 828 by Johann Sebastian Bach
 composers: [Johann Sebastian Bach]
 periods: [Baroque]

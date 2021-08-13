@@ -1,5 +1,5 @@
 ---
-title: Johann Sebastian Bach - English Suite no. 3 in G Minor Prelude (1)
+title: English Suite no. 3 in G Minor Prelude (1)
 description: This is the description for English Suite no. 3 in G Minor Prelude by Johann Sebastian Bach
 composers: [Johann Sebastian Bach]
 periods: [Baroque]

@@ -1,5 +1,5 @@
 ---
-title: Joseph Haydn - Sonata in C Minor Hob. XVI20 1st mov. (1)
+title: Sonata in C Minor Hob. XVI20 1st mov. (1)
 description: This is the description for Sonata in C Minor Hob. XVI20 1st mov. by Joseph Haydn
 composers: [Joseph Haydn]
 periods: [Classical]

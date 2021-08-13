@@ -1,5 +1,5 @@
 ---
-title: Johann Christian Fischer _ Wolfgang Amadeus Mozart - Twelve Variations on a Theme from a Menuet by Fischer (1)
+title: Twelve Variations on a Theme from a Menuet by Fischer (1)
 description: This is the description for Twelve Variations on a Theme from a Menuet by Fischer by Johann Christian Fischer _ Wolfgang Amadeus Mozart
 composers: [Johann Christian Fischer _ Wolfgang Amadeus Mozart]
 periods: [Classical]

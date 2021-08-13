@@ -1,5 +1,5 @@
 ---
-title: Johann Sebastian Bach - Prelude and Fugue in G Minor WTC II BWV 885 (3)
+title: Prelude and Fugue in G Minor WTC II BWV 885 (3)
 description: This is the description for Prelude and Fugue in G Minor WTC II BWV 885 by Johann Sebastian Bach
 composers: [Johann Sebastian Bach]
 periods: [Baroque]

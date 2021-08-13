@@ -8,7 +8,13 @@ weight = 10
 # Music dataset
 
 ### Purpose
-Music Dataset is a platform that collects people's emotional responses after listening to classical music. By labeling music with certain tags, I hope the dataset can solve the complexity involved in the abstract components of music, thus allowing it to be analyzed and classified by computer. The ultimate aim is to improve the field of music machine learning by providing a dataset for training.
+Music Dataset is a platform that collects people's emotional responses after listening to classical music. While image classification and recognition have grown increasingly robust in recent years, the field of processing of music using deep learning are still relatively new.
+
+This is because there is much complexity involved in music. 
+
+By labeling music with certain tags, I hope the dataset can solve the complexity involved in the abstract components of music, thus allowing it to be analyzed and classified by computer.
+
+The ultimate aim is to improve the field of music machine learning by providing a dataset for training.
 
 ### How to use it?
 The repertoires in this dataset have been sorted for easy find:
@@ -28,7 +34,7 @@ To access the dataset, feel free to email me at MusicDataset@gmail.com.
 ### Background
 Music Dataset is created by a high school student passionate about both music and computer science, who is seeking ways to combine these two fields and wishing to make an impact.
 
-The idea was created when the student was working on a music generation model that uses machine learning. She wished to allow the user to input specific characteristics they want in the music, and to achieve that, a curated training data must first be created for data pre-processing. She believes the current music generation models can be greatly improved to become more customizable if a dataset with specific labels are created. Then, when a user prompts for a certain characteristic as input, only songs with corresponding tags would be fed into the training model, and the output result would follow the desire of the user.
+The idea was created when the student was working on a music generation model that uses machine learning. I wished to allow the user to input specific characteristics they want in the music, and to achieve that, a curated training data must first be created for data pre-processing. I believe the current music generation models can be greatly improved to become more customizable if a dataset with specific labels are created. Then, when a user prompts for a certain characteristic as input, only songs with corresponding tags would be fed into the training model, and the output result would follow the desire of the user.
 
 While researching about plausible labels to gave to the dataset, I came about the article ["What music makes us feel: At least 13 dimensions organize subjective experiences associated with music across different cultures"](https://www.pnas.org/content/117/4/1924) written by UC Berkeley researchers. This inspired the first three questions in my survey, asking for the emotion (categorized into 13 feelings: amusement, joy, eroticism, beauty, relaxation, sadness, dreaminess, triumph, anxiety, scariness, annoyance, defiance, and feeling pumped up), valence, and excitement level upon hearing a piece of music. Further questions ask for the difficulty levels about these songs, to better sort the dataset as input to the music generation machine learning model, as the input directly determines the style of the output.
 

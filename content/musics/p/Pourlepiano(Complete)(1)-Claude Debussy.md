@@ -1,5 +1,5 @@
 ---
-title: Claude Debussy - Pour le piano (Complete) (1)
+title: Pour le piano (Complete) (1)
 description: This is the description for Pour le piano (Complete) by Claude Debussy
 composers: [Claude Debussy]
 periods: [Impressionism]

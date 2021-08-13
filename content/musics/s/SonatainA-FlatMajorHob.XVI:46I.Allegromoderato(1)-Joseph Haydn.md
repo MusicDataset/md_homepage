@@ -1,5 +1,5 @@
 ---
-title: Joseph Haydn - Sonata in A-Flat Major Hob. XVI46 I. Allegro moderato (1)
+title: Sonata in A-Flat Major Hob. XVI46 I. Allegro moderato (1)
 description: This is the description for Sonata in A-Flat Major Hob. XVI46 I. Allegro moderato by Joseph Haydn
 composers: [Joseph Haydn]
 periods: [Classical]

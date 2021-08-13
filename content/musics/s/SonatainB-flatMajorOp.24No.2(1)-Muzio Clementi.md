@@ -1,5 +1,5 @@
 ---
-title: Muzio Clementi - Sonata in B-flat Major Op.24 No. 2 (1)
+title: Sonata in B-flat Major Op.24 No. 2 (1)
 description: This is the description for Sonata in B-flat Major Op.24 No. 2 by Muzio Clementi
 composers: [Muzio Clementi]
 periods: [Classical]

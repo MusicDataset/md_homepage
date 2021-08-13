@@ -1,5 +1,5 @@
 ---
-title: Franz Schubert - Impromptu Op. 142 No. 4 in F Minor D935 (2)
+title: Impromptu Op. 142 No. 4 in F Minor D935 (2)
 description: This is the description for Impromptu Op. 142 No. 4 in F Minor D935 by Franz Schubert
 composers: [Franz Schubert]
 periods: [Romantic]

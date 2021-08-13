@@ -1,5 +1,5 @@
 ---
-title: Claude Debussy - Les Collines d'Anacapri from Book I (1)
+title: Les Collines d'Anacapri from Book I (1)
 description: This is the description for Les Collines d'Anacapri from Book I by Claude Debussy
 composers: [Claude Debussy]
 periods: [Impressionism]

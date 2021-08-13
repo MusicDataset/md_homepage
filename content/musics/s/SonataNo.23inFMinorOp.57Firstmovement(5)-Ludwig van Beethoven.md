@@ -1,5 +1,5 @@
 ---
-title: Ludwig van Beethoven - Sonata No. 23 in F Minor Op. 57 First movement (5)
+title: Sonata No. 23 in F Minor Op. 57 First movement (5)
 description: This is the description for Sonata No. 23 in F Minor Op. 57 First movement by Ludwig van Beethoven
 composers: [Ludwig van Beethoven]
 periods: [Classical]

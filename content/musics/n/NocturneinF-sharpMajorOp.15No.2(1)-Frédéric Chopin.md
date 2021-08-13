@@ -1,5 +1,5 @@
 ---
-title: Frédéric Chopin - Nocturne in F-sharp Major Op. 15 No. 2 (1)
+title: Nocturne in F-sharp Major Op. 15 No. 2 (1)
 description: This is the description for Nocturne in F-sharp Major Op. 15 No. 2 by Frédéric Chopin
 composers: [Frédéric Chopin]
 periods: [Romantic]

@@ -1,5 +1,5 @@
 ---
-title: César Franck - Prélude chorale et fugue M. 21 (1)
+title: Prélude chorale et fugue M. 21 (1)
 description: This is the description for Prélude chorale et fugue M. 21 by César Franck
 composers: [César Franck]
 periods: [Romantic]

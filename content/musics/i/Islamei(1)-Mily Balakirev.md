@@ -1,5 +1,5 @@
 ---
-title: Mily Balakirev - Islamei (1)
+title: Islamei (1)
 description: This is the description for Islamei by Mily Balakirev
 composers: [Mily Balakirev]
 periods: [Romantic]

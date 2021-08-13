@@ -1,5 +1,5 @@
 ---
-title: Ludwig van Beethoven - Sonata No. 11 Op. 22 in B-flat Major I. Allegro con brio (3)
+title: Sonata No. 11 Op. 22 in B-flat Major I. Allegro con brio (3)
 description: This is the description for Sonata No. 11 Op. 22 in B-flat Major I. Allegro con brio by Ludwig van Beethoven
 composers: [Ludwig van Beethoven]
 periods: [Classical]

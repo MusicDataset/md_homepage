@@ -1,5 +1,5 @@
 ---
-title: Frédéric Chopin - Mazurka in G-sharp Minor Op. 33 No. 1 (1)
+title: Mazurka in G-sharp Minor Op. 33 No. 1 (1)
 description: This is the description for Mazurka in G-sharp Minor Op. 33 No. 1 by Frédéric Chopin
 composers: [Frédéric Chopin]
 periods: [Romantic]

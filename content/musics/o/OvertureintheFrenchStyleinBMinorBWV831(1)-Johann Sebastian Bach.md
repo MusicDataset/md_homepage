@@ -1,5 +1,5 @@
 ---
-title: Johann Sebastian Bach - Overture in the French Style in B Minor BWV 831 (1)
+title: Overture in the French Style in B Minor BWV 831 (1)
 description: This is the description for Overture in the French Style in B Minor BWV 831 by Johann Sebastian Bach
 composers: [Johann Sebastian Bach]
 periods: [Baroque]

@@ -1,5 +1,5 @@
 ---
-title: Frédéric Chopin - Complete Etudes Opus 25 (1)
+title: Complete Etudes Opus 25 (1)
 description: This is the description for Complete Etudes Opus 25 by Frédéric Chopin
 composers: [Frédéric Chopin]
 periods: [Romantic]

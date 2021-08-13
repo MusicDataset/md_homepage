@@ -1,5 +1,5 @@
 ---
-title: Mily Balakirev - Oriental Fantasy "Islamey" (1)
+title: Oriental Fantasy "Islamey" (1)
 description: This is the description for Oriental Fantasy "Islamey" by Mily Balakirev
 composers: [Mily Balakirev]
 periods: [Romantic]

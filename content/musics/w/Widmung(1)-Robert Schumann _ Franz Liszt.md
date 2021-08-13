@@ -1,5 +1,5 @@
 ---
-title: Robert Schumann _ Franz Liszt - Widmung (1)
+title: Widmung (1)
 description: This is the description for Widmung by Robert Schumann _ Franz Liszt
 composers: [Robert Schumann _ Franz Liszt]
 periods: [Romantic]

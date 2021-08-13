@@ -1,5 +1,5 @@
 ---
-title: Claude Debussy - Voiles from Preludes Book I (1)
+title: Voiles from Preludes Book I (1)
 description: This is the description for Voiles from Preludes Book I by Claude Debussy
 composers: [Claude Debussy]
 periods: [Impressionism]

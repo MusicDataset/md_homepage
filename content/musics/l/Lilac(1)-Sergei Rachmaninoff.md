@@ -1,5 +1,5 @@
 ---
-title: Sergei Rachmaninoff - Lilac (1)
+title: Lilac (1)
 description: This is the description for Lilac by Sergei Rachmaninoff
 composers: [Sergei Rachmaninoff]
 periods: [Romantic]

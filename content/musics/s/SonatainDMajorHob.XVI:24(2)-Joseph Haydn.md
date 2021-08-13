@@ -1,5 +1,5 @@
 ---
-title: Joseph Haydn - Sonata in D Major Hob. XVI24 (2)
+title: Sonata in D Major Hob. XVI24 (2)
 description: This is the description for Sonata in D Major Hob. XVI24 by Joseph Haydn
 composers: [Joseph Haydn]
 periods: [Classical]

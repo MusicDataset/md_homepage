@@ -1,5 +1,5 @@
 ---
-title: Johannes Brahms - Intermezzo Op. 118 No. 6 in E-flat Minor (1)
+title: Intermezzo Op. 118 No. 6 in E-flat Minor (1)
 description: This is the description for Intermezzo Op. 118 No. 6 in E-flat Minor by Johannes Brahms
 composers: [Johannes Brahms]
 periods: [Romantic]

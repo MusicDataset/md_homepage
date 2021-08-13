@@ -1,5 +1,5 @@
 ---
-title: Johann Sebastian Bach - Chromatic Fantasy and Fugue in D Minor BWV 903 (2)
+title: Chromatic Fantasy and Fugue in D Minor BWV 903 (2)
 description: This is the description for Chromatic Fantasy and Fugue in D Minor BWV 903 by Johann Sebastian Bach
 composers: [Johann Sebastian Bach]
 periods: [Baroque]

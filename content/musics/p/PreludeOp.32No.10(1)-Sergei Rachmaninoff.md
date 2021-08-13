@@ -1,5 +1,5 @@
 ---
-title: Sergei Rachmaninoff - Prelude Op. 32 No. 10 (1)
+title: Prelude Op. 32 No. 10 (1)
 description: This is the description for Prelude Op. 32 No. 10 by Sergei Rachmaninoff
 composers: [Sergei Rachmaninoff]
 periods: [Romantic]

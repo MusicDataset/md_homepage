@@ -1,5 +1,5 @@
 ---
-title: Frédéric Chopin - Ballade No. 3 in A-flat Major Op. 47 (2)
+title: Ballade No. 3 in A-flat Major Op. 47 (2)
 description: This is the description for Ballade No. 3 in A-flat Major Op. 47 by Frédéric Chopin
 composers: [Frédéric Chopin]
 periods: [Romantic]

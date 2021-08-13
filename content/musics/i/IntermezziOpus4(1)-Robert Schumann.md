@@ -1,5 +1,5 @@
 ---
-title: Robert Schumann - Intermezzi Opus 4 (1)
+title: Intermezzi Opus 4 (1)
 description: This is the description for Intermezzi Opus 4 by Robert Schumann
 composers: [Robert Schumann]
 periods: [Romantic]

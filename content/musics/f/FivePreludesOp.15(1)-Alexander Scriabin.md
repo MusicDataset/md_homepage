@@ -1,5 +1,5 @@
 ---
-title: Alexander Scriabin - Five Preludes Op.15 (1)
+title: Five Preludes Op.15 (1)
 description: This is the description for Five Preludes Op.15 by Alexander Scriabin
 composers: [Alexander Scriabin]
 periods: [Romantic]

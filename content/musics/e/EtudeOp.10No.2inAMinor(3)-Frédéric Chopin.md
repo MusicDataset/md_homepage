@@ -1,5 +1,5 @@
 ---
-title: Frédéric Chopin - Etude Op. 10 No. 2 in A Minor (3)
+title: Etude Op. 10 No. 2 in A Minor (3)
 description: This is the description for Etude Op. 10 No. 2 in A Minor by Frédéric Chopin
 composers: [Frédéric Chopin]
 periods: [Romantic]

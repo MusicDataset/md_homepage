@@ -1,5 +1,5 @@
 ---
-title: Franz Liszt - Mephisto-Waltz No. 1 (7)
+title: Mephisto-Waltz No. 1 (7)
 description: This is the description for Mephisto-Waltz No. 1 by Franz Liszt
 composers: [Franz Liszt]
 periods: [Romantic]

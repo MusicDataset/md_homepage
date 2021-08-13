@@ -1,5 +1,5 @@
 ---
-title: Frédéric Chopin - Etudes Op. 25 Nos. 1-5 (1)
+title: Etudes Op. 25 Nos. 1-5 (1)
 description: This is the description for Etudes Op. 25 Nos. 1-5 by Frédéric Chopin
 composers: [Frédéric Chopin]
 periods: [Romantic]

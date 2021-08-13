@@ -1,5 +1,5 @@
 ---
-title: Franz Liszt - Concert Etude "Un Sospiro" (1)
+title: Concert Etude "Un Sospiro" (1)
 description: This is the description for Concert Etude "Un Sospiro" by Franz Liszt
 composers: [Franz Liszt]
 periods: [Romantic]

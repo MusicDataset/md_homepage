@@ -1,5 +1,5 @@
 ---
-title: Ludwig van Beethoven - Sonata Op. 101 (1)
+title: Sonata Op. 101 (1)
 description: This is the description for Sonata Op. 101 by Ludwig van Beethoven
 composers: [Ludwig van Beethoven]
 periods: [Classical]

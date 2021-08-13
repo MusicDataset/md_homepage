@@ -1,5 +1,5 @@
 ---
-title: Franz Liszt - Valse de l'opera Faust de Charles Gounod S.407 (2)
+title: Valse de l'opera Faust de Charles Gounod S.407 (2)
 description: This is the description for Valse de l'opera Faust de Charles Gounod S.407 by Franz Liszt
 composers: [Franz Liszt]
 periods: [Romantic]

@@ -1,5 +1,5 @@
 ---
-title: Joseph Haydn - Son. Hob. XVI39 (1)
+title: Son. Hob. XVI39 (1)
 description: This is the description for Son. Hob. XVI39 by Joseph Haydn
 composers: [Joseph Haydn]
 periods: [Classical]

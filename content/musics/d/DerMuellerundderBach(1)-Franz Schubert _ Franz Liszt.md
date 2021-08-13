@@ -1,5 +1,5 @@
 ---
-title: Franz Schubert _ Franz Liszt - Der Mueller und der Bach (1)
+title: Der Mueller und der Bach (1)
 description: This is the description for Der Mueller und der Bach by Franz Schubert _ Franz Liszt
 composers: [Franz Schubert _ Franz Liszt]
 periods: [Romantic]

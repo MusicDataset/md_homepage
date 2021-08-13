@@ -1,5 +1,5 @@
 ---
-title: Johann Sebastian Bach - Prelude and Fugue in E-flat Major WTC I (1)
+title: Prelude and Fugue in E-flat Major WTC I (1)
 description: This is the description for Prelude and Fugue in E-flat Major WTC I by Johann Sebastian Bach
 composers: [Johann Sebastian Bach]
 periods: [Baroque]

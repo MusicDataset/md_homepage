@@ -1,5 +1,5 @@
 ---
-title: Claude Debussy - Images Book 1 (Complete) L 110 (1)
+title: Images Book 1 (Complete) L 110 (1)
 description: This is the description for Images Book 1 (Complete) L 110 by Claude Debussy
 composers: [Claude Debussy]
 periods: [Impressionism]

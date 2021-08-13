@@ -1,5 +1,5 @@
 ---
-title: Franz Liszt - Transcendental Etude No. 11 "Harmonies du Soir" (1)
+title: Transcendental Etude No. 11 "Harmonies du Soir" (1)
 description: This is the description for Transcendental Etude No. 11 "Harmonies du Soir" by Franz Liszt
 composers: [Franz Liszt]
 periods: [Romantic]

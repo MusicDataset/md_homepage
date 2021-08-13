@@ -1,5 +1,5 @@
 ---
-title: Franz Schubert - Sonata in C Minor D958 (6)
+title: Sonata in C Minor D958 (6)
 description: This is the description for Sonata in C Minor D958 by Franz Schubert
 composers: [Franz Schubert]
 periods: [Romantic]

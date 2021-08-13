@@ -1,5 +1,5 @@
 ---
-title: Joseph Haydn - Son. Hob. XVI52 (1)
+title: Son. Hob. XVI52 (1)
 description: This is the description for Son. Hob. XVI52 by Joseph Haydn
 composers: [Joseph Haydn]
 periods: [Classical]

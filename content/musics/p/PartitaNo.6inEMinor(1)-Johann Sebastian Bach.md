@@ -1,5 +1,5 @@
 ---
-title: Johann Sebastian Bach - Partita No. 6 in E Minor (1)
+title: Partita No. 6 in E Minor (1)
 description: This is the description for Partita No. 6 in E Minor by Johann Sebastian Bach
 composers: [Johann Sebastian Bach]
 periods: [Baroque]

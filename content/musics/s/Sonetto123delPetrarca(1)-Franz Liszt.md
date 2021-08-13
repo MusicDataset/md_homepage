@@ -1,5 +1,5 @@
 ---
-title: Franz Liszt - Sonetto 123 del Petrarca (1)
+title: Sonetto 123 del Petrarca (1)
 description: This is the description for Sonetto 123 del Petrarca by Franz Liszt
 composers: [Franz Liszt]
 periods: [Romantic]

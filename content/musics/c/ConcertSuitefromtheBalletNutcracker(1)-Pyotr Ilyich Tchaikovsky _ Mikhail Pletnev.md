@@ -1,5 +1,5 @@
 ---
-title: Pyotr Ilyich Tchaikovsky _ Mikhail Pletnev - Concert Suite from the Ballet Nutcracker (1)
+title: Concert Suite from the Ballet Nutcracker (1)
 description: This is the description for Concert Suite from the Ballet Nutcracker by Pyotr Ilyich Tchaikovsky _ Mikhail Pletnev
 composers: [Pyotr Ilyich Tchaikovsky _ Mikhail Pletnev]
 periods: [Romantic]

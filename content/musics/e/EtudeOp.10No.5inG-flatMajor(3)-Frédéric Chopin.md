@@ -1,5 +1,5 @@
 ---
-title: Frédéric Chopin - Etude Op. 10 No. 5 in G-flat Major (3)
+title: Etude Op. 10 No. 5 in G-flat Major (3)
 description: This is the description for Etude Op. 10 No. 5 in G-flat Major by Frédéric Chopin
 composers: [Frédéric Chopin]
 periods: [Romantic]

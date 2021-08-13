@@ -1,5 +1,5 @@
 ---
-title: Ludwig van Beethoven - Sonata in C Major Op. 53 'Waldstein' (1)
+title: Sonata in C Major Op. 53 'Waldstein' (1)
 description: This is the description for Sonata in C Major Op. 53 'Waldstein' by Ludwig van Beethoven
 composers: [Ludwig van Beethoven]
 periods: [Classical]

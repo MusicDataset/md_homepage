@@ -1,5 +1,5 @@
 ---
-title: Frédéric Chopin - Sonata No. 3 in B Minor Op. 58 1st mov. (1)
+title: Sonata No. 3 in B Minor Op. 58 1st mov. (1)
 description: This is the description for Sonata No. 3 in B Minor Op. 58 1st mov. by Frédéric Chopin
 composers: [Frédéric Chopin]
 periods: [Romantic]

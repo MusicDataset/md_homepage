@@ -1,5 +1,5 @@
 ---
-title: Franz Liszt - Etudes d'exécution transcendante No. 4 "Mazeppa" S.139/4 (1)
+title: Etudes d'exécution transcendante No. 4 "Mazeppa" S.139/4 (1)
 description: This is the description for Etudes d'exécution transcendante No. 4 "Mazeppa" S.139/4 by Franz Liszt
 composers: [Franz Liszt]
 periods: [Romantic]

@@ -1,5 +1,5 @@
 ---
-title: Frédéric Chopin - Etude Op. 10 No. 10 in A-flat Major (1)
+title: Etude Op. 10 No. 10 in A-flat Major (1)
 description: This is the description for Etude Op. 10 No. 10 in A-flat Major by Frédéric Chopin
 composers: [Frédéric Chopin]
 periods: [Romantic]

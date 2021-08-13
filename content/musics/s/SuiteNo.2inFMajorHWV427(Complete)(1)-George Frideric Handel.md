@@ -1,5 +1,5 @@
 ---
-title: George Frideric Handel - Suite No. 2 in F Major HWV 427 (Complete) (1)
+title: Suite No. 2 in F Major HWV 427 (Complete) (1)
 description: This is the description for Suite No. 2 in F Major HWV 427 (Complete) by George Frideric Handel
 composers: [George Frideric Handel]
 periods: [Baroque]

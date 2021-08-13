@@ -1,5 +1,5 @@
 ---
-title: Frédéric Chopin - Ballade No. 2 in F Major (1)
+title: Ballade No. 2 in F Major (1)
 description: This is the description for Ballade No. 2 in F Major by Frédéric Chopin
 composers: [Frédéric Chopin]
 periods: [Romantic]

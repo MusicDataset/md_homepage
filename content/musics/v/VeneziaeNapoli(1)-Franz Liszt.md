@@ -1,5 +1,5 @@
 ---
-title: Franz Liszt - Venezia e Napoli (1)
+title: Venezia e Napoli (1)
 description: This is the description for Venezia e Napoli by Franz Liszt
 composers: [Franz Liszt]
 periods: [Romantic]

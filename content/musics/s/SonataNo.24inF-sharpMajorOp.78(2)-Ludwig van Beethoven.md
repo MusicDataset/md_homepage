@@ -1,5 +1,5 @@
 ---
-title: Ludwig van Beethoven - Sonata No. 24 in F-sharp Major Op. 78 (2)
+title: Sonata No. 24 in F-sharp Major Op. 78 (2)
 description: This is the description for Sonata No. 24 in F-sharp Major Op. 78 by Ludwig van Beethoven
 composers: [Ludwig van Beethoven]
 periods: [Classical]

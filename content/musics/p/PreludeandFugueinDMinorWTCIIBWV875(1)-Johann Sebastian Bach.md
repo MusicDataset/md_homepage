@@ -1,5 +1,5 @@
 ---
-title: Johann Sebastian Bach - Prelude and Fugue in D Minor WTC II BWV 875 (1)
+title: Prelude and Fugue in D Minor WTC II BWV 875 (1)
 description: This is the description for Prelude and Fugue in D Minor WTC II BWV 875 by Johann Sebastian Bach
 composers: [Johann Sebastian Bach]
 periods: [Baroque]

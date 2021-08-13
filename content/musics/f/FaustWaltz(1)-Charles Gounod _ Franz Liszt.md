@@ -1,5 +1,5 @@
 ---
-title: Charles Gounod _ Franz Liszt - Faust Waltz (1)
+title: Faust Waltz (1)
 description: This is the description for Faust Waltz by Charles Gounod _ Franz Liszt
 composers: [Charles Gounod _ Franz Liszt]
 periods: [Romantic]

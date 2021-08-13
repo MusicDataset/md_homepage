@@ -1,5 +1,5 @@
 ---
-title: Frédéric Chopin - Mazurkas Op. 17 (Complete) (1)
+title: Mazurkas Op. 17 (Complete) (1)
 description: This is the description for Mazurkas Op. 17 (Complete) by Frédéric Chopin
 composers: [Frédéric Chopin]
 periods: [Romantic]

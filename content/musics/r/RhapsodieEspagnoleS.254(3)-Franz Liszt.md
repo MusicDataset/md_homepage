@@ -1,5 +1,5 @@
 ---
-title: Franz Liszt - Rhapsodie Espagnole S. 254 (3)
+title: Rhapsodie Espagnole S. 254 (3)
 description: This is the description for Rhapsodie Espagnole S. 254 by Franz Liszt
 composers: [Franz Liszt]
 periods: [Romantic]

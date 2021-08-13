@@ -1,5 +1,5 @@
 ---
-title: Leoš Janáček - Piano Sonata 1. X. 1905 "From the Street" (1)
+title: Piano Sonata 1. X. 1905 "From the Street" (1)
 description: This is the description for Piano Sonata 1. X. 1905 "From the Street" by Leoš Janáček
 composers: [Leoš Janáček]
 periods: [Romantic]

@@ -1,5 +1,5 @@
 ---
-title: Franz Liszt - Transcendental Etude No. 2 “Molto vivace" (1)
+title: Transcendental Etude No. 2 “Molto vivace" (1)
 description: This is the description for Transcendental Etude No. 2 “Molto vivace" by Franz Liszt
 composers: [Franz Liszt]
 periods: [Romantic]

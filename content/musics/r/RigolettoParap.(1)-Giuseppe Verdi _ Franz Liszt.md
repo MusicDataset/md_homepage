@@ -1,5 +1,5 @@
 ---
-title: Giuseppe Verdi _ Franz Liszt - Rigoletto Parap. (1)
+title: Rigoletto Parap. (1)
 description: This is the description for Rigoletto Parap. by Giuseppe Verdi _ Franz Liszt
 composers: [Giuseppe Verdi _ Franz Liszt]
 periods: [Romantic]

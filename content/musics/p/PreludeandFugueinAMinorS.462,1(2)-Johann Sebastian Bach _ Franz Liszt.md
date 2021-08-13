@@ -1,5 +1,5 @@
 ---
-title: Johann Sebastian Bach _ Franz Liszt - Prelude and Fugue in A Minor S.462/1 (2)
+title: Prelude and Fugue in A Minor S.462/1 (2)
 description: This is the description for Prelude and Fugue in A Minor S.462/1 by Johann Sebastian Bach _ Franz Liszt
 composers: [Johann Sebastian Bach _ Franz Liszt]
 periods: [Baroque]

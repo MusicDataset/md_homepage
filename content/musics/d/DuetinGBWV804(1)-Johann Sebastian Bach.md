@@ -1,5 +1,5 @@
 ---
-title: Johann Sebastian Bach - Duet in G BWV 804 (1)
+title: Duet in G BWV 804 (1)
 description: This is the description for Duet in G BWV 804 by Johann Sebastian Bach
 composers: [Johann Sebastian Bach]
 periods: [Baroque]

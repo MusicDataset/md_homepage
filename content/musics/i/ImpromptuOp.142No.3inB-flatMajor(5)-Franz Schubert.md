@@ -1,5 +1,5 @@
 ---
-title: Franz Schubert - Impromptu Op. 142 No. 3 in B-flat Major (5)
+title: Impromptu Op. 142 No. 3 in B-flat Major (5)
 description: This is the description for Impromptu Op. 142 No. 3 in B-flat Major by Franz Schubert
 composers: [Franz Schubert]
 periods: [Romantic]

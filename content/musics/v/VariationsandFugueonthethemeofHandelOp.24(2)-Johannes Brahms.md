@@ -1,5 +1,5 @@
 ---
-title: Johannes Brahms - Variations and Fugue on the theme of Handel Op. 24 (2)
+title: Variations and Fugue on the theme of Handel Op. 24 (2)
 description: This is the description for Variations and Fugue on the theme of Handel Op. 24 by Johannes Brahms
 composers: [Johannes Brahms]
 periods: [Romantic]

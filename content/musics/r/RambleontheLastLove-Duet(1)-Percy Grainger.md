@@ -1,5 +1,5 @@
 ---
-title: Percy Grainger - Ramble on the Last Love - Duet (1)
+title: Ramble on the Last Love - Duet (1)
 description: This is the description for Ramble on the Last Love - Duet by Percy Grainger
 composers: [Percy Grainger]
 periods: [Contemporary]

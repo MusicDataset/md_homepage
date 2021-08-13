@@ -1,5 +1,5 @@
 ---
-title: Alexander Scriabin - Etude Op. 8 No. 13 (1)
+title: Etude Op. 8 No. 13 (1)
 description: This is the description for Etude Op. 8 No. 13 by Alexander Scriabin
 composers: [Alexander Scriabin]
 periods: [Romantic]

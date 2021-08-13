@@ -1,5 +1,5 @@
 ---
-title: Franz Schubert - Impromptus Op. 90 No. 3 (1)
+title: Impromptus Op. 90 No. 3 (1)
 description: This is the description for Impromptus Op. 90 No. 3 by Franz Schubert
 composers: [Franz Schubert]
 periods: [Romantic]

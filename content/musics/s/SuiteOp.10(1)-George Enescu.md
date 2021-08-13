@@ -1,5 +1,5 @@
 ---
-title: George Enescu - Suite Op. 10 (1)
+title: Suite Op. 10 (1)
 description: This is the description for Suite Op. 10 by George Enescu
 composers: [George Enescu]
 periods: [Romantic]

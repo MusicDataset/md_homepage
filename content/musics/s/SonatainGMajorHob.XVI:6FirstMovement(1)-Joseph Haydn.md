@@ -1,5 +1,5 @@
 ---
-title: Joseph Haydn - Sonata in G Major Hob. XVI6 First Movement (1)
+title: Sonata in G Major Hob. XVI6 First Movement (1)
 description: This is the description for Sonata in G Major Hob. XVI6 First Movement by Joseph Haydn
 composers: [Joseph Haydn]
 periods: [Classical]

@@ -1,5 +1,5 @@
 ---
-title: Wolfgang Amadeus Mozart - Twelve Variations K179 (189a) (1)
+title: Twelve Variations K179 (189a) (1)
 description: This is the description for Twelve Variations K179 (189a) by Wolfgang Amadeus Mozart
 composers: [Wolfgang Amadeus Mozart]
 periods: [Classical]

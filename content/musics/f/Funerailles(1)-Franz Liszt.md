@@ -1,5 +1,5 @@
 ---
-title: Franz Liszt - Funerailles (1)
+title: Funerailles (1)
 description: This is the description for Funerailles by Franz Liszt
 composers: [Franz Liszt]
 periods: [Romantic]

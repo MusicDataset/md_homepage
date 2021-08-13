@@ -1,5 +1,5 @@
 ---
-title: Claude Debussy - Image (Book II) (1)
+title: Image (Book II) (1)
 description: This is the description for Image (Book II) by Claude Debussy
 composers: [Claude Debussy]
 periods: [Impressionism]

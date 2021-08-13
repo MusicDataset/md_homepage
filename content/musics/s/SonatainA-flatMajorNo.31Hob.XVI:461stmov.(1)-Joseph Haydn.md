@@ -1,5 +1,5 @@
 ---
-title: Joseph Haydn - Sonata in A-flat Major No. 31 Hob. XVI46 1st mov. (1)
+title: Sonata in A-flat Major No. 31 Hob. XVI46 1st mov. (1)
 description: This is the description for Sonata in A-flat Major No. 31 Hob. XVI46 1st mov. by Joseph Haydn
 composers: [Joseph Haydn]
 periods: [Classical]

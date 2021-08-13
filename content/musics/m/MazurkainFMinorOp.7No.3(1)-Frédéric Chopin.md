@@ -1,5 +1,5 @@
 ---
-title: Frédéric Chopin - Mazurka in F Minor Op. 7 No. 3 (1)
+title: Mazurka in F Minor Op. 7 No. 3 (1)
 description: This is the description for Mazurka in F Minor Op. 7 No. 3 by Frédéric Chopin
 composers: [Frédéric Chopin]
 periods: [Romantic]

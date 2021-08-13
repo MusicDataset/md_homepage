@@ -1,5 +1,5 @@
 ---
-title: Sergei Rachmaninoff - Moments Musicaux Op. 16 (6)
+title: Moments Musicaux Op. 16 (6)
 description: This is the description for Moments Musicaux Op. 16 by Sergei Rachmaninoff
 composers: [Sergei Rachmaninoff]
 periods: [Romantic]

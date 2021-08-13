@@ -1,5 +1,5 @@
 ---
-title: Frédéric Chopin - Mazurka in D Major Op. 33 No. 2 (1)
+title: Mazurka in D Major Op. 33 No. 2 (1)
 description: This is the description for Mazurka in D Major Op. 33 No. 2 by Frédéric Chopin
 composers: [Frédéric Chopin]
 periods: [Romantic]

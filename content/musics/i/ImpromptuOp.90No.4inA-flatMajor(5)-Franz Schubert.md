@@ -1,5 +1,5 @@
 ---
-title: Franz Schubert - Impromptu Op. 90 No. 4 in A-flat Major (5)
+title: Impromptu Op. 90 No. 4 in A-flat Major (5)
 description: This is the description for Impromptu Op. 90 No. 4 in A-flat Major by Franz Schubert
 composers: [Franz Schubert]
 periods: [Romantic]

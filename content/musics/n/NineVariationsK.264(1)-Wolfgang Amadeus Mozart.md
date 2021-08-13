@@ -1,5 +1,5 @@
 ---
-title: Wolfgang Amadeus Mozart - Nine Variations K. 264 (1)
+title: Nine Variations K. 264 (1)
 description: This is the description for Nine Variations K. 264 by Wolfgang Amadeus Mozart
 composers: [Wolfgang Amadeus Mozart]
 periods: [Classical]

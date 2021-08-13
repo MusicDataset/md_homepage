@@ -1,5 +1,5 @@
 ---
-title: Pyotr Ilyich Tchaikovsky _ Mikhail Pletnev - Nutcracker Suite (1)
+title: Nutcracker Suite (1)
 description: This is the description for Nutcracker Suite by Pyotr Ilyich Tchaikovsky _ Mikhail Pletnev
 composers: [Pyotr Ilyich Tchaikovsky _ Mikhail Pletnev]
 periods: [Romantic]

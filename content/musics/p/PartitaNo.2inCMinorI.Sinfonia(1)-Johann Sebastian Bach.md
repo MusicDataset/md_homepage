@@ -1,5 +1,5 @@
 ---
-title: Johann Sebastian Bach - Partita No. 2 in C Minor I. Sinfonia (1)
+title: Partita No. 2 in C Minor I. Sinfonia (1)
 description: This is the description for Partita No. 2 in C Minor I. Sinfonia by Johann Sebastian Bach
 composers: [Johann Sebastian Bach]
 periods: [Baroque]

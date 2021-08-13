@@ -1,5 +1,5 @@
 ---
-title: Alexander Scriabin - Sonata No. 3 in F-sharp Minor Op. 23 (3)
+title: Sonata No. 3 in F-sharp Minor Op. 23 (3)
 description: This is the description for Sonata No. 3 in F-sharp Minor Op. 23 by Alexander Scriabin
 composers: [Alexander Scriabin]
 periods: [Romantic]

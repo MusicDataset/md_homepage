@@ -1,5 +1,5 @@
 ---
-title: Ludwig van Beethoven - Sonata No. 27 in E Minor Op. 90 First Movement (1)
+title: Sonata No. 27 in E Minor Op. 90 First Movement (1)
 description: This is the description for Sonata No. 27 in E Minor Op. 90 First Movement by Ludwig van Beethoven
 composers: [Ludwig van Beethoven]
 periods: [Classical]

@@ -1,5 +1,5 @@
 ---
-title: Franz Schubert - Sonata in D Major D850 (2)
+title: Sonata in D Major D850 (2)
 description: This is the description for Sonata in D Major D850 by Franz Schubert
 composers: [Franz Schubert]
 periods: [Romantic]

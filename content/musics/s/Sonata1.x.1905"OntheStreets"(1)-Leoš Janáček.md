@@ -1,5 +1,5 @@
 ---
-title: Leoš Janáček - Sonata 1.x.1905 "On the Streets" (1)
+title: Sonata 1.x.1905 "On the Streets" (1)
 description: This is the description for Sonata 1.x.1905 "On the Streets" by Leoš Janáček
 composers: [Leoš Janáček]
 periods: [Romantic]

@@ -1,5 +1,5 @@
 ---
-title: Ludwig van Beethoven - Sonata in A-flat Op. 110 (3)
+title: Sonata in A-flat Op. 110 (3)
 description: This is the description for Sonata in A-flat Op. 110 by Ludwig van Beethoven
 composers: [Ludwig van Beethoven]
 periods: [Classical]

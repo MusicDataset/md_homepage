@@ -1,5 +1,5 @@
 ---
-title: Johannes Brahms - Rhapsody Op. 79 No. 1 in B minor (1)
+title: Rhapsody Op. 79 No. 1 in B minor (1)
 description: This is the description for Rhapsody Op. 79 No. 1 in B minor by Johannes Brahms
 composers: [Johannes Brahms]
 periods: [Romantic]

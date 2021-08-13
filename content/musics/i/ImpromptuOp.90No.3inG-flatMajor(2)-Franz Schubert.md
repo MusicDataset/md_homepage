@@ -1,5 +1,5 @@
 ---
-title: Franz Schubert - Impromptu Op. 90 No. 3 in G-flat Major (2)
+title: Impromptu Op. 90 No. 3 in G-flat Major (2)
 description: This is the description for Impromptu Op. 90 No. 3 in G-flat Major by Franz Schubert
 composers: [Franz Schubert]
 periods: [Romantic]

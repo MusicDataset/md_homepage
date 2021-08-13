@@ -1,5 +1,5 @@
 ---
-title: Ludwig van Beethoven - Sonata No. 23 Op. 57 in F Minor "Appassionata" I. Allegro assai (1)
+title: Sonata No. 23 Op. 57 in F Minor "Appassionata" I. Allegro assai (1)
 description: This is the description for Sonata No. 23 Op. 57 in F Minor "Appassionata" I. Allegro assai by Ludwig van Beethoven
 composers: [Ludwig van Beethoven]
 periods: [Classical]

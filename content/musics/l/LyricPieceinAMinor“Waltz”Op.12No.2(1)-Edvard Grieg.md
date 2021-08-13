@@ -1,5 +1,5 @@
 ---
-title: Edvard Grieg - Lyric Piece in A Minor “Waltz” Op. 12 No. 2 (1)
+title: Lyric Piece in A Minor “Waltz” Op. 12 No. 2 (1)
 description: This is the description for Lyric Piece in A Minor “Waltz” Op. 12 No. 2 by Edvard Grieg
 composers: [Edvard Grieg]
 periods: [Romantic]

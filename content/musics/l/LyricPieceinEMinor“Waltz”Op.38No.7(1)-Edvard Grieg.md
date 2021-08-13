@@ -1,5 +1,5 @@
 ---
-title: Edvard Grieg - Lyric Piece in E Minor “Waltz” Op. 38 No. 7 (1)
+title: Lyric Piece in E Minor “Waltz” Op. 38 No. 7 (1)
 description: This is the description for Lyric Piece in E Minor “Waltz” Op. 38 No. 7 by Edvard Grieg
 composers: [Edvard Grieg]
 periods: [Romantic]

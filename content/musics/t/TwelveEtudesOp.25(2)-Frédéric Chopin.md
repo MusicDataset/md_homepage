@@ -1,5 +1,5 @@
 ---
-title: Frédéric Chopin - Twelve Etudes Op. 25 (2)
+title: Twelve Etudes Op. 25 (2)
 description: This is the description for Twelve Etudes Op. 25 by Frédéric Chopin
 composers: [Frédéric Chopin]
 periods: [Romantic]

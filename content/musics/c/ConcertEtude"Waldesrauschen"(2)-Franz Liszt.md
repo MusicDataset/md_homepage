@@ -1,5 +1,5 @@
 ---
-title: Franz Liszt - Concert Etude "Waldesrauschen" (2)
+title: Concert Etude "Waldesrauschen" (2)
 description: This is the description for Concert Etude "Waldesrauschen" by Franz Liszt
 composers: [Franz Liszt]
 periods: [Romantic]

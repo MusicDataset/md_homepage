@@ -1,5 +1,5 @@
 ---
-title: Orlando Gibbons - Pavan (1)
+title: Pavan (1)
 description: This is the description for Pavan by Orlando Gibbons
 composers: [Orlando Gibbons]
 periods: [Baroque]

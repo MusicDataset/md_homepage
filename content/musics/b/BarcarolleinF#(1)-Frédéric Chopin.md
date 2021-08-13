@@ -1,5 +1,5 @@
 ---
-title: Frédéric Chopin - Barcarolle in F# (1)
+title: Barcarolle in F# (1)
 description: This is the description for Barcarolle in F# by Frédéric Chopin
 composers: [Frédéric Chopin]
 periods: [Romantic]

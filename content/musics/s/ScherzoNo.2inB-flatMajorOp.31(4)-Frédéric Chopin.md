@@ -1,5 +1,5 @@
 ---
-title: Frédéric Chopin - Scherzo No. 2 in B-flat Major Op. 31 (4)
+title: Scherzo No. 2 in B-flat Major Op. 31 (4)
 description: This is the description for Scherzo No. 2 in B-flat Major Op. 31 by Frédéric Chopin
 composers: [Frédéric Chopin]
 periods: [Romantic]

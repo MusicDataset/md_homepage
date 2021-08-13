@@ -1,5 +1,5 @@
 ---
-title: Mikhail Glinka _ Mily Balakirev - Lark (1)
+title: Lark (1)
 description: This is the description for Lark by Mikhail Glinka _ Mily Balakirev
 composers: [Mikhail Glinka _ Mily Balakirev]
 periods: [Romantic]

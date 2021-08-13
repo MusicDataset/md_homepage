@@ -1,5 +1,5 @@
 ---
-title: Franz Schubert - Sonata in G Major D. 896 (2)
+title: Sonata in G Major D. 896 (2)
 description: This is the description for Sonata in G Major D. 896 by Franz Schubert
 composers: [Franz Schubert]
 periods: [Romantic]

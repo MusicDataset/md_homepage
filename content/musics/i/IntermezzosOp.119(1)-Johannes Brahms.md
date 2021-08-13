@@ -1,5 +1,5 @@
 ---
-title: Johannes Brahms - Intermezzos Op. 119 (1)
+title: Intermezzos Op. 119 (1)
 description: This is the description for Intermezzos Op. 119 by Johannes Brahms
 composers: [Johannes Brahms]
 periods: [Romantic]

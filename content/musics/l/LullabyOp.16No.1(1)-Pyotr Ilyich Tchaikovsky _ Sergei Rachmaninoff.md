@@ -1,5 +1,5 @@
 ---
-title: Pyotr Ilyich Tchaikovsky _ Sergei Rachmaninoff - Lullaby Op. 16 No. 1 (1)
+title: Lullaby Op. 16 No. 1 (1)
 description: This is the description for Lullaby Op. 16 No. 1 by Pyotr Ilyich Tchaikovsky _ Sergei Rachmaninoff
 composers: [Pyotr Ilyich Tchaikovsky _ Sergei Rachmaninoff]
 periods: [Romantic]

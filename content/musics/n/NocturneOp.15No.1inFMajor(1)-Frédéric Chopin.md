@@ -1,5 +1,5 @@
 ---
-title: Frédéric Chopin - Nocturne Op. 15 No. 1 in F Major (1)
+title: Nocturne Op. 15 No. 1 in F Major (1)
 description: This is the description for Nocturne Op. 15 No. 1 in F Major by Frédéric Chopin
 composers: [Frédéric Chopin]
 periods: [Romantic]

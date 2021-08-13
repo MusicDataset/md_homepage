@@ -1,5 +1,5 @@
 ---
-title: Ludwig van Beethoven - Sonata Op. 54 in F Major (1)
+title: Sonata Op. 54 in F Major (1)
 description: This is the description for Sonata Op. 54 in F Major by Ludwig van Beethoven
 composers: [Ludwig van Beethoven]
 periods: [Classical]

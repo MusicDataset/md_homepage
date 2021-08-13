@@ -1,5 +1,5 @@
 ---
-title: Franz Schubert - Impromptu Op. 90 No. 3 in G-flat Major D899 (9)
+title: Impromptu Op. 90 No. 3 in G-flat Major D899 (9)
 description: This is the description for Impromptu Op. 90 No. 3 in G-flat Major D899 by Franz Schubert
 composers: [Franz Schubert]
 periods: [Romantic]

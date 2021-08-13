@@ -1,5 +1,5 @@
 ---
-title: Franz Schubert - Gretchen am Spinnrade (1)
+title: Gretchen am Spinnrade (1)
 description: This is the description for Gretchen am Spinnrade by Franz Schubert
 composers: [Franz Schubert]
 periods: [Romantic]

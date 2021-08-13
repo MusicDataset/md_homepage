@@ -1,5 +1,5 @@
 ---
-title: Johannes Brahms - Variations and Fugue on the Theme of Händel Op. 24 (1)
+title: Variations and Fugue on the Theme of Händel Op. 24 (1)
 description: This is the description for Variations and Fugue on the Theme of Händel Op. 24 by Johannes Brahms
 composers: [Johannes Brahms]
 periods: [Romantic]

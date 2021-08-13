@@ -1,5 +1,5 @@
 ---
-title: Ludwig van Beethoven - Sonata No. 3 in C Major Op. 2 No. 3 I. and II. (1)
+title: Sonata No. 3 in C Major Op. 2 No. 3 I. and II. (1)
 description: This is the description for Sonata No. 3 in C Major Op. 2 No. 3 I. and II. by Ludwig van Beethoven
 composers: [Ludwig van Beethoven]
 periods: [Classical]
