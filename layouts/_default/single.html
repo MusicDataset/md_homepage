@@ -1,4 +1,10 @@
 {{ define "main" }}
+<style>
+	a {
+		color: black;
+	}
+</style>
+
 <main id="main">
 
 	<div class="container">
@@ -14,12 +20,29 @@
 						</h1>
 					</header>
 					<div class="entry-content">
+						<div>
+							<h2>Periods</h2>
+							<li>
+								{{range .Params.Periods}}
+								<a href="/periods/{{. | urlize}}" class="navbar-default">{{ . }}</a>
+								{{end}}
+							</li>
+						</div>
+						<div>
+							<h2>Composers</h2>
+							<li>
+								{{range .Params.Composers}}
+								<a href="/composers/{{. | urlize}}">{{ . }}</a>
+								{{end}}
+							</li>
+						</div>
 						<p>
 							{{ if ne .Params.Wikipedia nil }}
 							<a href="{{ .Params.Wikipedia}}">Wikipedia Introduction</a>
 							{{ end }}
 						</p>
-						<p>
+						<div>
+							<h2>Music</h2>
 							{{ if ne .Params.audioURL nil }}
 							<midi-player
 								src="{{ .Params.audioURL }}"
@@ -30,12 +53,14 @@
 								type="waterfall" id="myVisualizer">
 							</midi-visualizer>
 							{{ end }}
-						</p>
-						<p>
+						</div>
+						<div>
+							<h2></h2>
+							<h2>Please help providing feedback! Thanks</h2>
 							<iframe
 								src="{{ .Params.formURL}}"
 								width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
-						</p>
+						</div>
 					</div>
 				</article><!-- #post-## -->
 			</div>

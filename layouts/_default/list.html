@@ -1,41 +1,84 @@
 {{ define "main" }}
-<main id="main">
+	<style>
+		a {
+			color: black;
+		}
+	</style>
+  <main id="main">
 
 	<div class="container">
-		<div class="row topspace">
-			<div class="col-sm-8 col-sm-offset-2">
-        {{ range .Paginator.Pages }}
-				<article class="post">
-					<header class="entry-header">
-						<div class="entry-meta">
-						</div>
-						<h1 class="entry-title">
-						  <a href="{{ .Permalink }}" rel="bookmark">{{ .Title }}</a>
-						</h1>
-					</header>
+		<div class="row section featured topspace">
+			<h2 class="section-title">
+				<span>{{ .Title }}</span>
+			</h2>
+		</div>
 
-					<div class="entry-content">
-						{{ if ne .Data.Term nil }}
-							<div class="row">
-								{{ range ($.Site.GetPage .Data.Term).Pages }}
-								<div class="col-sm-6 col-md-3">
-									<h3 class="text-center">{{ .Title }}</h3>
-									<p class="text-center"><a href="{{ .Permalink }}" class="btn btn-action">Read more</a></p>
-								</div>
-								{{ end }}
+		{{ $count := len .Pages}}
+		{{if le $count 8}}
+			{{ range .Paginator.Pages }}
+			<div class="row section featured topspace">
+				<h2 class="section-title">
+					<span><a href="{{ .Permalink }}" rel="bookmark">{{ .Title }}</a></span>
+				</h2>
+				{{ if ne .Data.Term nil }}
+					<div class="row">
+						{{ range ($.Site.GetPage .Data.Term).Pages }}
+							<div class="col-sm-6 col-md-3">
+								<h3 class="text-center"><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
 							</div>
 						{{ end }}
 					</div>
-				</article>
-        {{ end }}
+				{{ end }}
 			</div>
-		</div>
+			{{ end }}
+		{{ else }}
+			{{ $keys := dict}}
+			{{ $names := slice }}
+			{{ range .Pages }}
+				{{if eq .Params.taxonomy_indexes true}}
+					{{ $name := substr .Title 0 1}}
+					{{ $elements := index $keys $name }}
+					{{ if eq $elements nil}}
+						{{ $names = $names | append $name}}
+						{{ $elements = slice .}}
+						{{ $newKey := dict $name $elements}}
+						{{ $keys = merge $keys $newKey}}
+					{{ else }}
+						{{ $elements = $elements | append .}}
+						{{ $newKey := dict $name $elements}}
+						{{ $keys = merge $keys $newKey}}
+					{{ end }}
+				{{ else if ne .Params.composers nil}}
+					{{ $name := substr .Title 0 1}}
+					{{ $elements := index $keys $name }}
+					{{ if eq $elements nil}}
+						{{ $names = $names | append $name}}
+						{{ $elements = slice .}}
+						{{ $newKey := dict $name $elements}}
+						{{ $keys = merge $keys $newKey}}
+					{{ else }}
+						{{ $elements = $elements | append .}}
+						{{ $newKey := dict $name $elements}}
+						{{ $keys = merge $keys $newKey}}
+					{{ end }}
+				{{ end }}
+			{{ end }}
 
-		<center class="">
-			<ul class="pagination">
-        {{ template "_internal/pagination.html" . }}
-			</ul>
-		</center>
+			{{ range $key, $elements := $keys }}
+			<div class="row section featured topspace">
+				<h2 class="section-title">
+					<span>{{ $key }}</span>
+				</h2>
+				<div class="row">
+					{{ range $elem := $elements }}
+					<div class="col-sm-6 col-md-3">
+						<h3 class="text-center"><a href="{{ $elem.Permalink }}">{{ $elem.Title }}</a></h3>
+					</div>
+					{{ end }}
+				</div>
+			</div>
+			{{ end }}
+		{{ end }}
 	</div>	<!-- /container -->
 
 </main>

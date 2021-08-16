@@ -21,6 +21,7 @@ theme = "hugo-initio"
     favicon = "images/.png"
     DateForm = "August 3, 2021"
     author = "Irene Wang"
+    SectionElementCount = 7
 
     showSubheader = true
     showServices = true
@@ -40,7 +41,7 @@ theme = "hugo-initio"
 [[menu.main]]
     name = "musics"
     url = "/musics/"
-    weight = 2
+    weight = 4
 [[menu.main]]
     name = "periods"
     url = "/periods/"
@@ -48,7 +49,7 @@ theme = "hugo-initio"
 [[menu.main]]
     name = "composers"
     url = "/composers/"
-    weight = 4
+    weight = 2
 
 #[params.disqus]
     #site = "https-MusicDataset-github-io.disqus.com"
